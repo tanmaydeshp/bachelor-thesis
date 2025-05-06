@@ -1,490 +1,488 @@
-	__label__eng_Latn	__label__sin_Sinh	Similarity score
-4500	Mirror pages along vertical axis	කැඩපත පිටුව සිරස් අක්‍ෂය දිගේ	0.2667027593658516
-2566	Import bookmarks from a file in Netscape (4. x and earlier) format	Netscape (4. x හෝ පෙර) හැඩසවිය ඇති ගොනුවකින් පිටු සලකුණු ආයාත කරන්න	0.2635856005460318
-2781	High Surrogates	අධි ප්‍රතිනිහිත	0.25855281778875455
-3792	Use window class (whole application)	කවුළු කණ්ඩායම භාවිත කරන්න (මුළු භාවිත යෙදවුම)	0.258304536852048
-177	Configure general Konqueror behavior	සාමාන්‍ය Konqueror හැසිරීම සකසන්නName	0.25557178801868935
-655	Change the niceness of a given process	දෙනලද සැකසුමේ සුමටතාව වෙනස් කරන්නName	0.25185520743646794
-1642	Show a box with KDE places (Home, Network,...). Useful if you use konqueror as a file manager.	KDE ස්ථාන සහිත කොටුවක් පෙන්වයි (නිවෙස, ජාලය,...). ඔබ ගොනු පාලකය ලෙසe konqueror භාවිත කරයි නම් මෙය ප්‍රයෝජනවත් වේ.	0.25169108634258186
-4090	Has State	තත්වයක් ඇත	0.2514810875218379
-1426	The theme description goes here...	තේමාවේ විස්තරය මෙහි දැක්වේ... NAME OF TRANSLATORS	0.24828652037728802
-383	Sound Policy Server	ශ්‍රව්‍ය ප්‍රතිපත්ති ධාරකයComment	0.2482456368525446
-2008	Match whole window class	මුළු කවුළු පංතිය සඳහා ගලපන්න (h)	0.24512127969481812
-2968	kio_finger Perl script not found.	kio_ finger Perl ස්ක්‍රිප්ටය සොයාගත නොහැක.	0.24442785109205092
-1304	Shell script:	ශෙල් ස්ක්‍රිප්ටය:	0.24332359709489673
-2440	Click here to choose an image that KDM will display. You can also drag and drop an image onto this button (e. g. from Konqueror).	KDM දර්ශනය සඳහා පිංතූරයක් තෝරන්න. ඔබට පිංතූරයක් මෙම බොත්තම මතට ඇද දැමීමට ද හැකියාව ඇත. (උදා: Konqueror වෙතින්)	0.24227631173326522
-2201	Mass storage controller	අධි ගබඩා පාලකය	0.24225909312528657
-745	Search and Launch Containment	සෙවුම් හා ආරම්භක ධාරකයComment	0.24179624567388586
-331	French Guiana	ප්‍රංශ පොලිනීසියාවName	0.24168588512480535
-2318	Check this option if you want to view the events when connections to your computer were closed.	ඔබේ පරිගණකයට ඇති සම්බන්ධතා වසා දැමු අවස්ථා සඳහා මෙම විකල්පය තෝරන්න	0.24033053569297755
-1835	Enable Java globally	ගෝලීයව ජාවා සක්‍රීය කරන්න (v)	0.24031450072203214
-3867	Moving windows:	ගමන්කරන කවුළු:	0.24006070628305823
-3971	Suspending the indexing of files to preserve resources.	සම්පත් රැකීමට ගොනු සූචිගත කිරීම නැවතිනි.	0.24004699910674104
-219	Configure service discovery	සේවා අනාවරණය සැකසීමName	0.23905158726803083
-1722	The browser identification text sent to the sites you visit. You can customize it using the options provided below.	ඔබ පිවිසෙන අඩවි වලට ඔබේ ගවේශක අනන්‍යතා පෙලක් යැවේ. පහත දී ඇති අභිප්‍රේත භාවිත කර එය රුචිකරණය කරන්න.	0.23900675850791891
-1930	Use default stylesheet Select this option to use the default stylesheet.	පෙරනිමි රටා පත්‍ර භාවිත කරන්න පෙරනිමි රටා පත්‍ර භාවිතය සඳහා මෙම විකල්පය තෝරන්න.	0.2381634194244396
-3686	Keep Window on All Desktops	කවුළුව සෑම වැඩතලයක තබා ගන්න	0.2381634194244396
-4550	"The name of the widget style, for example ""keramik"" or ""plastik"". Without quotes."	"මෙවලම් රටාවේ නම, උදාහරණයක් ලෙස ""keramik"" හෝ ""plastik"". උදෘත රහිතව."	0.23787095626645852
-1390	The new window manager will be used when KDE is started the next time.	ඊලඟ වතාවේ KDE ආරම්භ වනවිට නව කවුළු පරිපාලකය භාවිත වනු ඇත.	0.23760616840532944
-927	By Size	ප්‍රමාණයෙන්@ item: inlistbox Sort	0.237401955893456
-3946	Index the files on removable media like USB sticks when they are mounted	USB වැනි ඉවත්කල හැකි මාධ්‍ය රැඳවූ විට ඒවායේ ගොනු සූචිගත කරන්න	0.23720974414892254
-291	Style that uses the Windows XP style engine	Windows XP රටා එන්ජිම යොදාගන්නා රටාවක්Name	0.23703042640384858
-1489	Cordless TrackMan Wheel	රැහැන් රහිත ට්‍රැක්මෑන් රෝදය	0.23702461359945562
-2520	Root logins are not allowed.	රූට් පිවිසීම් සඳහා අවසර නොමැත.	0.23672378028184443
-2853	Gesture trigger	හැසිරීම් ක්‍රියාකරවනය	0.23605562892330895
-695	Information and launching of all applications in the app menu.	යෙදුම් මෙනුවේ ඇති සියළු යෙදුම් ආරම්භ කිරීමේ තොරතුරුComment	0.2359744928001957
-2402	Unable to Load Dialog	සංවාදය පූරණය කල නොහැකි විය	0.23577356363407997
-940	Move operation completed.	සටහන් පෙන්වන්න@ label	0.23553105827141305
-925	Show selection marker	තෝරාගැනීම් සලකුණුකරනය පෙන්වන්නoption: check	0.23546557365765228
-3107	Sub menu to pre-select	පෙර- තේරීමට උප මෙනුව	0.23535356352742795
-3771	Regular Expression syntax is incorrect	සාමාන්‍ය ප්‍රකාශන යෙදුම නිවැරදි නොවේ	0.2352962870016316
-3467	Animate progress bars	සජීවිකරණය කළ ප්‍රගති දර්ශක	0.2352656322548737
-1315	Selecting another scheme will discard any changes you have made	වෙනත් වර්ණ තේමාවක් තෝරාගැනීම ඔබ දැනට කල වෙනස්කම් අවලංගු කරයි.	0.23504566490346532
-3469	The file %1 does not contain valid XML.	% 1 ගොනුච සතුව වලංගු XML නොපවතී.	0.2344627865256982
-3811	Overwrite default title bar colors:	සක්‍රීය කවුළු දිලිසුම	0.23439466165291825
-2214	Serial ATA direct port access	සීරියල් ATA ඍජු පෝර්ට් පිවිසුම	0.2339940475813144
-582	Display window thumbnails when hovering over taskbar entries	ක්‍රියා තීරු ඇතුළත්කිරීම් වලට ඉහළින් හැසිරෙන විට කවුළු කුඩා රූ පෙන්වන්නName	0.23398897013798248
-3526	This determines the size of the font used to print a label underneath the bars. Bars are automatically suppressed if text becomes too large, so it is advisable to use a small font size here.	තීරු යට මුද්‍රණය කරන ලේබයට භාවිත කරන අකුරු මෙහිදී නිවේශනය කරයි. පෙළ බොහෝ විශාල නම් තීරු ස්වයංක්‍රීයව වැළකේ. එම නිසා කුඩා අකුරු භාවිත කිරීම නිර්දේශිතයි.	0.23398896033604571
-3932	Strigi service failed to initialize, most likely due to an installation problem.	Strigi සේවාව ආරම්භ කිරීම අසාර්ථකයි. බොහෝවිට ස්ථාපන ගැටළුවක් විය හැක. @ info: status	0.23393673872931195
-3192	Add Bookmark	සලකුණු කරන්න	0.23384196009031824
-3892	The Editing Commands	සැකසුම් විධාන	0.23280655660536131
-1366	Selection Neutral Text against Selection Normal Background	සාමාන්‍ය පසුබිම තේරීමට එරෙහිව ස්වභාවික පෙළ තේරීම	0.23280455116609272
-3214	AutoCompletion for forms	පෝරම සඳහා ස්වයංක්‍රීය නිමාවTitle of an html 'group box' explaining konqueror features	0.23280402434584108
-1501	The threshold is the smallest distance that the mouse pointer must move on the screen before acceleration has any effect. If the movement is smaller than the threshold, the mouse pointer moves as if the acceleration was set to 1X; thus, when you make small movements with the physical device, there is no acceleration at all, giving you a greater degree of control over the mouse pointer. With larger movements of the physical device, you can move the mouse pointer rapidly to different areas on the screen.	පර්යන්තය යනු ත්වරණය බලපෑමට පෙර මවුස ලක්‍ෂය ගමන්කල යුතු කුඩා දුරයි. සෙලවීම පර්යන්තයට වඩා කුඩානම්. මවුස ලක්‍ෂය 1X ත්වරණයක් සැකසූ විට මෙන් ගමන් කරයි; එම නිසා, ඔබ භෞතික උපකරණයෙන් කුඩා සෙලවුමක් සිදුකිරීම ත්වරණයක් සිදු නොකරයි එය වඩා හොඳ මවුස ලක්‍ෂක පාලනයක් ඔබට ලබාදේ, එමෙන්ම විශාල සෙලවුමකදී ඔබට ඉක්මනින් මවුස ලක්‍ෂය තිරයේ විවිධ ස්ථානවලට ගෙනයා හැක.	0.23274948563724665
-744	An activity that puts widgets on two columns	විජෙට්ටු තීරු දෙකකට දමන ක්‍රියාවක්Name	0.23114335961185745
-3537	Check this to activate the vertical lines if display is large enough.	දර්ශකය ප්‍රමාණවත් නම් සිරස් රේඛා සක්‍රීය කිරීමට මෙය සලකුණු කරන්න.	0.23092637099607588
-4160	The geometry of the screen	තිරයේ ජ්‍යාමිතිය	0.23070152379649733
-4571	Whether files starting with a dot (convention for hidden files) should be shown	තිතකින් පටන්ගන්නා ගොනු (සැඟවුණු ගොනු සඳහා සම්ප්‍රදාය) පෙන්විය යුතුද යන්න	0.2301023236880112
-2508	Unknown host %1	% 1 නොදන්නා ධාරකයක් @ item: inlistbox session type	0.22964511538603707
-3995	By Size	ප්‍රමාණයෙන්Sort icons	0.22954503651307376
-3622	KDE has requested to open the wallet '%1'. Please enter the password for this wallet below.	KDE විසින් '% 1' පසුම්බිය විවෘත කිරීමට ඉල්ලයි. කරුණාකය මෙම පසුම්භිය සඳහා මුරපදය ඇතුළත් කරන්න.	0.22886610074427097
-258	KDE is starting up	KDE අරඹමින්Name	0.22866780008403687
-1960	Select the window decoration. This is the look and feel of both the window borders and the window handle.	කවුළු සැරසීම තෝරාගන්න, මෙය කවුළු දාර හා අල්ලුව යන දෙකෙහිම පෙනුම දක්වයී.	0.22857603250936437
-2219	Computer telephony device	පරිගණක දුරකථන උපකරණ	0.22830061757135858
-1095	Search Finished. No reports found.	සෙවීම අවසානයි, කිසිඳු වාර්ථාවක් හමු නොවිනි. @ info: status	0.22815414453369173
-1995	WId of the window for special window settings.	විශේෂිත කවුළු සැකසුම් සඳහා Wld	0.22805429740146368
-343	Syria	සිරියාවName	0.22803305272128388
-792	Has State	තත්වයක් ඇතGenericName	0.2279868737946282
-828	Removing files from SVN repository...	SVN කෝෂ්ටාගාරයෙන් ගොනු ඉවත් කරමින්... @ info: status	0.2275762068016573
-1969	Oversized	අධිප්‍රමාණිත	0.22755987377886638
-4868	Configure Shortcuts	කෙටි මං සකසන්න	0.2275524991073932
-3169	Location Bar	පිහිටුම තීරුව	0.22730992889474855
-877	Text completion mode of the URL Navigator	URL නියමුවේ පෙළ සම්පූරක ප්‍රකාරය	0.226458821810689
-2667	Remove from current group.	වත්මන් සමූහයෙන් ඉවත් කරන්න	0.22627406278618464
-2641	File containing list of fonts to print	මුද්‍රණය සඳහා අකුරු ලැයිස්තුව ඇති ගොනුව	0.2262153498802504
-2123	Stack depth limits	ගොඩක ගැඹුරු සීමාව	0.22604394273962072
-4316	p, li {white-space: pre-wrap;} The standard time-sharing scheduler for processes without special requirements.	p, li {white- space: pre- wrap;} විශේෂ අවශ්‍යතාවලින් තොර සම්මත කාල- හවුල් කාර්‍ය සටහන.	0.2258355688241513
-3335	Upside-Down (180 degrees)	උඩ- පහළට (අංශක 180)	0.2257505805039899
-4055	The player '%1 'cannot perform the action'next'.	'% 1' ධාවකයට 'ඊලඟ' ක්‍රියාව ඉටුකළ නොහැක.	0.22553271383175116
-4691	non-recoverable failure in name resolution	නාම විසදීමේදි (name resolution) යතාතත්වයට පත් කළ නොහැකි බිදවැටුමක්	0.22540900177742557
-3464	Colorful hovered scrollbars	වර්ණවත් ස්ක්‍රෝල් තීරුව	0.2253017364477285
-284	Built-in enhanced Motif style	තිළැලි වැඩිදියුණු කල Motif රටාවName	0.22520990875584093
-1034	Save login information using the KDE Wallet system	KDE පසුම්බි පද්ධතිය භාවිත කරමින් පිවිසුම් තොරතුරු සුරකින්න@ label	0.22491064513590123
-1228	"Do you really want to deactivate ""%1""?"	"ඔබට ඇත්තෙන්ම ""% 1"" අක්‍රීය කිරීමට අවශ්‍යද?"	0.2248450854333054
-2348	Configure Widgets...	විජෙට්ටු සකසන්න...	0.22482935656345945
-1543	Unable to download the cursor theme archive; please check that the address %1 is correct.	කර්සර තේමාව බාගත නොහැකි විය; කරුණාකත% 1 ලිපිනය නිවැරදි දැයි බලන්න.	0.22470497937294287
-1175	Could not get number of axes for joystick device %1: %2	% 1:% 2 ජෝයිස්ටික උපකරණ සඳහා වන අක්‍ෂ ගණන හඳුනාගත නොහැක.	0.2245034747806784
-2527	Warning: Caps Lock is on	අවවාදයයි: කැප්ස් යතුර සක්‍රීයයි	0.2243028363684605
-1526	You have a Logitech Mouse connected, and libusb was found at compile time, but it was not possible to access this mouse. This is probably caused by a permissions problem - you should consult the manual on how to fix this.	ඔබ Logitech මවුසයක් සම්බන්ධ කර ඇත, එමෙන්ම එහි සම්පාදන කාලයේදී libusb හමුවිය, නමුත් මවුසයවෙත පිවිසිය නොහැක. මෙය බොහෝවිට බලතල ගැටළුවක් නිසා විය හැක. ඔබ මෙය විසඳීම සඳහා අත්පොත වෙත යොමු වීමට සිදුවේ. NAME OF TRANSLATORS	0.224112977663369
-955	widgets that you were running	ඔබ ධාවනය කරමින් සිටි විජෙට්ටු@ info/ rich crash situation example	0.22403125139434324
-3336	Mirror Horizontally	තිරස් දර්පනය කිරීම්	0.22387439076442786
-3152	Do you really want to close all other tabs?	ඔබට අනෙකුත් සියලු ටැබ වැසීමට අවශ්‍ය ද?	0.22373658234562507
-2732	"Please specify ""%1"" or ""%2""."	"කරුණාකර ""% 1"" හෝ ""% 2"" දක්වන්න."	0.22309191632275518
-787	Hardware Integration Configuration with Solid	දෘඩ සමඟ දෘඩාංග ඇතුලත් කීරීමName	0.22297367683767444
-2776	CJK Symbols and Punctuation	CJK සංකේත හා විරාම ලකුණු	0.22261409530430704
-770	Battery at critical level	බැටරිය දරුණු ලෙස පහළ මට්ටමක පවතීComment	0.22231079403344922
-2952	Unable to download from an invalid URL.	වලංගු නොවන URL ලිපිනයකින් බාගැනීම අසාර්ථකයි	0.22228651172791983
-268	A style that works well with high contrast color schemes	අධි දීප්ති වෙනස සහිත වර්ණ තේමා සමඟ හොඳින් ක්‍රියා කරන රටාවක්Comment	0.22207417873130214
-4294	Number of Read/ Write operations	කියවීම්/ ලිවීම් මෙහෙයුම් ගණන	0.22198950947941645
-1129	Ask whether to save to disk instead (only for Konqueror browser)	ඇතුළත් කළ තැටියට සුරකින්න දැයි අසන්න	0.2219280623054594
-4716	Limits the number of colors allocated in the color cube on an 8-bit display, if the application is using the QApplication: :ManyColor color specification	8- bit දර්ශකයක වර්ණ ඝනකයට පවරා ඇති වර්ණ සංඛ්‍යාව සීමා කරයි,	0.22162809053206947
-4367	Init is the parent of all other processes and cannot be killed.	Init යනු වෙනත් සියළු සැකසුම් වල මූලය වන අතර වසා දැමිය නොහැක.	0.22131918549825685
-141	Audio Recorder	ශ්‍රව්‍ය පටිගත කිරීම්Name	0.22123660320624874
-2468	Unable to create folder %1	% 1 බහාළුම සැකසිය නොහැකි විය	0.22118583346990323
-2694	Create a new group	නව සමූහයක් නිර්මාණය කරන්න	0.22115797758538455
-1107	Already reported	දැනටමත් වාර්ථාකර ඇත@ info bug resolution	0.22079588859382995
-1854	Enables the reporting of errors that occur when JavaScript code is executed.	ජාවා ස්ක්‍රිප්ට කේතය ක්‍රියාත්මක වනවිට පැණනගින වැරදි වාර්ථා කිරීමට සක්‍රීය කරන්න.	0.2205900238235579
-630	A Window is restored	කවුළුව ප්‍රථිස්ථාපිතයිName	0.2205874765152321
-576	Slide windows across the screen when switching virtual desktops	අතත්‍ය වැඩතල මාරුවීමේදී කවුළු තිරය හරහා ලිස්සා යන්නName	0.22057489167803074
-3406	Usually the screen saver is suspended when display power saving kicks in, as nothing can be seen on the screen anyway, obviously. However, some screen savers actually perform useful computations, so it is not desirable to suspend them.	සාමාන්‍යයෙන් තිරසුරැකුම, දර්ශකයේ බල සුරැකුම ආරම්භයේ දී අත්හිටුවේ, තිරයේ කිසිවක් දැකිය නොහැකි බැවින්, ඇත්තෙන්ම. කෙසේවුවත්, ඇතැම් තිරසුරැකුම් ප්‍රයෝජනවත් ගණනය කිරීම් සිදු කරයි, එම නිසා ඒවා අත්හිටුවීම සුදුසු නොවේ.	0.22044070175021968
-1078	Manually enter a bug report ID	වැරදි වාර්ථා අංකය ශ්‍රමිකව ඇතුළත් කරන්න@ action: button	0.2204264612966723
-949	Bug Reporting Assistant Guide	වැරදි වාර්ථාකරණ සහායක පියවර නියමුව@ info/ rich	0.2202837939238327
-4227	When laptop lid closed	ලැප්ටොප් තිරය වැසූ විට	0.22019549721814227
-687	A simple web browser	සරල වෙබ් ගවේශකයක්Comment	0.21992801358429176
-2398	High display resolution and High CPU	වැඩි දෘශ්‍ය විභේදනය හා වැඩි CPU	0.21982951530913747
-2856	Active window:	සක්‍රීය කවුළුව:	0.21929309933087648
-4288	Kilobytes per second	තත්පරයට කිලෝබයිට්	0.21896836075653286
-495	After pressing Win+E (Tux+E) a WWW browser will be launched, and it will open http: / /www. kde. org. You may run all kind of commands you can run in minicli (Alt+F2).	Win+E (Tux+E) යතුරු එබූ විට http: // www. kde. org විවෘත කරමින් WWW ගවේශකයක් ආරම්භ වේ. මෙහිදී minicli (Alt+F2) හීදී ක්‍රියාකරවිය හැකි සියළුම විධාන ක්‍රියාකරවිය හැක. Name	0.21894495440931794
-1601	Cookies Cookies contain information that Konqueror (or other KDE applications using the HTTP protocol) stores on your computer, initiated by a remote Internet server. This means that a web server can store information about you and your browsing activities on your machine for later use. You might consider this an invasion of privacy. However, cookies are useful in certain situations. For example, they are often used by Internet shops, so you can'put things into a shopping basket '. Some sites require you have a browser that supports cookies. Because most people want a compromise between privacy and the benefits cookies offer, KDE offers you the ability to customize the way it handles cookies. So you might want to set KDE's default policy to ask you whenever a server wants to set a cookie, allowing you to decide. For your favorite shopping web sites that you trust, you might want to set the policy to accept, then you can access the web sites without being prompted every time KDE receives a cookie.	කුකී කුකී Konqueror (හෝ වෙනත් HTTP නාමාවලිය භාවිත කරන KDE භාවිත යෙදවුම් වල) දුරස්ථ අන්තර්ජාල සංග්‍රහකයකින් එවන තොරතුරු රඳවා ගනී. එනම් වෙබ් සංග්‍රාහකයට පසුව ප්‍රයෝජනයට ගැනීම සඳහා ඔබ සහ ඔබේ ගවේශන ක්‍රියාවන් ගබඩා කර ගත හැකි බවයි. ඔබ ඇතැම් විට පුද්ගලිකත්වයට බාධාවක් ලෙස සැලකිය හැකy. කෙසේ වුවත් ඇතැම් අවස්ථා වලදී කුකී ඉතා වැදගත් වේ, උදාහරණයක් ලෙස, ඒවා මාර්‍ගගත වෙලඳසැල් මගින් නිතර භාවිතයට ගන්නා අතර ඒවායේදී ඔබේ 'සාප්පු සවාරි බඳුනට ද්‍රව්‍ය එක් කල හැක'. ඇතැම් අඩවි සඳහා කුකී සහාය දක්වන ගවේශකයක් ඇවැසි වේ බොහෝ පුද්ගලයන්ට පුද්ගලිකත්වය ගැන සැලකිලිමත් වන අතරම කුකී වල වාසිද ලබාගැනීම උදෙසා KDE විසින් කුකී හසුරවන ආකාරය රුචිකරණය කිරීමට ඉඩදෙයි. එම නිසා ඔබට සංග්‍රහක කුකියක් සාදන විට ඔබෙන් විමසීමට KDE හි පෙරනිමි ප්‍රතිපත්තිය සැකසීමට හැක. ඔබ විශ්වාස කරන වෙලඳ සැල් අඩවි සඳහා ඔබට ප්‍රතිපත්තිය සැමවිටම පිළිගැනීමට සැකසිය හැක, එමගින් ඔබට KDE විසින් කුකී ලබාගැනීමට කරන විමසීම් වලින් තොරව එම අඩවි ප්‍රවේශ කල හැක.	0.21869600209699724
-455	A Windows 95 look-alike derivative of FVWM	Windows 95 මෙන් පෙනෙන FVWM ගෙන් සැදුමක්Name	0.21864038344717454
-1208	The Hyper key has been locked and is now active for all of the following keypresses.	Hyper යතුර අඟුලු දමා ඇති අතර එය පහත සියළු යතුරු එබිම් සඳහා සක්‍රීය වේ.	0.2183485987729464
-4579	Path to the autostart directory	ස්වංක්‍රීය ආරම්භක බහලුමට මාර්‍ගය	0.2181620195724785
-863	Location	පිහිටුම:	0.21813867813672305
-3554	Rows:	පේළි:	0.21800010848429804
-4840	Pressing this button will discard all recent changes made in this dialog.	මෙම බොත්තම එබීම මෙම සංවාදයේ මෑත කාලීනව සිදු කළ සියළු වෙනස්කම් අහෝසි කරයි	0.2179815795776063
-3090	Replay action in history	ඉතිහාසයේ ක්‍රියාවක් නැවත ක්‍රියාත්මක කරන්නNAME OF TRANSLATORS	0.2178006792345478
-4835	Could not make you a fan.	තාවකාලීක ගොනුව නිර්මාණය කළ නොහැකි විය.	0.21774256936121883
-2875	The PCI subsystem could not be queried, this may need root privileges.	PCI අනු පද්ධතිය විමසිය නොහැක. මෙයට රූට් බලතල ඇවැසි විය හැක.	0.21773302753416504
-1301	Show a confirmation dialog whenever a keyboard accessibility feature is turned on or off	යතුරු පුවරු පිවිසුම් සහායකයක් සක්‍රීය හෝ අක්‍රීය කල සැමවිටම තහවුරු කිරීමේ සංවාදයක් දක්වන්න	0.21772618760010215
-4545	Speak Event Message	වැඩසටහන් පණිවිඩය පවසන්න	0.21770554580913365
-2259	USB Device	USB මෙවලම	0.217393348812996
-1711	Remove all proxy exception addresses from the list.	ලැයිස්තුවෙන් සියළු ප්‍රොක්සි මඟහැරීම් ලිපින ඉවත් කරන්න.	0.2173780786927628
-3466	Highlight scroll bar handles	සක්‍රෝල් බාරයේ හසුරුම උද්දීපනය කරන්න	0.2173631626038339
-2627	The date is not valid.	දිනය වලංගු නොවේ	0.21735518603109616
-3938	Please insert the removable medium %1 to access this file.	මෙම ගොනුවට ඇතුළුවීම සඳහා% 1 ඉවත්කල හැකි මාධ්‍ය ඇතුළු කරන්න.	0.21724310109345518
-1455	Enter the path to your htmerge program here, e. g. / usr/ local/ bin/ htmerge	ඔබේ htmerge වැඩසටහනේ මාර්‍ගය ඇතුළත් කරන්න උදා, e. g. / usr/ local/ bin/ htmerge	0.21722801561451824
-1665	Host [Set By]	ධාරකය [විසින් සැකසූ]	0.21720848928956593
-45	Previous:	මීට පෙර (P)	0.2170528593367603
-525	The screen saver has been started	තිරසුරැකුම ආරම්භ කරන ලදීName	0.21678775469199132
-2423	Turn on the auto-login feature. This applies only to KDM's graphical login. Think twice before enabling this!	ස්වයංක්‍රීය පිවිසුම් විශේෂාං සක්‍රීය කරන්න. මෙය අදාල වන්නේ KDM හී චිත්‍රණ පිවිසුමට පමණයි. මෙය සක්‍රීය කිරීමට පෙර දෙවරක් සිතන්න!.	0.21660537427696264
-4446	Message Received	පණිවිඩය ලැබුනාComment	0.21653775441041986
-3699	Switch to Desktop 18	18 වන වැඩතලයට මාරුවන්න	0.2164499597816057
-2866	D-Bus Call Failed	D- Bus ඇමතුම අසාර්ථකයි	0.21640164265075748
-4810	Downloads: %1	බාගැනීම්:% 1	0.21639609590314113
-2682	%1 is a bitmap font, and these have been disabled on your system.	% 1 බිට්මැප් අකුරකි, මේවා ඔබේ පද්ධතියේ අක්‍රීය කර ඇත	0.21638744955236278
-199	Basic link to file or directory...	ගොනුව හෝ බහාළුමට මූලික ඈඳුතුවComment	0.21633773426687977
-3899	Highlighting for Ferite	Ferite සඳහා උපුටීම	0.21628991372729114
-3717	kwin: unable to claim manager selection, another wm running? (try using --replace)	kwin: පාලක තෝරාගැනීම ලබාගත නොහැකි විය, වෙනත් wm ක්‍රියාකරයිද? (-- replace උත්සාහ කරන්න)	0.21624486603141502
-2018	Workarounds	වැඩවාර (o)	0.21619740459809106
-1299	Timeout:	කල් ඉකුත්වීම:	0.21604906904785845
-821	Updated SVN repository.	SVN කෝෂ්ටාගාරය යාවත්කාලීනයි. @ label	0.21603002463535806
-4336	- Process is doing some work.	- සැකසුම යම් කාර්‍යයක් සිදු කරයි.	0.21589222451330783
-689	The menu that normally shows on right-click	දකුණු- ක්ලික් කිරීමට සාමාන්‍යයෙන් ලැබෙන මෙනුවName	0.21588035789401724
-2194	Optimum asynchronous request size	ප්‍රශස්ත අසම්මුහුර්ත ඉල්ලීම් ප්‍රමාණය	0.21579404385938727
-740	Controls for the active window	සක්‍රීය කවුළුව සඳහා පාලකName	0.21569541210764331
-4300	You do not have sufficient privileges to change the IO scheduler and priority. Aborting.	ඔබට IO කාර්යය සටහන් හා ප්‍රමුඛතාව වෙනස් කිරීමට ප්‍රමාණවත් බලතල නොමැත. පිටවෙමින්.	0.21565925637608682
-4155	Clearing Late	පැහැදිලි වීමට ප්‍රමාදයිweather forecast	0.21558978745000812
-2157	Secondary latency timer	ද්වීතීයක ප්‍රමාද වේලා තැබීම	0.2155405949605189
-2024	Specify how the window property should be affected: Do Not Affect: The window property will not be affected and therefore the default handling for it will be used. Specifying this will block more generic window settings from taking effect. Force: The window property will be always forced to the given value. Force temporarily: The window property will be forced to the given value until it is hidden (this action will be deleted after the window is hidden).	කවුළු වත්කම් බලපැවැත්විය යුතු ආකාරය ඇතුළත් කරන්න: බල නොපවත්වන්න: කවුළු වත්කම් බල නොපාන අතර එම නිසා ඒ සඳහා පෙරනිමි හැසිරවීම් භාවිත වේ මෙය සඳහන් කිරීමෙ බොහෝ සාමාන්‍ය කවුළු සැකසුම් බලපැවැත්වීම වලකාලයි. බලයෙන්: කවුළු වත්කම සඳහා සැමවිටම දෙනලද අගය යෙදීමට බල කරයි. තාවකාලිකව බල කරන්න: සඟවන තෙක් කවුළු වත්කම සඳහා දෙනලද අගයන් යෙදීමට බල කරයි (කවුළුව සැඟවුනු පසු මෙම ක්‍රියාව මකාදැමේ).	0.21545739843625863
-3445	A string matching the window class (WM_CLASS property) The window class can be found out by running'xprop _BAR_ grep WM_CLASS 'and clicking on a window (use either both parts separated by a space or only the right part). NOTE: If you specify neither window title nor window class, then the very first window to appear will be taken; omitting both options is NOT recommended.	(WM_ CLASS property) කාණ්ඩයට ගැලපෙන පෙල 'xprop _BAR_ grep WM_ CLASS' ක්‍රියාත්මක කිරීමෙන් හා කවුළුව මත ක්ලික් කිරීමෙන් සොයාගත හැක (දෙපසම හිස් ඉඩකින් වෙන්කර හෝ දකුණුපස පමණක් භාවිත කරන්න). සලකන්න: කවුළු මාතෘකාව හෝ කවුළු කාණ්ඩය ලබාදී නොමැති නම්, ප්‍රථමයෙන් පෙනෙන කවුළුව ගනු ලැබේ; විකල්ප දෙකම මඟහැරීම නිර්දේශ නොකෙරේ.	0.21536829188057177
-3900	Highlighting for ILERPG	ILERPG සඳහා උපුටීම	0.21532499076522152
-1262	Press %1 while CapsLock and ScrollLock are active	CapsLock හා ScrollLock සක්‍රීය විට% 1 ඔබන්න	0.21517972685680506
-3307	Warning:	අවවාදය:	0.21515165148511503
-4544	"Specifies how KTTS should speak the event when received. If you select ""Speak custom text"", enter the text in the box. You may use the following substitution strings in the text: %e Name of the event %a Application that sent the event %m The message sent by the application"	"ලැබුනු විට වැඩසටහනේ කථා කළ යුතු ආකාරය ගැන KTTS විශේෂණය කරයි. ඔබ ""රිසි පෙළ කථා කරන්න"" තේරුවහොත්, කොටුවේ පෙළ ඇතුල් කරන්න. පෙළෙහි පහත ආදේශ පෙළ භාවිතා කිරීමට ඔබට හැක:% e වැඩසටහනේ නම% a වැඩසටහන යැවූ වැඩසටහන% m වැඩසටහනෙන් යැවූ පණිවිඩය"	0.21514693718124694
-1349	Disabled intensity effect amount	අක්‍රීය කල තීව්රතා සහිත සැරසිලි ප්‍රමාණය	0.21495916147376884
-435	Standard Keyboard Shortcuts	සම්මත යතුරුපුවරු කෙටිමංComment	0.2145856071297269
-1101	Use this button to retry loading the bug report.	තෝරාගත් වැරදි වාර්ථාව පිළිබඳ තොරතුරු දැක්වීම සඳහා මෙම බොත්තම භාවිත කරන්න@ action: button	0.21455842532456762
-4847	Close the current window or document	දැනට ඇති කවුළයව හෝ ප්‍රලේඛනය වසන්න	0.21450298622412095
-4144	Chance Snow Showers	අහම්බෙන් හිම වැහිපොදweather forecast	0.21431472241193875
-480	The Cholesterol Free Desktop Environment. A desktop environment reminiscent of CDE	කොලෙස්ටරෝල් නිදහස් වැඩතල පාරිසරිකය, නැවත මතක් කරවන CDE වැඩතල පාරිසරික. Name	0.2142863957560264
-1764	This folder will be used by default to load or save music from or to.	මෙම බහාලුම, ගීත ගබඩා කිරීමට හා පූර්ණයට පෙරනිමිය ලෙස භාවිත කරනු ඇත	0.21420055276543393
-1769	Confirmation Required	තහවුරු කිරීමක් අවශ්‍යයි	0.21399879890901133
-2278	Always try to have at least one preloaded instance	සැමවිටම අවම වශයෙන් එක් පෙරපූර්‍ණිත අවස්ථාවක්වත් තබාගන්න	0.213906010208904
-2777	Enclosed CJK Letters and Months	වැසූ CJK අකුරු හා මාස	0.2138273319052134
-1675	Treat & all cookies as session cookies	සෑම කුකීයක්ම වාර කුකියක් ලෙස සලකන්න (a)	0.2136830491320329
-1442	Used by the window titlebar.	කවුළු මාතෘකා තීරුව විසින් භාවිත කරයි.	0.21362075542076342
-2873	Could not find any programs with which to query your system's PCI information	ඔබේ පද්ධතියේ PCI තොරතුරු විමසන කිසිඳු වැඩසටහනක් සොයාගත නොහැක	0.21356485677291737
-2809	You have enabled a previously disabled option. Would you like the config files updated now? (Normally they are only updated upon installing, or removing, a font.)	අභ්‍යන්තර අකුරු සැකසුම් දෝෂය.	0.21356485677291737
-2172	2e15 PCI clocks	2e15 PCI ඔරලෝසු	0.2135425079752508
-2623	All Images	සියලු පින්තූර	0.2133125604881253
-3404	Sets the seconds after which the screen saver is started.	තිරසුරැකුම ආරම්භ වූ පසු තත්පර ගණන සකසන්න.	0.21303930703709067
-261	KDE logout was canceled	KDE පිටවීම අහෝසි කළාName	0.2129292224559001
-4858	You reached the end of the list of matching items.	ගැළපුණු අයිතම ලැයිස්තුවේ අවසානයට ඔබ ලගා වී ඇත.	0.21277426160159726
-4142	Chance Flurries	හදිස්සි වැස්සක් විය හැකweather forecast	0.21263530976033762
-178	Configure the behavior of Java and JavaScript	ජාවා හා ජාවාස්ක්‍රිප්ටයන්හී හැසිරීම සකසන්නName	0.21263530976033762
-584	Display gears inside the cube	ඝනකය තුළ ආම්පන්න පෙන්වන්නName	0.21260504267476787
-302	WordReference. com Translation: French to English	WordReference. com පරිවර්ථනය: ප්‍රංශ සිට ඉංග්‍රීසි බසටQuery	0.21250598477084426
-600	Configure the way that windows are moved	කවුළු ගමන්කරන ආකාරය සකසන්නName	0.21245744741892475
-1807	Enter an expression to filter. Filters can be defined as either: a shell-style wildcard, e. g. http: / /www. example. com/ ads*, the wildcards *? [] may be useda full regular expression by surrounding the string with '/ ', e. g. / \\/ (ad_BAR_banner)\\. / Any filter string can be preceded by '@@' to whitelist (allow) any matching URL, which takes priority over any blacklist (blocking) filter.	පෙරහනට ප්‍රකාශනයක් එක් කරන්න. ඔබට පෙරහන් නිවේශනයට එක්කෝ: ශෙල් ආකාර අහඹු, උදා. http: // www. example. com/ ads *, අහඹු *? [] විසින් '/' භාවිතයෙන් සම්පූර්ණ ප්‍රකාශනයක් ආවරණය කල හැක, e. g. /\\ / (ad_BAR_banner)\\. / ඕනෑම පෙරහනකට '@@' යෙදීම මගින් එහි ධවල ලැයිස්තුවට URL ලිපින ඇතුළුකල හැක, එය ඒවා පෙරහන මගින් වැලැක්වීම නවතාලයි.	0.21232535822862197
-567	Effect to outline geometry while resizing a window	කවුළුවක් ප්‍රතිප්‍රමාණය කරනවිට පිටත දාරයේ ජ්‍යාමිතිය සඳහා වන සැරසුමName	0.21213584877963973
-474	The Virtual Tab Window Manager. TWM enhanced by virtual screens, etc.	අතත්‍ය ටැබ කවුළු කළමණාකරු, අතත්‍ය තිර හා තවත් දෑ සමඟ TWM දියුණු කර ඇත. Name	0.21211852724742017
-493	Forward	ඉදීරියටName	0.21211487641925703
-3414	Setup screen saver	තිර සුරැකුම සකසන්න	0.21207225467298407
-1557	Date & Time This control module can be used to set the system date and time. As these settings do not only affect you as a user, but rather the whole system, you can only change these settings when you start the System Settings as root. If you do not have the root password, but feel the system time should be corrected, please contact your system administrator.	දිනය & වෙලාව මෙම මොඩියුලය පද්ධති දිනය හා වේලාව සැකසීමට භාවිත වේ. මෙම සැකසුම් පරිශීලකයෙක් වශයෙන් ඔබට පමණක් නොව මුළු පද්ධතියටම බලපාන බැවින්, ඔබට මේ සැකසුම් වෙනස් කල හැක්කේ පාලක මධ්‍යස්ථානය වෙත rootලෙස පිවිසුන විට පමණයි. ඔබ සතුව root මුර පදය නොමැති නම්, හා පද්ධති වේලාව නිවැරදි විය යුතු බවක් හැඟේනම්, කරුණාකර ඔබේ පද්ධති පරිපාලක සම්බන්ධ කරගන්න.	0.21185119052130028
-46	Playlist:	වාදන ලැයිස්තුව:	0.21172567554583818
-4475	Friday	සිකුරාදා	0.21164787969124133
-1825	Change cursor over links	සබැඳි වලට ඉහළින් කර්සරය වෙනස් කරන්න (g)	0.2116352743995417
-4600	GUI based example for the Weaver Thread Manager	Weaver Thread Manager සඳහා GUI උදාහරණයක්	0.21151121111588023
-4170	desktop console: q:	වැඩතල කොන්සෝලය: q:	0.21148896210583673
-994	The debugger application is missing or could not be launched.	නිවැරදිකරණ භාවිතයෙදවුම අතුරුදන් වී හෝ ආරම්භ කල නොහැකිවී ඇත. @ info/ rich	0.21141501625970854
-1316	Are you sure?	ඔබට විශ්වාස ද?	0.21136247459013266
-461	The Lightweight Window Manager. A non-configurable, bare window manager	සැකසීම් කල නොහැකි, සැහැල්ලු මුඩු කවුළු කළමණාකරුවෙක්. Name	0.211322526107206
-2808	When printing, most applications create what is know as PostScript. This is then sent to a special application, named Ghostscript, which can interpret the PostScript and send the appropriate instructions to your printer. If your application does not embed whatever fonts it uses into the PostScript, then Ghostscript needs to be informed as to which fonts you have installed, and where they are located. Selecting this option will create the necessary Ghostscript config files. Please note, however, that this will also slow down the installation process. As most applications can, and do, embed the fonts into the PostScript before sending this to Ghostscript, this option can safely be disabled.	සාවද්‍ය රහස්පදයය.	0.21125348663370158
-1099	Enter the number of the bug report you want to check	ඔබට පරීක්‍ෂා කිරීමට ඇවැසි වැරදි වාර්ථාවේ අංකය ඇතුළත් කරන්න@ label	0.2112408213277962
-1751	Check this if you want'Delete 'menu commands to be displayed on the desktop and in the file manager's context menus. You can always delete files by holding the Shift key while calling'Move to Trash'.	වැඩතලයේ හා ගොනු කළමනාකරු හි 'මකන්න' මෙනු විධානය පෙන්වීමට මෙය සලකුණු කරන්න, ඔබට සැමවිටම SHIFT යතුර ඔබාගෙන 'ඉවතලන බඳුනට ගෙනයන්න' කැඳවීමෙන් ගොනු මකාදැමිය හැක.	0.2112359565855201
-3541	Check this box if horizontal lines should be decorated with the values they mark.	තිරස් රේඛා ඒවා සාදන අගයන් සමඟ අලංකාර වියයුතු නම් මෙම කොටුව සලකුණු කරන්න.	0.21115288890143494
-4191	Your battery has reached the warning level.	ඔබේ බැටරිය අනතුරු ඇඟවීමේ මට්ටම දක්වා පහත වැටි ඇත.	0.21111508546098778
-281	Built-in unthemed style similar to Clearlooks from GNOME	GNOME විසින් තිළැලි තේමාරහිත පැහැදිලි දසුනට සමාන රටාවක්Name	0.21097247428819843
-4249	Do not wait	රැඳී නොසිටින්න	0.210970414293243
-1851	Enables the execution of scripts written in ECMA-Script (also known as JavaScript) that can be contained in HTML pages. Note that, as with any browser, enabling scripting languages can be a security problem.	HTML ලේඛනයේ පවතින විට ECMA- ස්ක්‍රිප්ට (ජාවා ස්ක්‍රිප්ට ලෙසද හැඳින්වෙන) මගින් ලියූ ස්ක්‍රිප්ට ක්‍රියාත්මක වීම සක්‍රීය කරයි. සැලකිය යුතුයි අන් ඕනෑම ගවේශකයක් මෙන් ස්ක්‍රිප්ට සක්‍රීය කිරීම ආරක්‍ෂක ගැටළුවක් විය හැක.	0.2108431231210686
-1335	Selection	තෝරාගැනීමcolor- sets	0.2107191625692973
-3707	Switch to Screen 1	1 වන තිරයට මාරුවන්න	0.21060720558308407
-157	Text-to-Speech	පෙළ- හඩට- පෙරලුමComment	0.2105633909288774
-1658	"Enter the name of the environment variable, e. g. FTP_PROXY, used to store the address of the FTP proxy server. Alternatively, you can click on the ""Auto Detect"" button to attempt an automatic discovery of this variable."	"පාරිසරික විචල්‍යයේ නම මෙහි ඇතුළත් කරන්න, උදා. FTP_ PROXY, සාමාන්‍යයෙන් FTP ප්‍රොක්සි සංග්‍රහක වල ලිපින ගබඩා කිරීමට යොදාගනී. ඊට අමතරව, ඔබට"" ස්වයංක්‍රීයව හඳුනාගන්න ""බොත්තම මගින් මෙම විචල්‍යය ස්වයංක්‍රීයව සොයාගත හැක."	0.21054431220131195
-3270	Browse for initial directory	ආරම්භක බහලුම සඳහා ගවේශනය	0.2104338255841769
-3401	Enable screen saver	තිර සුරැකුම සක්‍රීය කරන්න	0.21033311078781528
-4150	Rain Showers Likely	වැහිපොදයැයි සිතිය හැකweather forecast	0.21021015991298792
-672	Notifications and access for new devices	නව උපකරණ සඳහා පිවිසීම හා දැන්වීම්Name	0.21017883354661757
-1320	& Enter a name for the color scheme:	වර්‍ණ තේමාවේ නම ඇතුළත් කරන්න (E):	0.21016673477814987
-1537	Small white cursors	කුඩා සුදු කර්සර	0.21011796597590243
-3347	mirrored vertically	තිරස්ව දර්පනය කර ඇත	0.21004906838076765
-1353	Disabled contrast type	අක්‍රීය දීප්තිවෙනස වර්ගයක්	0.2100309245652691
-3665	GLX/ OpenGL are not available and only OpenGL support is compiled.	GLX/ OpenGL නොපවතින අතර OpenGL සහාය පමණක් සම්පාදනය කර ඇත.	0.20992882611173058
-419	Stonewall 2 by Tigert	Tigert විසින් ගල්බිත්තිය 2Comment	0.20980488985025786
-2490	User Image Source	පරිශීලක පිළිබිඹු මූලය	0.20970728698065233
-944	About Bug Reporting - Help	වැරදි වාර්ථාකරණය පිළිබඳ @ title	0.20957690932400586
-3201	Enter the name:	නම ඇතුළත් කරන්න:	0.20946264549995827
-754	Internet related applications, such as Web browser, Email and chat	අන්තර්ජාලය සම්බන්ධ භාවිත යෙදවුම්, වෙබ් ගවේශකය, තැපැල් හා සංවාද වැනිComment	0.20944453625645285
-2940	kioclient copy'src ''dest' # Copies the URL'src 'to'dest'. # 'src 'may be a list of URLs.	kioclient move 'src' 'dest' # 'src' URL ලිපින 'dest' වෙත පිටපත් කරයි. # 'src' යනු URL ලැයිස්තුවක් විය හැක.	0.20942851152457906
-3274	Tab bar position:	ටැබ්තීරුවේ පිහිටුම:	0.20942504877611337
-3480	Waiting	රැදි සිටිමින්	0.20940822772736956
-765	Notifies a critical event	දරුණු අවස්ථාවක් අඟවයිName	0.2093186484386706
-1515	Change the direction of scrolling for the mouse wheel or the 4th and 5th mouse buttons.	මවුස රෝදයේ හෝ සිව් වැනි හා පස්වැනි මවුස බොත්තම් වල දිශාව වෙනස් කිරීම	0.20921153495050884
-2233	Keyboard controller	යතුරුපුවරු පාලකය	0.20904610314611044
-1500	Pointer threshold:	ලක්‍ෂක පර්යන්තය:	0.20903436514085535
-4525	Click here to replace this occurrence of the unknown text with the text in the edit box above (to the left).	ඉහත සැකසීම් කොටුවේ (වමට වන්නට ඇති) ඇති පෙළ මඟින් නොදන්නා පෙළේ මෙම හමුවීම ප්‍රතිස්ථාපනය කිරීම සඳහා මෙහි ක්ලික් කරන්න.	0.2089030908787001
-2503	There is no login dialog window in themed mode.	තේමා සහි ප්‍රකාරයේ පිවිසුම් සංවාද කවුළුවක් නොමැත	0.20876198794105463
-2570	Export bookmarks to a file in Netscape (4. x and earlier) format	Netscape (4. x හෝ පෙර) හැඩසවියට පිටු සලකුණු ගොනුවකට නිර්යාත කරයි	0.2086745744808397
-3548	This is an empty space in a worksheet. Drag a sensor from the Sensor Browser and drop it here. A sensor display will appear that allows you to monitor the values of the sensor over time.	මෙය වැඩපත්‍රයේ හිස් ඉඩකි. සංවේදක ගවේශකයෙන් සංවේදකයක් තෝරා මෙයට ඇද දමන්න සංවේදකයේ අගයන් නිරීක්‍ෂණය කිරීමට සංවේදක දර්ශකයක් ලැබෙනු ඇත.	0.20862578927569958
-3819	Windows hover above cube	ඝණකයට ඉහළින් කවුළු ගෙනයන්න	0.20861117662021153
-3957	Successfully converted Nepomuk data to the new backend.	Nepomuk දත්ත නව පසුබිමකට සාර්ථකව හැරිනි@ title job	0.20855181328617045
-1054	The automatically generated crash information does not contain enough information to be helpful.	ස්වයංක්‍රීයව ජනනය වූ බිඳවැටුම් තොරතුරු ප්‍රයෝජනවත් වීමට ප්‍රමාණවත් නැත. @ info	0.20847969973948646
-882	Browse through archives	සංරක්‍ෂිතයන් තුලින් ගවේශනය කරන්න	0.20846516024748024
-4486	Installed	ස්ථාපනය	0.20834491663653573
-4876	Left to Right, Bot tom to Top	වමේ සිට දකුණට, පහළ සිට ඉහළට	0.2083313399019079
-2491	"Here you can specify where KDM will obtain the images that represent users. ""System"" represents the global folder; these are the pictures you can set below. ""User"" means that KDM should read the user's $HOME/. face. icon file. The two selections in the middle define the order of preference if both sources are available."	"මෙහිදී ඔබට KDM විසින් පරිශීලකයන් නියෝජනය කරන පිලිබිඹුව ලබාගන්නා ස්ථානය ලබාදිය හැක. ""පද්ධතිය"" විශ්ව බහාළුමක් නියෝජනය කරයි; පහත සැකසිය හැකි පින්තූර වන්නේ මේවායි. ""පරිශීලක"" යනු KDM විසින් පරිශීලකයාගේ $HOME /. face. icon ගොනුව කියවිය යුතු බවයි. මූල දෙකම පවතී නම් තෝරාගැනීම් දෙකම අභිප්‍රේතාකාරයට මධ්‍ය නිවේශනය වේ. @ option: radio image source"	0.20830547982758205
-4628	Error writing to PTY	PTY වෙතට ලිවීවීම දෝෂ සහිතයි	0.20830547982758205
-152	Attached devices information	ඇමිණූ මෙවලම් තොරතුරුName	0.20825074292134263
-4365	%1: %2, owned by user %3	% 1:% 2,% 3 පරිශීලක හට අයත් වේ	0.2082212377884127
-680	A CPU usage monitor	CPU භාවිතය නිරික්‍ෂකයName	0.2081822232306777
-2461	This is a list of installed themes. Click the one to be used.	මෙය ස්ථාපනය කර ඇති තේමා ලැයිස්තුවකි. භාවිත කිරීමට එකක් ක්ලික් කරන්න.	0.2080902378770602
-4010	Check this option if you want the icons to be arranged in a grid. When this option is checked, icons will automatically snap to the nearest grid cell when you move them around in the view.	අයිකන ජාලයකට පෙළගැස්වීමට ඇවැසි නම් මෙම අභිප්‍රේතය සලකුණු කරන්න. මෙම අභිප්‍රේතය සලකුණු කර ඇතිවිට ඔබ අයිකන දසුන තුළ ගෙනයන විට ඒවා ආසන්නයෙම ඇති ජාලයට පනිනු ඇත.	0.20785909607043246
-3796	Outline active window title	පිටදාර සක්‍රීය කවුළු මාතෘකාව	0.20785710459338275
-4011	Use this control to choose how many lines of text will be shown below the icons.	අයිකනයන්ට පහළින් කොපමණ පේළි ගණනක් පෙන්වයි දැයි සැකසීමට මෙය භාවිත කරන්න.	0.20779177392639583
-4112	light snow rain showers	කුඩා හිම සමග වැස්සweather condition	0.207752992938943
-1720	Send the browser identification to web sites. NOTE: Many sites rely on this information to display pages properly, hence, it is highly recommended that you do not totally disable this feature but rather customize it. By default, only minimal identification information is sent to remote sites. The identification text that will be sent is shown below.	වෙබ් අඩවි වෙත ගවේශක අනන්‍යතාව යවන්න. වැදගත්: බොහෝ අඩවි ඒවායෙ පිටු නිවැරදිව දැක්වීම සඳහා මෙම තොරතුරු මත පදනම් වේ, එම නිසා මෙම විශේෂාංගය සම්පූර්ණයෙන්ම අක්‍රීය කිරීම වෙනුවට එය රුචිකරණය කිරීම නිර්දේශිතයි. පෙරනිමියෙන්, ඉතා සුළු අනන්‍යතා තොරතුරු පමණක් දුරස්ථ අඩවි වෙත යැවේ. යැවෙන අනන්‍යතා පෙළ පහත දැක්වේ.	0.20749952761477516
-391	Solid Auto-eject service	දෘඩ ස්වයං- පිටතට ගැනීම් සේවාComment	0.20749101800292405
-4601	Remaining number of jobs:	ඉතිරිව ඇති කාර්‍යය ගණන:	0.2074502873207115
-323	Bulgaria	බල්ගෙරියාවName	0.20738361226334767
-2274	For & file browsing only (recommended)	ගොනු ගවේශනයට පමණයි (නිර්දේශිත) (f)	0.20733699961801647
-796	Available Content	පවතින අන්තර්ගතයName	0.20729159316395487
-3449	Iconify the window	කවුළුවට අයිකන යොදන්න	0.20721337539389598
-2911	Order	පිළිවෙල	0.20706408059436507
-3506	Connect Host	ධාරකයට සම්බන්ධ වන්න	0.20696193707392907
-2676	Disabling	අක්‍රීය කරමින්	0.20694541934228813
-3476	Remove this display?	මෙම දර්ශකය ඉවත් කරන්නද	0.20686031046257186
-4796	Contact on Jabber	Jabber මත සම්බන්ධතා	0.20683059793546035
-2908	Available Screens	භාවිතයට ඇති තිරමුහුණත	0.20678691195709242
-2231	System peripheral	පද්ධති පර්යන්ත	0.20676543635325145
-1831	Allow automatic delayed & reloading/ redirecting	ස්වයංක්‍රීයව ප්‍රමාදවූ ප්‍රතිපූර්ණය/ ආපසු හැරවීම (r)	0.20662577009568778
-1393	Your running window manager will be now replaced with the configured one.	ඔබේ ක්‍රියාත්මක වන කවුළු කළමනාකරු සැකසූ කළමනාකරුගෙන් ප්‍රතිස්ථාපනය වේ.	0.20661797930854056
-1511	Acceleration & profile:	ත්වරණ පැතිකඩ (p):	0.2066039816537791
-959	Once you get a useful backtrace (or if you do not want to install the missing debugging packages) you can continue.	ඔබට ප්‍රයෝජනවත් හඹායෑමක් ලද පසු (හෝ ඔබට මඟහැරුනු නිවැරදිකරණ පැකේජ ස්ථාපන කිරීමට ඇවැසි නොවේ නම්) ඔබට ඉදිරියට යාහැක. @ title	0.2064980599528899
-4632	Left for legacy support	උරුම සහාය සඳහා ඉවත් විය	0.2064409383428482
-1226	Slow keys	වේගය අඩු යතුරු	0.2064290207262174
-4633	Compiled in prefix for KDE libraries	KDE පුස්තකාල සඳහා උපසර්ගය තුළ සම්පාදීතයි	0.20635043547068138
-2554	Move Items	අයිතම ගෙනයන්න	0.20631426269857917
-3731	You have selected to show a window in fullscreen mode. If the application itself does not have an option to turn the fullscreen mode off you will not be able to disable it again using the mouse: use the window operations menu instead, activated using the %1 keyboard shortcut.	ඔබ කවුළුව මුළු තිර ප්‍රකාරයේ පෙන්වීමට තෝරාගෙන ඇත. එම යෙදුම තුව මුළුතිර ප්‍රකාරය ක්‍රියාවිරහිත කිරීමේ අභිප්‍රේතයක් නොමැති නම්. ඔබට මවුසය භාවිත කර එය වසාදැමිය නොහැකි වේ. ඒ වෙනුවට% 1 යතුරු පුවරු කෙටිමගෙන් ආරම්භ වන කවුළු මෙහෙයුම් මෙනුව භාවිත කරන්න.	0.20628023332152132
-673	Open with File Manager	ගොනු කළමණාකරු සමඟ ආරම්භ කරන්නName	0.20623197939421575
-663	Default desktop containment	පෙරනිමි වැඩතල ධාරකයName	0.20617840212170133
-595	Actions	ක්‍රියාComment	0.20601665833593483
-1950	& Suppress images	පිංතූර යටපත් කරන්න (S)	0.20593332299642803
-1945	Background This background color is the one displayed behind the text by default. A background image will override this.	පසුබිම මෙම පසුබිම් වර්ණය පෙළට පසුව පෙරනිමියෙන් පෙනෙන වර්‍ණයයි. පසුබිම් පිංතූරය මෙය අතික්‍රමණය කරයි.	0.2056965397878122
-1686	"While a file is being uploaded its extension is "". part"". When fully uploaded it is renamed to its real name."	"ගොනුවක් අප ගත වෙමින් පවතින විට එහි දිගුව "". part"" වනු ඇති අතර සම්පූර්‍ණයෙන් අපගත වූ විට එහි සත්‍ය නාමයෙන් ප්‍රතිනම් වනු ඇත."	0.20563935703039055
-4481	Share Hot New Stuff	උණුසුම් සහ නවතම දේ ගෙදා ගන්න	0.20561641802156744
-1452	The fulltext search feature makes use of the ht: / /dig HTML search engine. You can get ht: / /dig at the	සම්පූර්ණ පෙළ සෙවුම ht: // dig HTML සෙවුම් යන්ත්‍රය ප්‍රයෝජනවත් කරයි. ඔබට මෙහිදී ht: // dig ලැබිය හැක	0.2055629196755457
-1882	Some websites set the focus to their browser window on their own by using window. focus(). This usually leads to the window being moved to the front interrupting whatever action the user was dedicated to at that time. This option specifies the treatment of such attempts.	ඇතැම් වෙබ් අඩවි window. focus () භාවිත කරමින් ගවේශක කවුළුව නාඹිගත කරයි. මෙය පරිශීලක විසින් එවිට කරමින් සිටි කාර්යයට බාධා කරමින් එම කවුළුව ඉදිරියට ගෙන එයි මෙම අභිප්‍රේතය සඳහන්ව ඇත්තේ එවන් අවස්ථා සඳහා කටයුතු කිරීමටයි	0.20556128993118936
-2137	Primary operating mode	ප්‍රාථමික මෙහෙයුම් ආකාරය	0.20553018103247384
-1884	Ignore attempts of scripts to change the status bar text. The web page will think it changed the text but the actual text will remain unchanged.	ස්ක්‍රිප්ට විසින් තත්ව තීරු පෙළ වෙනස් කිරීමට කරන ඉල්ලීම මඟහරින්න. වෙබ් පිටුව එය වෙනස් වී යැයි සිතනු ඇති නමුත් සත්‍ය පෙළ වෙනස් නොවී පවතී.	0.20535624407993877
-344	Turkey	තුර්කියName	0.20515607715937037
-3367	Group to look in. Use repeatedly for nested groups.	සෙවීමට කණ්ඩායම. කැදලිගත කණ්ඩායම් සඳහා යළි යළිත් යොදාගන්න	0.20498709347637972
-2629	Unable to search dates in the future.	අනාගතයේ දත්ත සෙවිය නොහැක.	0.20498164074910138
-860	Your names	ඩනිෂ්ක නවින්EMAIL OF TRANSLATORS	0.2049511231194241
-2151	Received master abort	ලැබුනු ප්‍රධාන පිටවීම	0.20492479972591623
-1647	Disable it on slow system to disable background images.	අඩු වේගයක් ඇති පද්ධතියකදී පසුබිම් පින්තූර අක්‍රීය කිරීමට එය අක්‍රීය කරන්න.	0.20492419476551704
-922	Show'Copy To 'and'Move To' commands	'පිටපත් වන්නේ' සහ 'ගෙනයන්නේ' විධාන පෙන්වන්න@ title: group	0.2048761033756932
-4153	Becoming Cloudy	වලාකුලු වලින් වැසෙමින්weather forecast	0.20484420541285484
-4422	Galician	ගැලීසියානුName	0.20479075546217534
-3651	Error opening file.	ගොනුව විවෘත කිරීමේ දෝශයක්.	0.20478281705747123
-4634	Compiled in exec_prefix for KDE libraries	KDE පුස්තකාල සඳහා exec_ prefix තුළ සම්පාදීතයි	0.20459879385833193
-205	Configure the browser plugins	ගවේශක ප්ලගින සකසන්නName	0.20458552690060725
-2457	Here you can select who is allowed to shutdown the computer using KDM. You can specify different values for local (console) and remote displays. Possible values are: Everybody: everybody can shutdown the computer using KDM Only root: KDM will only allow shutdown after the user has entered the root password Nobody: nobody can shutdown the computer using KDM	මෙහිදී ඔබට KDM භාවිතයෙන් පරිගණකය වසාදැමීමට බල තල ඇත්තේ කා හටදැයි සැකසිය හැක. ඔබට ප්‍රාදේශීය (කොන්සෝල) හා දුරස්ථ දර්ශක සඳහා වෙනස් අගයන් ලබා දිය හැක. හැකි අගයන් වනුයේ: සියල්ලන්ම: සියල්ලන්ටම KDM භාවිත කර පරිගණකය වසාදැමිය හැක රූට් හට පමණයි: KDM විසින් පරිගණකය වසා දැමීමට ඉඩ දෙනුයේ Root මුරපදය ඇතුළත් කරන පරිශීලකයන්ට පමණයි කිසිවෙකුට නොවේ: KDM භාවිත කර කිසිවෙකුටත් පරිගණකය වසාදැමිය නොහැක @ title: group shell commands for shutdown	0.2044756296015775
-1127	Remove the selected filename pattern.	තෝරාගත් ගොනු නාම රටාව ඉවත් කරන්න	0.20443665692952284
-4092	Unknown Audio Driver	නොදන්නා ශ්‍රව්‍ය ධාවකයක්	0.2041742099779735
-2184	Maximum auxiliary current required in D3 cold	D3 ශීත අවශ්‍ය උපරිම සහායක	0.20416165078378867
-3817	Toggle Invert Effect on Window	කවුළුව මත යටිකුරය සැරසිලි සඳහා මාරුවන්න	0.20413586488329818
-1399	in an application based on the contents of the URL	URL හී අන්තර්ගතය මත පදනම් වූ යෙදුම තුල	0.20411201508057214
-2141	Memory write and invalidate	මතක ලිවීම හා අවලංගු කිරීම	0.20404213102393257
-2658	Do you really want to remove '%1'? This will only remove the group, and not the actual fonts.	ඔබට '% 1' ඉවත් කිරීමට ඇවැසිද? මෙය කණ්ඩායම පමණක් ඉවත් කරයි, සත්‍ය අකුරු නොවේ.	0.20399297490659976
-3156	Empty Closed Items History	වැසූ අයිතම අතීතය මකන්න	0.20386543662265294
-4695	servname not supported for ai_socktype	servname, ai_ socktype සඳහා සහාය නොදක්වයි	0.20370705063087344
-819	Show Local SVN Changes	දේශීය SVN වෙනස්වීම් පෙන්වන්න@ item: inmenu	0.2036982671474416
-1504	If you click with the mouse (e. g. in a multi-line editor) and begin to move the mouse within the drag start time, a drag operation will be initiated.	ඔබ මවුසය ක්ලික් කර (උදා, බහු- රේඛීය සකසනයක් තුළ) ඇදීම් ආරම්භක වේලාව තුල ගෙනයයි නම්. ඇදීමේ ක්‍රියාවක් සැකසෙනු ඇත.	0.20366844051077695
-135	BitTorrent Python Curses GUI	BitTorrent පයිතන් කර්සර GUIGenericName	0.2035885964597235
-1634	Mark & partially uploaded files	අඩක් අපගත වූ ගොනු සලකුණු කරන්න (p)	0.20358287115624385
-3788	Background style:	පසුබිම් රටාව:	0.20357891888102247
-109	This service allows configuration of the Dolphin navigation.	මෙම සේවාව Dolphin සැරිසැරුම සැකසීමට ඉඩ දේ. Name	0.2035579105901901
-1049	Use this button to show the generated report information about this crash.	මෙම බිඳවැටීම පිළිබඳ ජනනය කල වාර්ථා තොරතුරු දැක්වීමට මෙම බොත්තම බාවිත කරන්න@ info/ plain	0.2035031057227979
-1518	& Single-click to open files and folders	ගොනු හා බහාළුම් විවෘත කිරීමට තනි ක්ලිකය (S)	0.20347303177931933
-1957	To add or remove titlebar buttons, simply drag items between the available item list and the titlebar preview. Similarly, drag items within the titlebar preview to re-position them.	සිරස්තල තීරුවේ බොත්තම් ඉවත් කිරීමට හෝ එක් කිරීමට, සරලව පවතින අයිතම ලැයිසතුවේ සිට සිරස්තල තීරුවේ පෙර දැක්ම වෙත අයිතම ඇදමන්න, ඊට සමානව, නැවත ස්ථාන ගත කිරීමටද සිරස්තල තීරුවේ පෙරදැක්ම තුළ අයිතම අදින්න.	0.203376224399991
-2294	Choose this option to make KDE applications use the standard Windows Open/ Save file dialogs, instead of those normally used in KDE.	මෙම අභිප්‍රේතය KDE යෙදුම් සඳහා සාමාන්‍ය KDE සංවාද වෙනුවට Windows හී සම්මත විවෘත/ සුරැකුම් සංවාද භාවිත කිරීමට සලස්වයි. checkbox caption in System Integration options	0.20329649073678405
-1973	Multiple Desktops In this module, you can configure how many virtual desktops you want and how these should be labeled.	බහු වැඩතල මෙම මොඩියුලයේ, ඔබට ඇවැසි අතත්‍ය වැඩතල ගණන හා ඒවායේ ලේබල විය යිතු ආකාරය සැකසිය හැක.	0.20329296619752885
-1118	Show file in embedded viewer	ගොණුව තිළැලි දර්ශකයේ පෙන්වන්න	0.20328475659946313
-3602	In Progress	සැකසෙමින්	0.20328337014169887
-529	The screen saver has finished	තිරසුරැකුම අවසන් වියName	0.2031904499438064
-2347	Allow widgets on screen saver	තිර සුරැකුම මත විජෙට්ටු ඉඩ දෙන්න.	0.20317396259965997
-3888	The file given could not be read; check whether it exists or is readable for the current user.	දෙනලද ගොනුව කියවිය නොහැක; එය පවතින බව හා වත්මන් පරිශීලකට එය කියවිය හැකි බව තහවුරු කරගන්න. @ info: status Statusbar label for block selection mode	0.203118159594561
-2669	Move to system folder.	පද්ධති බහාළුමට ගෙනයන ලදී	0.2030855485143936
-165	Configure the way cookies work	කුකී ක්‍රියාකරන ආකාරය සකසන්නName	0.2030531488224486
-459	A keyboard-friendly window manager with tiled windows, based on PWM	PWM පාදක වූ. ටයිල කවුළු සමඟ යතුරු පුවරු ප්‍රිය කවුළු කළමණාකරු Name	0.20302391895027302
-1725	Includes your operating system's version number in the browser identification text.	ගවේශක අනන්‍යතා පෙළෙහි ඔබේ මෙහෙයුම් පද්ධති සංස්කරණ අංකය ඇතුළත් කරන්න.	0.20301398244899016
-3019	"Helper program to handle the KDE trash can Note: to move files to the trash, do not use ktrash, but ""kioclient move'url 'trash: /"""	"KDE කුණු කූඩය හැසිරවීමට උදව් වැඩසටහන වැදගත්: ගොනු කුණුකූඩයට දැමීමට ktrash භාවිත නොකරන්න, එහෙත් ""kioclient 'url' කුණුකූඩයට ගෙනයන්න trash: /"""	0.20294790426322035
-2066	Prefix currency symbol	මුලට යොදන මූල්‍ය සංකේතය	0.20293176937699745
-53	Cover Manager	කවර කළමණාකරු	0.20293175306858954
-643	A window on an inactive virtual desktop demands attention	අක්‍රීය අතත්‍ය වැඩතලයක පවතින කවුළුවක් අවදානය ඉල්ලයිName	0.20292692506033602
-1916	This will display the tab bar only if there are two or more tabs. Otherwise it will always be displayed.	මෙය ටැබ දෙකක් හෝ වැඩි ගණනක් පවතී නම් පමණක් ටැබ තී පෙන්වයි. එසේ නොවේ නම් එය සැමවිටම දැක්වේ.	0.20286774696185939
-2091	YYYY The year with century as a decimal number. YY The year without century as a decimal number (00-99). MM The month as a decimal number (01-12). mM The month as a decimal number (1-12). SHORTMONTH The first three characters of the month name. MONTH The full month name. DD The day of month as a decimal number (01-31). dD The day of month as a decimal number (1-31). SHORTWEEKDAY The first three characters of the weekday name. WEEKDAY The full weekday name.	YYYY ශතවර්‍ශය සමඟ වසර දශමස්ථානීය අංකයක් ලෙස. YY ශතවර්‍ශය නොමැතිව වසර දශමස්ථානීය අංකයක් ලෙස (00- 99). MM මාසය දශමස්ථානීය අංකයක් ලෙස (01- 12). mM මාසය දශමස්ථානීය අංකයක් ලෙස. කෙටි මාසය මාසයේ නමෙහි ප්‍රථම අක්‍ෂර තුන. මාසය මාසයේ සම්පූර්‍ණ නම. DD මාසයේ දිනය දශමස්ථානීය අංකයක් ලෙස (01- 31). dD මාසයේ දිනය දශමස්ථානීය අංකයක් ලෙස (01- 31). කෙටි සතියේදින සතියේ දිනයන් හි නාමයේ මුල් අක්‍ෂර තුන. සතියේ දිනය සම්පූර්‍ණ සතියේදිනයේ නාමය.	0.2028041993637201
-4435	Serbian	සරිබියානුName	0.2027942546065455
-1925	Activate previously used tab when closing the current tab	වත්මන් ටැබය වසාදැමීමේදී පෙරදී භාවිතා කල ටැබය සක්‍රීය කරන්න	0.20272479158043052
-774	AC adaptor unplugged	AC ඇඩැප්ටරය ගලවා ඇතComment	0.2026592540298679
-2701	Failed to locate font printer.	අකුරු මුද්‍රකය හඳුනාගත නොහැකිවිය	0.2026439257794094
-642	Window on Other Desktop Demands Attention	වෙනත් වැඩතලයක ඇති කවුළුව අවදානය ඉල්ලයිComment	0.2025600273294186
-3830	Use pager layout for animation	සජීවීකරණය සඳහා පේජර රටාව භාවිත කරන්න	0.20254964486889748
-3298	Save as custom session	රිසිකළ සැසිය සුරකීන අයුරNAME OF TRANSLATORS	0.20253381924410835
-1270	"If this option is checked, the default system bell will be used. See the ""System Bell"" control module for how to customize the system bell. Normally, this is just a ""beep""."	"මෙම විකල්පය සලකුණු කර ඇතිවිට, සම්මත පද්ධති සීනුව භාවිත වේ. පද්ධති සීනුව සැකසීම සඳහා ""පද්ධති සීනුව"" පාලක මොඩියුලය බලන්න. සාමාන්‍යයෙන්, එය ""බීප්"" නාදයකි."	0.2025013371847157
-4084	Primary Battery	ප්‍රධාන බැටරිය	0.20248219487433508
-253	There is more than one possible match	මෙහි ගැලපීම් එකකට වඩා ඇත. Name	0.20245205851668904
-1200	The Win key is now active.	Win යතුර සක්‍රීයයි	0.20243453775911815
-3945	Show hidden folders	සැඟවුනු ගොනු පෙන්වන්න	0.20237615687211058
-1572	Setup services browsing with ZeroConf	ZeroConf සමඟ සේවා සෙවුම සකසන්න	0.20232290452554605
-981	Loading crash information... (this may take some time)	බිඳවැටීම් තොරතුරු පූර්ණය වෙමින්... (මෙයට යම් කාලයක් ගතවේ) @ info	0.2022989658099929
-4476	Saturday	සෙනසුරාදා	0.20223192078666505
-2002	For selecting all windows belonging to a specific application, selecting only window class should usually work.	නිශ්චිත යෙදුමකට අයත් කවුළු සියල්ල තේරීම සඳහා, සාමාන්‍යයෙන් කවුළු කාණ්ඩය පමණක් තෝරාගැනීම ක්‍රියා කරයි.	0.20217009677688272
-2897	No SCSI devices found.	SCSI උපාංග හමු වුයේ නැත.	0.20212128684528538
-2275	Always (use with care)	සැමවිටම (ප්‍රවේශමෙන් භාවිත කරන්න) (y)	0.20212127449664144
-1595	Select Shortcut Scheme	කෙටිමං යෙදුමක් තෝරන්න	0.20212126225781699
-1312	Are you sure you want to remove the program ` %1 '?	ඔබට `% 1 'වැඩසටහන ඉවත් කල යුතුබවට විශ්වාසද?	0.20208216467021708
-2559	Another instance of %1 is already running. Do you really want to open another instance or continue work in the same instance? Please note that, unfortunately, duplicate views are read-only.	% 1 හි වෙනත් අවස්ථාවක් දැනටමත් ක්‍රියාත්මක වේ. ඔබට ඇවැසි වෙනකක් විවෘත කිරීමටද දැනට පවතින අවස්ථාවේ වැඩ කිරීමටද? අවාසනාවට පිටපත් දසුන් කියවීමට පමණක් හැකි බව සලකන්න.	0.20200880913468303
-1783	Determines whether Konqueror should use smooth steps to scroll HTML pages, or whole steps: Always: Always use smooth steps when scrolling. Never: Never use smooth scrolling, scroll with whole steps instead. When Efficient: Only use smooth scrolling on pages where it can be achieved with moderate usage of system resources.	විසින් Konqueror HTML පිටු ස්ක්‍රෝල් කිරීමේදී සුමුදු පියවර හෝ සම්පූර්ණ පියවර ගත යුතුද යන්න: සැමවිටම: ස්ක්‍රෝල් කිරීමේදී සැමවිටම සුමුදු පියවර භාවිත කරන්න. කිසිවිට නැත: කිසිවිට සුමුදු ස්ක්‍රෝල් භාවිත නොකරන්න, ඒ වෙනුවට සම්පූර්ණ පියවර වශයෙන් ස්ක්‍රෝල් කරන්න. සුදුසු අවස්ථාවේදී: පද්ධති සම්පත් සමඟ පිටු සංරක්‍ෂණය කල හැකිනම් පමණක් සුමුදු ස්ක්‍රෝල් කිරීම භාවිත කරන්න.	0.20199241176100727
-1381	Neutral Text on Neutral Background (Note: Neutral Background is derived from Neutral Text and cannot be separately configured at this time)	ස්වභාවික පසුබිම මත ස්වභාවික පෙළ (වැදගත්: ස්වභාවික පසුබිමට ස්වභාවික පෙළ ඈඳී ඇති අතර මේ අවස්ථාවේ ඒවා වෙන වෙනම සැකසිය නොහැක)	0.2019459356841355
-2591	No favicon found	කිසිඳු faviconයක් හමු නොවිනි	0.20193668643114462
-4750	Could not launch the mail client: %1	තැපැල් සේවාලාභියා ඇරඹිය නොහැකි විය:% 1	0.20191610334290577
-2026	You have specified the window class as unimportant. This means the settings will possibly apply to windows from all applications. If you really want to create a generic setting, it is recommended you at least limit the window types to avoid special window types.	ඔබ විසින් කවුළු කාණ්ඩය ප්‍රයෝජනවත් නොවන්නක් ලෙස දක්වා ඇත. එනම් සැකසුම් සියලුම යෙදුම් සඳහා බොහෝවිට ඇතුළත් වේ. ඔබට ඇත්තෙන්ම සාමාන්‍ය සැකසුමක් නිර්‍මාණයට ඇවැසි නම්, අවම වශයෙන් විශේෂිත කවුළු වර්‍ග මඟහැරීම සඳහා කවුළු වර්‍ගයවත් නිවේශනය කිරීම නිර්දේශිතයි.	0.20191603730139138
-4133	Thunderstorms Likely	අකුණු කුණාටුව විය හැකweather forecast	0.20181232493388487
-3606	Enable shortcuts that allow you to quickly search for information on the web. For example, entering the shortcut gg: KDE will result in a search for the word KDE on the Google(TM) search engine.	ඔබට ජාලයේ තොරතුරු ඉක්මනින් සෙවීමට සහාය වන කෙටිමං මෙහි ඇතුළත් කරන්න උදාහරණයක් ලෙස gg: KDE කෙටිමඟ ඇතුළත් කිරීම Google( TM) සෙවුම් යන්ත්‍රය මත KDE සොයයි.	0.20178982764203426
-3241	Always Show Tab Bar	සැමවිටම ටැබ්තීරුව පෙන්වන්න	0.20175368321783677
-324	Congo, The Democratic Republic of the	කොන්ගෝ ප්‍රජාතන්ත්‍රවාදී ජනරජය Name	0.20164608774462128
-341	America, South	දකුණු ඇමෙරිකාවName	0.20164608774462128
-2188	Data select	දත්ත තේරීම	0.20163666001015482
-1432	Exclude range:	පරාසයෙන් පිටත (x):	0.20154295259718813
-1556	Added NTP support	NTP සහාය ලබාදෙන ලදී	0.20146539496496207
-2080	Here you can specify text used to prefix negative numbers. This should not be empty, so you can distinguish positive and negative numbers. It is normally set to minus (-).	මෙහිදී ඔබට ඍන අගයන්හී මුලට යොදන පෙළ ලබාදිය හැක. මෙය හිස් නොවිය යුතුයි. එම නිසා ඔබට ධන හා ඍන අංක හඳුනාගත හැක. එය සාමාන්‍යයෙන් (-) ට සැකසේ.	0.20145844701891105
-1159	Extracting search terms	සෙවුම් වදන් විහිදුවමින්	0.20144746681533587
-2637	Makes the dialog transient for an X app specified by winid	winid මගින් දෙන ලද X වැඩසටහනට සංවාද කොටුව පවතින සේ සකසන්න	0.20136095099537837
-38	Patches	පොඩ්කාස්ට්	0.20128335864151467
-3361	Apply settings on KDE startup	KDE ආරම්භයට සැකසුම් ඇතුළත් කරන්න	0.20128287139930548
-2167	Master abort	ප්‍රධානය නවත්වන්න	0.20115182960555864
-3377	Will not lock the session, as unlocking would be impossible:	වාරය අගුළු දමනු නොලැබේ, අගුළු හැරීම කල නොහැකි බැවින්:	0.20110212887065743
-4641	Prefix to install resource files to	ස්ථාපන මූල ගොනුව සඳහා උපසර්ගය	0.2010869930877765
-471	A simple keyboard-only window manager modeled after Screen	තිරයට පසු අකෘති කිරීමට සරල යතුරුපුවරු- පමණක් ඇති කවුළු කළමණාකරුName	0.20103417945724558
-303	FSF/ UNESCO Free Software Directory	FSF/ UNESCO නිදහස් මෘදුකාංග ශබ්දකෝශයQuery	0.20090506629330004
-803	Instruction Sets	උපදෙස් මාලාName	0.20090506629330004
-564	Animate the minimizing of windows	කවුළු හැකිලීම සජීවීකරණය කරන්නName	0.20086041743404842
-1443	Used by the taskbar.	ටාස්ක් බාරය විසින් යොදාගනී.	0.20083628205840046
-545	Dim Inactive	අක්‍රීය අඳුරු කරන්නComment	0.20082973467880347
-1521	400 counts per inch	අඟලකට ගණන් 400ක්	0.20069543661630265
-788	Tracks status of network interfaces and provides notification to applications using the network.	ජාල අතුරුමුහුණත ගැන විමසිල්ලෙන් සිට එහි තත්වය ජාලය භාවිත කරන යෙදුම් වලට ලබාදේ. Name	0.20067174606706994
-4711	NEC SOCKS client	NEC SOCKS සේවාලාභියා	0.20054202938773724
-4165	Go to %1	% 1 වෙතට යන්න	0.20038042159244918
-1480	Are you sure you want to remove the %1 icon theme? This will delete the files installed by this theme.	ඔබට මෙම% 1 අයිකන තේමාව ඉවත් කිරීමට අවශ්‍යද?? මෙය තේමාව විසින් ස්ථාපිත ගොණු මකා දමනු අඑත.	0.20028134711506979
-4491	Install	ස්ථාපනය	0.2002413805356921
-3160	Link View	සබැඳි දසුන (k)	0.20022770245177574
-2827	A khotkeys file id is used to ensure files are not imported more than once. They are mostly used for automatic updates from the KDE developers.	khotkeys ගොනු අංකය එකම ගොනුවක් කිහිපවතාක් ආයාත නොකිරීම තහවුරු කිරීමට යොදාගනී. ඒවා KDE සංවර්ධකයන් විසින් ස්වයංක්‍රීය යාවත්කාලීන සඳහා යොදාගනු ලබයි.	0.20022770245177574
-2784	CJK Compatibility Ideographs	CJK අනුකූල චිත්‍රක ලිපි	0.2002118941864422
-4445	The contact is now connected	සබධතාව දැන් සම්බන්ධ වී ඇතName	0.20016374648743918
-315	Multitran - Translate Between Dutch and Russian	Multitran - ඕලන්ද හා රුසියානු බස අතර පරිවර්ථනය කරයිQuery	0.20015830459176243
-1695	Show the proxy environment variable configuration dialog.	ප්‍රොක්සි පාරිසරික විචල්‍ය සැකසුම් සංවාදය පෙන්වන්න.	0.20008066849868117
-3829	Do not animate panels	පැනල සජීවීකරණය නොකරන්න	0.20007430783144925
-472	A minimal but configurable window manager	සුළු නමුත් සැකසිය හැකි කවුළු කළමණාකරුවෙක්Name	0.20006247603453164
-4399	The default image file	පෙරනිමි පිංතූර ගොනුව	0.2000348858789027
-4246	You will be asked for a password when resuming from sleep state	නිද්‍රා ප්‍රකාරයේ සිට නැවත ඇරඹීමේදී මුරපදයක් විමසනු ඇත	0.20001866020889728
-2924	About Current Module	දැනට ඇති ආකාරය	0.20001684681678716
-2161	Memory behind bridge	පාලමට පසු මතකය	0.19993121137092562
-347	United Arab Emirates Dirham	එක්සත් අරාඹි එමීර් රාජ්‍යName	0.19990935611574212
-1586	Set All Shortcuts to None	සියළුම කෙටිමං අක්‍රීය තත්වයට ගෙන එන්න	0.19990549620625628
-2043	Random	අහබු ලෙස	0.19990483171786214
-3145	Restore Session?	සැසිය යළි පිහිටුවන්න ද?	0.19987449320678966
-2290	This will enable automatic regeneration of Windows' Start menu entries for KDE applications	මෙය Windows ආරම්භක මෙනුව මත KDE යෙදුම් සඳහා ඇතුළත් කිරීම් නැවත ජනනය කරයිwhatsThis tooltip	0.19985344514649267
-3470	The file %1 does not contain a valid worksheet definition, which must have a document type'KSysGuardWorkSheet '.	% 1 ගොනුව සතුව වලංගු වැඩපත්‍ර සඳහනක් අඩංගු නොවේ. එහි වර්‍ගය 'KSysGuardWorkSheet' විය යුතුයි.	0.19984490434643157
-466	A lightweight window manager based on Blackbox	Blackbox පාදක කරගත් සැහැල්ලු කවුළු කළමණාකරුවෙක්Name	0.1998223134041098
-4031	Actions	සියලු යෙදුම්	0.19982038708020813
-2609	KFind Results File	KFind ප්‍රතිඵල ගොනුව	0.1998003782001742
-2686	Failed to start the system daemon. %1	පද්ධති ඩීමනය ආරම්භ කල නොහැක.% 1	0.19978148165496767
-1761	Pictures path:	පින්තූර මාර්ගය:	0.19969713105386747
-857	Selection	අන්වර්ත තේරිම	0.199595742038991
-2841	Start the Input Actions daemon on login	පිවිසුමේදී ඇතුළත්කිරීම් ක්‍රියා ඩීමනය ආරම්භ කරන්න	0.1995831470732042
-1414	Use a different & window manager:	වෙනත් කවුළු කළමනාකරුවෙක් භාවිත කරන්න (w):	0.1995803008224521
-3886	Configure the application's keyboard shortcut assignments.	යෙදුමේ යතුරුපුවරු කෙටිමං එකතු මෙහිදී සකසන්න	0.19952768194375956
-3071	Selection and clipboard	හිස් ක්ලිප් පුවරු පිටුදකින්න	0.19940648034024386
-1100	The report is going to be attached to bug %1. Cancel	% 1 වරදට මෙම වාර්ථාව ඇමිණේ. අවලංගු කරන්න @ title: window	0.1993390466358496
-1522	800 counts per inch	අඟලකට ගණන් 800ක්	0.19933358538379797
-2365	When you insert a smartcard, KDE can automatically launch a management tool if no other application attempts to use the card.	ඔබ ස්මාට් කාඩ්පතක් ඇතුළු කල විට, වෙනත් කිසිදු භාවිත යෙවුමක් කාඩ්පත භාවිත නොකරයි නම් KDE විසින් ස්වයංක්‍රීයව පරිපාලක ටූලයක් ක්‍රියාකරවනු ඇත	0.19929840865009307
-4690	invalid value for'ai_flags'	'ai_ flags' සඳහා සාවද්‍ය අඟය	0.19929564426850532
-174	Configure the stylesheets used to render web pages	වෙබ් පිටු පෙන්වීම සඳහා භාවිත කරන රටාපත්‍ර සකසන්නComment	0.19924829527802382
-683	A RAM usage monitor	RAM භාවිතය නිරික්‍ෂකයName	0.19911846656269513
-3257	Solaris support and history	Solaris සහාය සහ අතීතය	0.19909406564838303
-2322	"This list shows details of the events logged by samba. Note that events at the file level are not logged unless you have configured the log level for samba to 2 or greater. As with many other lists in KDE, you can click on a column heading to sort on that column. Click again to change the sorting direction from ascending to descending or vice versa. If the list is empty, try clicking the ""Update"" button. The samba log file will be read and the list refreshed."	"මෙම ලැයිස්තුව සම්බා විසින් පිවිසි අවස්ථා පිළිබඳ තොරතුරු දක්වයි. සම්බා වාර්‍තා මට්ටම 2 හෝ ඉහළ වනතෙක් ගොනු මට්ටමේ වාර්‍ථා නොගැනෙන බව සලකන්න. KDE හී ඇති අනෙක් බොහෝ ලැයිස්තු මෙන් මෙහිදීත් ඔබට තීරුවක සිරස ක්ලික් කිරීමෙන් එය පෙළගැස්විය හැක, නැවත එය ක්ලික් කිරීම අකාරාදී පිළිවෙලට හා අකාරාදී නොවන පිළිවෙල අතර මාරු වීය හැක. ලැයිස්තුව හිස් නම්, ""යාවත්කාලීන කරන්න"" බොත්තම ක්ලික් කරන්න. එවිට සම්බා වාර්‍ථා ගොනුව කියවනු ලබන අතර ලැයිස්තුව ප්‍රතිපූර්‍ණය වේ."	0.19903380962699807
-1599	Cache This module lets you configure your cache settings. The cache is an internal memory in Konqueror where recently read web pages are stored. If you want to retrieve a web page again that you have recently read, it will not be downloaded from the Internet, but rather retrieved from the cache, which is a lot faster.	කැච් මෙම මොඩියුලය ඔබට කැච් සැකසුම් සිදුකිරීමට ඉඩ දේ. කැච් යනු Konqueror තුල ඇති මෑතදී කියවූ වෙබ් පිටු ගබඩා කරන අභ්‍යන්තර මතකයයි. ඔබට මෑත කියවූ වෙබ් අඩවියක් නැවත ලබාගැනීමට ඇවැසි විට එය අන්තර්ජාලයෙන් බා පෙන්වනු වෙනුවට කැචය මගින් ලබාගනී, එය බොහෝ වේගවත්ය.	0.19895518620466665
-4114	snow showers	හිම වැස්සweather condition	0.1987240784500087
-1966	Large	විශාල	0.19872144245189982
-3332	Many fixes, multi-head support	බොහෝ නිවැරදි කිරීම්, බහු- ශීර්ෂ සහාය	0.19860879083142702
-4079	HD DVD Rewritable	නැවත ලිවිය හැකි HD DVD	0.19859600077839643
-4331	High Priority	වැඩි ප්‍රමුඛතාව	0.19859600077839643
-646	Another application has requested to suspend compositing.	වෙනත් යෙදුමක් මගින් රචනය අත්හිටුවීමට ඉල්ලා ඇත. Name	0.19848874746212242
-3050	Should Klipper start automatically when you login?	ඔබ පිවිසෙන විටම Klipper ස්වයංක්‍රීයව ආරම්භ විය යුතුද?	0.19847930698578586
-2329	Accessed From	ඇතුළු වූයේ	0.19844527618928973
-4409	Repeat the sequence	පිළිවෙළ පුනරාවර්තය	0.19842890159882345
-4772	%1 seconds	තත්පර% 1	0.19828014833970087
-4158	Author and maintainer	කතෲ හා නඩත්තුකරු	0.19814502859619
-1185	No joystick device automatically found on this computer. Checks were done in / dev/ js[0-4] and / dev/ input/ js[0-4] If you know that there is one attached, please enter the correct device file.	මෙම පරිගණකයේ ස්වයංක්‍රීයව කිසිඳු ජෝයිස්ටික් උපකරණයක් හමු නොවිනි. / dev/ js[ 0- 4] හා / dev/ input/ js[ 0- 4] හීදී සෙවීම් සිදු විය ඔබ එවැන්නක් ඈඳා ඇතිබව දන්නේ නම්, කරුණාකර උපකරණ ගොනුව නිවැරදි කරන්න.	0.19801515904260927
-3086	Clipboard history size	ක්ලිප් පුවරු ඉතිහාස ප්‍රමාණය	0.19797360929902902
-325	Cook islands	කූක් දිවයින්Name	0.19790712364867946
-2759	Latin Extended-B	ලතින් දිගු- B	0.19786101624274946
-4192	Your battery has reached a low level.	ඔබේ බැටරිය අවම ප්‍රමාණයට පැමිණ ඇත.	0.1978043259972888
-1980	"Assigned global Shortcut ""%1"" to Desktop %2"	"වැඩතලය% 2 සඳහා ""% 1"" කෙටිමඟක් සකසන්න"	0.19779342391060908
-1627	You have to restart the running applications for these changes to take effect.	ඔබට මෙම වෙනස් කම් බලපැවැත්වීම උදෙසා දැනට ක්‍රියාත්මක වන යෙදුම් නැවත ආරම්භ කිරීමට සිදුවේ.	0.19775544300820738
-2057	This is how monetary values will be displayed.	මූල්‍යමය අගයන් පෙන්වන්නේ මේ ආකාරයටයි.	0.1977253345339299
-4661	"Library ""%1"" not found"	"""% 1"" පුස්තකාලය හමුවුයේ නැත"	0.1976898497737842
-1820	Show only marked bookmarks in bookmark toolbar	පොත්සලකුණු ආයුධ තීරුවේ ලකුණු කල පොත්සලකුණු පමණක් පෙන්වන්න	0.1976812217551449
-4324	p, li {white-space: pre-wrap;} Process can only use the hard disk when no other process has used it very recently.	p, li {white- space: pre- wrap;} සැකසුමට දෘඩ තැටි භාවිත කල හැක්කේ වෙනත් සැකසුමක් මගින් මෑතකදී එය භාවිත කර නොමැති නම් පමණි.	0.19755436702084508
-2626	Unable to search within a period which is less than a minute.	මිනිත්තුවකට අඩු කාල පරාසයක් තුල සෙවීමට නොහැක	0.19732939443015432
-1635	"Marks partially uploaded FTP files. When this option is enabled, partially uploaded files will have a "". part"" extension. This extension will be removed once the transfer is complete."	"අර්ධ වශයෙන් අපගත වූ FTP ගොනු සලකුණු කරයි. මෙම අභිප්‍රේතය සලකුණු කර ඇතිවිට, අර්ධ වශයෙන් අපගත වූ ගොනු "". part"" දිගුව සහිතව පෙනෙන අතර. හුවමාරුව අවසන් වූ විට මෙම දිගුව ඉවත් වනු ඇත."	0.19732934369357585
-3425	Remove the selected theme from your disk	තෝරාගත් තේමාව ඔබේ තැටියෙන් ඉවත් කරන්න	0.19725033971143852
-2193	Translation of host processor access	ධාරක සකසන පිවිසීමේ පරිවර්ථනය	0.19725033971143852
-844	Last Week	පසුගිය සතිය@ title: group Date	0.19720461415143112
-3422	You need to be connected to the Internet to use this action. A dialog will display a list of themes from the http: / /www. kde. org website. Clicking the Install button associated with a theme will install this theme locally.	මෙම ක්‍රියාව සඳහා ඔබට අන්තර්ජාලය වෙත සම්බන්ධ වීමට සිදුවේ. මෙම සංවාදය http: // www. kde. org වෙබ් අඩවියෙන් තේමා ලැයිස්තුවක් පෙන්වනු ඇත. තේමාව සමඟ ඇති ස්ථාපන බොත්තම මගින් මෙම තේමාව ස්ථාපනය කරනු ඇත.	0.19716461279851819
-997	Unknown response from the server	ධාරකයෙන් නොදන්නා ප්‍රතිචාරයක්@ info	0.1970432218285931
-2358	Do not display main window	ප්‍රධාන කවුළුව නොපෙන්වන්න	0.19700528447423682
-804	Device Actions	මෙවලම් ක්‍රියාComment	0.1969942812331434
-4644	Location of installed Qt plugins	Qt ප්ලගීන ස්ථාපිත පිහිටුම	0.1968876078688572
-3423	Install a theme archive file you already have locally	ඔබ සතුව දැනට ඇති තේමා සංරක්‍ෂක ගොනුවකින් ස්ථාපනය කරන්න	0.19685513490869472
-1826	If this option is set, the shape of the cursor will change (usually to a hand) if it is moved over a hyperlink.	මෙම අභිප්‍රේතය සකසා ඇත්නම්. සබැඳියක් උඩින් ගෙනයන විට කර්සරයේ හැඩය වෙනස් කරයි (සාමාන්‍යයෙන් අතක්)	0.19681407270341003
-4689	temporary failure in name resolution	නාම විසදීමේදි (name resolution) තාවකාළික බිදවැටුමකි	0.1967861925862409
-1667	Expires:	කල් ඉකුත්වීම:	0.19678596015891953
-751	Educational applications	අධ්‍යාපන යෙදුම්Comment	0.19675887001745593
-128	Dive into Moria and defeat the Balrog	Moria වෙත කිමිදී Balrog පරදවන්නName	0.19666032487699694
-61	Title:	සිරස්තලය	0.19663910761611386
-2985	There is more than one matching man page.	මෙහි එකකට වඩා වැඩි උදව් පිටු පවතී.	0.19656000809790575
-410	A configuration tool for managing which programs start up with KDE.	KDE සමඟ ආරම්භ වන වැඩසටහන් සැකසීමට සැකසුම් ආයුධයක්. Name	0.19650994967941654
-4093	Unknown Audio Interface Type	නොදන්නා ශ්‍රව්‍ය අතුරුමුහුණත් වර්‍ගය	0.1963728750944172
-1293	Use the system bell whenever a key is rejected	යතුරක් ප්‍රතික්‍ෂේප වූ සැමවිට පද්ධති සීනුව භාවිත කරන්න	0.19628170085004132
-2768	Currency Symbols	මූල්‍ය සංකේත	0.19628153881495042
-4848	Close the current window.	දැනට ඇති කවුළුව වසන්න.	0.19618415067707298
-1889	& Enable plugins globally	ගෝලීයව ප්ලගින සක්‍රීය කරන්න (E)	0.19617499413211062
-4706	requested family not supported	ඉල්ලාසිටි කුලය සහාය නොදක්වයි	0.19614658075683203
-4387	networking: is enabled	ජාලය: සක්‍රීයව ඇත	0.19609076356935137
-4433	Northern Sami	උතුරු සැමිName	0.19606144074293447
-866	Order in which to sort files	ගොණු පෙළ ගැසීමේ ක්‍රමය@ label	0.19600471310655831
-2954	'command 'expected.	'විධානය' බලාපොරොත්තු විය.	0.19597559794688346
-864	Categorized Sorting	ප්‍රවර්ගීකරණ තේරීම@ info: whatsthis	0.1959713466869224
-859	Search Toolbar	සෙවුම් මෙවලම් තීරුවNAME OF TRANSLATORS	0.195907131355297
-748	Menu entry for The Plasma search and launch activity	ප්ලාස්මා සොයා ක්‍රියාකරවන ක්‍රියාවලියට මෙනු ඇතුළත් කිරීමක්Comment	0.1959031597995886
-4636	Prefix in $HOME used to write files	ගොනු ලිවීමට භාවිත කළ $HOME තුළ උපසර්ගය	0.19586131794617803
-111	Configure file manager services	ගොනු කළමණාකරුගේ සේවා සකසන්නName	0.19586131794617803
-462	A window manager for handheld devices	හස්තය මත තබන උපකරණ සඳහා කවුළු කළමණාකරුName	0.1958216296597583
-227	An application registered new global shortcuts.	නව විශ්ව කෙටිමං ලියාපදිංචි කල භාවිතයෙදවුමName	0.1957789076017671
-645	Compositing has been suspended	රචනය අත්හිටුවියComment	0.1957442215720735
-3534	Check this box if you want the display range to adapt dynamically to the currently displayed values; if you do not check this, you have to specify the range you want in the fields below.	ගතිකව ඔබේ දර්ශක පරාසය දැනට පවතින දර්ක අගයන් වලට සැකසීමට ඇවැසි නම් මෙම කොටුව සලකුණු කරන්න; මෙය සලකුණු නොකරයි නම් ඔබට එම පරාසය පහත ක්‍ෂේත්‍ර වල ඇතුළත් කිරීමට සිදුවේ.	0.1957211957653294
-3055	Really delete entire clipboard history?	ක්ලිප් පුවරු ඉතිහාස පිරිසිදු කරන්න (l)	0.1956850753140922
-2966	Could not find the Perl program on your system, please install.	ඔබේ පද්ධතියේ Perl වැඩසටහන සපයාගත නොහැකි විය, කරුණාකර ස්ථාපනය කරන්න.	0.19565249580069294
-2763	Unified Canadian Aboriginal Syllabics	අනුමත කැනේඩියානු ආදිවාසී අක්‍ෂර	0.1956467702334751
+	english	sinhala	Similarity score
+4745	File %1 does not exist	% 1 ගොනුව හමුවූයේ නැත	0.2666587496218434
+3219	%1 does not exist	මිනිත්තු	0.2634567492285808
+4766	Could not install %1	% 1 ස්ථාපනය කළ නොහැකි විය	0.25854263603907207
+833	%1 selected	% 1 තෝරාගන්නා ලදි@ info: status	0.2581596599907559
+2322	Could not open file %1	% 1 ගොණුව විවෘත කල නොහැක	0.2556244938582702
+2986	File does not exist: %1	ගොනුව නොපවතී:% 1	0.25181087203815317
+1008	Select Filename	ගොනු නාමයක් තෝරන්න@ info	0.2515703422821546
+2329	"Error: Unable to open configuration file ""smb. conf"""	"වරදක්: ""smb. conf"" සැකසුම් ගොණුව සොයාගත නොහැක"	0.25146700321597254
+3458	Cannot save file %1	% 1 ගොනුව සුරකිය නොහැක	0.2483150294366115
+4586	(do not know yet)	(තවමත් නොදනි)	0.24817137839482978
+3097	Could not write to %1	% 1 වෙත ලිවිය නොහැක	0.2450471142432184
+1864	Open new windows:	නව කවුළු විවෘත කරන්න:	0.24446283177390418
+2097	None selected (change...)	තෝරා නොමැත (වෙනස් කරන්න...) NAME OF TRANSLATORS	0.24318331566455656
+3127	Open a new tab	නව ටැගයක් අරින්න	0.24233548968257784
+4583	Select Files...	ගොනු තෝරන්න...	0.24218736916419034
+4314	Script error: Argument to setHtml() was not a string	සක්‍රිප්ට දෝශයක්: setHtml () වෙත ඇති තර්‍කය යෙදුමක් නොවේ	0.2416117336393527
+3185	Add New	නව එක් කිරීම	0.24154720603119298
+3071	No actions for WM_CLASS	WM_ CLASS සඳහා ක්‍රියාවන් නොමැත	0.24038201833363274
+1080	Retry search	සෙවීම නැවත උත්සාහ කරන්න@ info: tooltip	0.23997880229229218
+4315	Script error: Argument to fileExists() was not a string	ස්ක්‍රිප්ට දෝශයක්: fileExists () තර්‍කය යෙදුමක් නොවෙ	0.2399582043841856
+4806	File not found: %1	ගොනුව හමුවූයේ නැත:% 1	0.2389802064433229
+3218	Select type:	වර්‍ගය තෝරන්න:	0.2388828153768363
+2465	Unable to create folder %1	% 1 බහාළුම සැකසිය නොහැකි විය	0.23799165227188437
+1259	Select All	සියල්ල තෝරන්න	0.23795571978287858
+894	Select All	සියල්ල තෝරන්න@ action: inmenu View	0.23795571895734574
+1227	"Do you really want to deactivate ""%1""?"	"ඔබට ඇත්තෙන්ම ""% 1"" අක්‍රීය කිරීමට අවශ්‍යද?"	0.23753632579870843
+3455	The file %1 does not contain valid XML.	% 1 ගොනුච සතුව වලංගු XML නොපවතී.	0.23730033681913446
+4379	Choose Image	පිංතූරයක් තෝරන්න	0.23708211110878039
+2540	restart computer	පරිගණකය ප්‍රථිපණගන්වන්න	0.23701803253311474
+4729	%1 options:	විකල්ප% 1 ක්:	0.2368438816347515
+3217	Select Type	වර්‍ගය තෝරන්න	0.23653299536721425
+4642	"Library ""%1"" not found"	"""% 1"" පුස්තකාලය හමුවුයේ නැත"	0.23610342446510493
+4351	This process was run with the following command: %1	මෙම සැකසුම පහත විධානය සමඟ ක්‍රියාත්මක වේ:% 1	0.23606559928639045
+3460	Select Display Type	දර්ශක වර්‍ගය තෝරන්න	0.23565957668778587
+1163	(usually X)	(සාමාන්‍යයෙන් X)	0.23561205379291986
+2482	Select users and groups:	තෝරාගත් පරිශීලකයන් හා කණ්ඩායම් (e)	0.23549155712289518
+2944	The URL %1 is malformed	URL% 1 වැරදියට දක්වා ඇත	0.23527184098144302
+853	Unselect All	සියල්ල තෝරන්න@ action: inmenu Edit	0.2352445465623491
+4704	sets the application name	පෙරනිමි යෙදුම් නාමය සකසයි	0.2351855885177216
+1419	"Are you sure you wish remove the ""%1"" theme?"	"""% 1"" තේමාව ඉවත් කිරීමට අවශ්‍යබව විශ්වාසද?"	0.23499417593148086
+27	"Remove From ""%1"""	Nepomuk එකතුව	0.23433075435813402
+2800	"Could not access ""%1""."	සාවද්‍ය රහස්පදයය, කරුණාකර යළි උත්සාහ කරන්න.	0.23433063410148905
+2644	Are you sure you wish to delete: %1	ඔබට මැකීමට අවශ්‍ය බව ඔබට විශ්වාස ද:% 1	0.23391600102238794
+714	Date and Time	දිනය සහ වේලාවComment	0.2338385387232481
+4514	Do not use Xvfb	Xvfb භාවිතා නොකරන්න	0.23382981365844913
+3252	Deselect All	තේරු සියල්ල අත්හරින්න	0.23372752195352295
+4002	Deselect All	සියල්ල තේරීම අවලගු කරන්න	0.2337275123894903
+4026	The JobView for %1 cannot be found	% 1 සඳහා කාර්‍යය දසුන සොයාගත නොහැක	0.23298792583737388
+4316	Script error: Argument to readFile() was not a string	සක්‍රිප්ට දෝශයක්: readFile () වෙත ඇති තර්‍කය යෙදුමක් නොවේ	0.23273854658172086
+3451	Use selection color	තේරීම වර්ණය භාවිත කරන්න	0.23268924900024623
+2539	turn off computer	පරිගණකය වසාදමන්න	0.23268232366664898
+2837	Failed to run qdbusviewer	qdbusviewer ක්‍රියාත්මක කිරීම අසාර්ථකයි	0.2310116046695402
+3633	Enter a new password:	නව මුරපදයක් ඇතුළු කරන්න:	0.2309885308616441
+4158	Unable to load script file: %1	'% 1' විවෘත කළ නොහැක	0.23075904670798697
+4367	Error: %1 does not have the interface StorageAccess.	දෝෂය:% 1 හට StorageAccess අතුරු මුහුණතක් නැත.	0.230065923073526
+3454	Cannot open the file %1.	% 1 ගොනුව විවෘත කළ නොහැක.	0.2295884217154732
+908	Maximum file size:	උපරිම ගොනු ප්‍රමාණය: @ option: check	0.22955967680755734
+2719	Do you really want to enable '%1'?	ඔබට '% 1' සක්‍රීය කිරීමට අවශ්‍ය ද?	0.22882947190798575
+414	Save the date/ time settings	දිනය සහ වේලා සැකසුම් සුරකින්නDescription	0.22881952430134986
+4733	Could not launch the browser: %1	ගවේෂකය ඇරඹිය නොහැකි විය:% 1	0.22869906753872463
+3999	Show All Files	සියළු ගොනු පෙන්වන්න	0.22821276142085983
+3463	Remove Display	දර්ශකය ඉවත් කරන්න	0.22820941250665147
+4370	networking: is not enabled	ජාලය: සක්‍රීයව නැත	0.22794724422200052
+3612	Switch to %1	% 1 වෙත මාරුවන්න	0.22793170802650908
+2328	Error: Unable to run smbstatus	වරදක්: smbstatus ක්‍රියා කරවිය නොහැක	0.22781210425080353
+4725	Show all options	සියළු විකල්ප පෙන්වන්න	0.22754957603230438
+1231	"Do you really want to activate ""%1""?"	"ඔබට ඇත්තෙන්ම ""% 1"" සක්‍රීය කිරීමට අවශ්‍යද?"	0.22753396228460682
+3416	Failed to remove theme '%1 '	'% 1' තේමාව ඉවත් කිරීම අසාර්ථකයි	0.22752027172476696
+2677	Failed to download %1	% 1 බෑම අසාර්ථකයි	0.2273341750002273
+4150	Go to %1	% 1 වෙතට යන්න	0.22637351466461372
+2709	Failed to open %1 for writing	ලිවීම සඳහා% 1 විවෘත කල නොහැකි විය	0.22619225130195575
+4604	Do you want to reload KDE configuration?	ඔබට KDE මානකරණය යළි පූරණය කිරීමට ඇවශ්‍යද? Reload KDE configuration messagebox	0.22617997777922216
+3530	& Remove Display	සංදර්ශනය ඉවත් කරන්න (R)	0.22616729220127768
+2661	A group named '%1 'already exists.	'% 1' නමින් දැනටමත් සමූහයක් ඇත.	0.2258734791072514
+3417	(Could not load theme)	(තේමාව පූර්ණය කල නොහැක) Unknown name	0.22577476653894812
+3163	Open the document in a new window	ලේඛනය නව කවුළුවක විවෘත කරන්න	0.22552535894601292
+307	Google News	Google ප්‍රවෘත්තිQuery	0.22546791995347723
+4636	%1 - unknown type of userpath	% 1 - පරිශීලක මාර්‍ගයේ නොදන්නා ආකාරයක්	0.22526710297753633
+4651	"Configuration file ""%1"" not writable."	"""% 1"" සැකසුම් ගොනුවට ලිවිය නොහැක. Socket error code NotSupported"	0.22517029313658396
+3278	Delete the selected profile(s)	තෝරාගත් පැතිකඩ මකන්න	0.22489921491888584
+1568	Unable to start service %1. Error: %2	සේවාව ආරම්භ කල නොහැකි විය% 1. වරදක්:% 2	0.22482069117835582
+26	Additional options:	අමතර විකල්ප:	0.22460401240421662
+2848	Failed to start service '%1 '.	'% 1' සේවාව ආරම්භ කිරීම අසාර්ථකයි.	0.22448591547972738
+3033	new command	නව විධානයක්	0.22448120998033155
+1164	(usually Y)	(සාමාන්‍යයෙන් Y)	0.22422777811922057
+2356	Do not display main window	ප්‍රධාන කවුළුව නොපෙන්වන්න	0.22417749397316086
+3462	Remove this display?	මෙම දර්ශකය ඉවත් කරන්නද	0.22409519977916367
+4746	Cannot open %1 for reading	කියවීම සඳහා% 1 විවෘත කළ නොහැක	0.22392082852211034
+1311	Are you sure you want to remove the program ` %1 '?	ඔබට `% 1 'වැඩසටහන ඉවත් කල යුතුබවට විශ්වාසද?	0.22370525867500374
+4743	Could not launch the KDE Help Center: %1	KDE උදව් මධ්‍යස්ථානය ඇරඹිය නොහැකි විය:% 1	0.22316447451889507
+100	A newer file named '%1 'already exists.	'% 1' නමැති නව ගොණුවක් දැනටමත් පවතී.	0.2230742659701132
+4368	Error: %1 does not have the interface OpticalDrive.	දෝෂය:% 1 හට OpticalDrive අතුරු මුහුණතක් නැත.	0.22258783803004448
+4822	Do not save data	දත්ත නොසුරකින්න	0.22227038728968226
+2720	Do you really want to disable '%1'?	ඔබට '% 1' අක්‍රීය කිරීමට අවශ්‍ය ද?	0.22221563623503837
+3652	GLX/ OpenGL and XRender/ XFixes are not available.	GLX/ OpenGL හා XRender/ XFixes නොපවතී.	0.2220553286482142
+1482	Module %1 not found	% 1 මොඩියුලය හමු නොවිණි	0.2220414033146466
+2620	All Images	සියලු පින්තූර	0.22173388275629563
+2691	Create a new group	නව සමූහයක් නිර්මාණය කරන්න	0.22167630016505413
+2729	"Please specify ""%1"" or ""%2""."	"කරුණාකර ""% 1"" හෝ ""% 2"" දක්වන්න."	0.22127308395540138
+4791	Downloads: %1	බාගැනීම්:% 1	0.22125622566638312
+98	An older file named '%1 'already exists.	'% 1' නමැති පැරණි ගොණුවක් දැනටමත් පවතී.	0.22111199688390126
+25	Deleting files	ගොනු මකමින්	0.22095777544140857
+1169	The given device %1 could not be opened: %2	දෙන ලද% 1 උපකරණය විවෘත කල නොහැක:% 2	0.22069816219979455
+2695	Delete all selected fonts	තෝරාගත් සියලු අකුරු මකන්න	0.2206893147287787
+4004	Cannot See Any Files?	කිසිඳු ගොනුවක් දැකිය නොහැකිද?	0.220672581632176
+3692	Switch to Screen 1	1 වන තිරයට මාරුවන්න	0.22065662083309717
+3142	Copy selected files from %1 to:	තෝරාගත් ගොනුව% 1 වෙතට පිටපත් කරමින්:	0.22046216421280615
+3406	There is no user called %1.	% 1 නමින් හැඳින්වෙන පරිශීලකයෙක් නොමැත.	0.2203927964827876
+4372	wireless: is not enabled	රැහැන් රහිත: සක්‍රීයව නැත	0.22015238563392456
+2645	Are you sure you wish to delete:	ඔබට මැකීමට අවශ්‍ය බව ඔබට විශ්වාස ද:	0.22011485071451206
+2542	abort all sessions	සියළු වාර නවතන්නafter timeout:	0.2198633456406675
+2496	There was an error saving the image: %1	පිංතූරය සුරැකීමේ වරදක්:% 1	0.21986235754662534
+305	Google Groups	ගූගල් සමූහQuery	0.21927998672599008
+4356	Memory usage: %1	මතක භාවිතය:% 1	0.21896614126638306
+2704	Do you really want to delete '%1'?	ඔබට '% 1' මැකීමට අවශ්‍ය ද?	0.21887909449819568
+3143	Move selected files from %1 to:	තෝරාගත් ගොනුව% 1 වෙතට ගෙනයමින්: This menu entry empties the closed items history	0.2186832183371279
+3456	The file %1 does not contain a valid worksheet definition, which must have a document type'KSysGuardWorkSheet '.	% 1 ගොනුව සතුව වලංගු වැඩපත්‍ර සඳහනක් අඩංගු නොවේ. එහි වර්‍ගය 'KSysGuardWorkSheet' විය යුතුයි.	0.2184043720934934
+3002	Cannot create thumbnail for %1	% 1 සඳහා කුඩාරූපය සැකසිය නොහැක	0.21821460702649684
+2085	First working day of the week:	සතියේ පළමු වැඩකරන දිනය:	0.2180240366314356
+3279	Delete Profile	පැතිකඩ මකන්න	0.2179160463970797
+3516	Enter new label:	නව ලේබලය ඇතුළත් කරන්න:	0.21787807142067495
+2547	Cannot open theme file %1	% 1 තේමා ගොනුව විවෘත කල නොහැක	0.21781486291074992
+2890	(driver not attached)	(උපකරණය ඈඳා නොමැත)	0.21777394641926073
+4317	Could not read script '%1 '. Error %2	'% 1' ස්ක්‍රිප්ටය කියවිය නොහැක. දෝශය% 2	0.21765672631429803
+2663	"Add to ""%1""."	"""% 1"" වෙත එක් කිරිනි."	0.21762919647994908
+4635	%1 - unknown type	% 1 - නොදන්නා වර්‍ගය	0.2176163925389612
+1161	Unable to load image	රූපය පූරණය කළ නොහැකThe color depth of an image	0.21741204249870522
+4666	an unknown/ unexpected error has happened	නොදන්නා/ බලාපොරොත්තු නොවු දෝෂයක් හට ගැණිනSocket error code RemotelyDisconnected	0.2173882024737029
+412	Date and time settings	දිනය සහ වේලා සැකසුම්Name	0.21737959665001047
+1232	"Do you really want to activate ""%1"" and to deactivate ""%2""?"	"ඔබට ඇත්තෙන්ම ""% 1"" සක්‍රීය කිරීමට හා ""% 2"" අක්‍රීය කිරීමට අවශ්‍යද?"	0.21737633877676707
+3352	Use < file > instead of global config	විශ්ව සැකසුම් වෙනුවට < file > යොදාගන්න	0.2173447002485601
+1154	Select service:	සේවාව තෝරන්න	0.21712815952315176
+2382	& Turn off computer	පරිගණකය වසාදමන්න (T)	0.21712312826578883
+2604	HTML page	HTML පිටුව	0.21690225338599659
+1570	Unable to stop service %1. Error: %2	සේවාව නැවැත්විය නොහැකි විය% 1. වරදක්:% 2 NAME OF TRANSLATORS	0.2167652160522109
+1263	Press %1 while ScrollLock is active	ScrollLock සක්‍රීය විට% 1 ඔබන්න	0.2165543483487508
+4386	Restart the game	තරගය යළි අරඹන්න	0.216519578550445
+1266	Press %1 while NumLock is active	NumLock සක්‍රීය විට% 1 ඔබන්න	0.21644300050152374
+99	A similar file named '%1 'already exists.	'% 1' නමැති සමාන ගොණුවක් දැනටමත් පවතී.	0.21640623142436965
+4828	Close the current window or document	දැනට ඇති කවුළයව හෝ ප්‍රලේඛනය වසන්න	0.2163950183586355
+3208	"Output from command: ""%1"""	"විධානයේ ප්‍රථිදානය: ""% 1"" NAME OF TRANSLATORS"	0.21635950274088514
+1228	"Do you really want to deactivate ""%1"" and ""%2""?"	"ඔබට ඇත්තෙන්ම ""% 1"" හා ""% 2"" අක්‍රීය කිරීමට අවශ්‍යද?"	0.2163091047068874
+3945	Parsing of file %1 failed (%2)	% 1 ගොනුව විග්‍රහ කිරීම අසාර්ථකයි (% 2) @ info: status	0.21625991197995215
+1009	Cannot open file %1 for writing.	% 1 ගොනුව ලිවීම සඳහා විවෘත කල නොහැක. @ title: tab general information	0.2162328558656037
+2544	cancel shutdown	වසාදැමීම අවංගු කරන්න	0.21612561645724446
+2549	%1 does not seem to be a correct theme file	% 1 සතුව නිවැරදි තේමා ගොනුවක් නොමැතuser:...	0.2160962312823655
+1557	Unable to authenticate/ execute the action: %1, %2	% 1,% 2 ක්‍රියාට ක්‍රියාත්මක කිරීමට/ අවසරදීමට නොහැකි විය:	0.21603101579844378
+2682	Could not remove all files associated with %1	% 1 සමඟ සහයෝගී සියළු ගොනු ඉවත්කල නොහැක	0.2159219981913906
+3911	%1 (will not be indexed for desktop search)	% 1 (වැඩතල සෙවුම සඳහා සූචිගත නොවනු ඇත)	0.21577720266759196
+3693	Switch to Screen 2	2 වන තිරයට මාරුවන්න	0.21559853184737793
+2948	Do Not Delete	මකා නොදමන්න	0.2155806538277426
+2685	%1 does not exist.	% 1 නොපවතී	0.21557011602740941
+4156	new session	නව සැසිය	0.21556486702835842
+4020	Display all windows in one list	සියළුම කවුළු එක් ලැයිස්තුවක පෙන්වන්න	0.21553098949000385
+922	Deleting files or folders	ගොනු හෝ බහලුම් මකමින්@ option: check Ask for Confirmation When	0.2154768144350654
+1130	Add New Extension	නව දිගුව එක් කරන්න	0.215381828087917
+4677	system error	පද්ධති දෝෂය	0.21525930197836804
+306	Google Image Search	Google පිංතූර සෙවුමQuery	0.21525427270565925
+2684	%1 already exists.	% 1 දැනටමත් පවතී.	0.21507301521482752
+2475	Show list	ලැයිස්තුව පෙන්වන්න	0.21504223686791155
+4675	name or service not known	නම හෝ සේවාව නොදනි	0.214932268956395
+144	PDF Viewer	PDF දක්වනයName	0.21461176848234093
+3971	No running apps	යෙදුමක් ක්‍රියාත්මක කරමින්	0.21454313131555097
+2545	After timeout: %1	කල් ඉකුත්වීමෙන් පසු:% 1@ action: button	0.21450088881190438
+4747	Cannot create memory segment for file %1	% 1 ගොනුව සඳහා මතක කොටස නිර්මාණය කළ නොහැකි විය	0.21448230445671834
+4690	request was canceled	ඉල්ලීම අහෝසි කරන ලදි	0.21411401152910065
+2523	Authenticated user (%1) does not match requested user (%2).	අවසරලත් (% 1) පරිශීලකයා ඉල්ලුම් කල (% 2) පරිශීලකයාට නොගැලපේ.	0.21405210877439768
+1426	"To change your desktop theme to ""%1"", go back to the'General 'tab of System Settings; choose'Appearance', and then'Style '; and finally select ""%2"" from the drop-down list at the top of the window."	"""% 1"" වෙත තේමාව මාරු කිරීමට නම්, පද්ධති සැකසුම් හී පෙනුම කොටසේ සාමාන්‍ය ටැබය වෙත යන්න - > රටාව හා ලැයිස්තුවෙන්""% 2 ""තෝරාගන්න."	0.21401024195047677
+4682	No such file or directory	"""% 1"" ලෙස පරිවර්තකයක් නැත"	0.2139993042050186
+3182	Delete Link	සබැඳිය මකන්න	0.21397941403714385
+3561	No command or window specified	කිසිඳු විධානයක් හෝ කවුළුවක් සපයා නොමැතNAME OF TRANSLATORS	0.21392434258903215
+3696	Switch to Screen 5	5 වන තිරයට මාරුවන්න	0.213642333531408
+4658	socket has not been created	සොකට් එක සීමා වී නැතSocket error code WouldBlock	0.21353959988934626
+2804	"Unrecognized prompt ""%1"""	"හදුනා නොගත් ""% 1"" ප්‍රේරකය@ item: inmenu authentication method"	0.21349485291768577
+2803	"Unrecognized prompt ""%1"""	"නොදන්නා ප්‍රකාරයක් ""% 1"" @ item: inmenu authentication method"	0.21349485291768577
+97	Time position: %1	සක්‍රීය	0.21328767186109152
+3164	Open the document in a new tab	ලේඛනය නව ටැබයක විවෘත කරන්න	0.21319503210345378
+676	Lock the screen or log out	තිරය අගුළුලන්න හෝ පිටවෙන්නName	0.21299762703029887
+4864	Do not show this message again	මෙම පණිවිඩය යළි පෙන්වන්න එපා	0.21267127912745903
+2669	Do not show this message again	මෙම පණිවුඩය නැවත නොපෙන්වන්න	0.21267127912745903
+4469	Uploading file:	බාගන්න	0.21265695786607514
+3165	Open with %1	% 1 සමඟ විවෘත කරන්න@ action: inmenu View	0.2124438940841433
+4753	%1 seconds	තත්පර% 1	0.2124220858514022
+1723	Add operating system name	මෙහෙයුම් පද්ධති නාමය ඇතුළත් කරන්න (y)	0.21238976798629391
+2086	Last working day of the week:	සතියේ අවසන් වැඩකරන දවස:	0.2122747412901869
+4005	Search file type	ගොනු වර්‍ගය සොයන්න	0.21221424430968275
+2721	Do you really want to enable '%1', contained within group '%2'?	ඔබට '% 2' සමූහයට අයත් '% 1', සක්‍රීය කිරීමට ඇවැසිද?	0.21214528581222186
+1567	Unable to start server %1.	ධාරකය ආරම්භ කිරීමට නොහැකි විය% 1.	0.21214414468069526
+4491	Default language:	පෙරනිමි භාෂාව:	0.21182978020410112
+1153	Add Service	සේවාවක් එක් කරන්න	0.21168216164498752
+4039	The player '%1 'cannot perform the action'previous'.	'% 1' ධාවකයට 'පෙර' ක්‍රියාව ඉටුකළ නොහැක.	0.21161470476665115
+3224	"Edit Profile ""%1"""	"""% 1"" පැතිකඩ සකසන්න"	0.21155658830048085
+2292	Choose this option to make KDE applications use the standard Windows Open/ Save file dialogs, instead of those normally used in KDE.	මෙම අභිප්‍රේතය KDE යෙදුම් සඳහා සාමාන්‍ය KDE සංවාද වෙනුවට Windows හී සම්මත විවෘත/ සුරැකුම් සංවාද භාවිත කිරීමට සලස්වයි. checkbox caption in System Integration options	0.21152455720603963
+1068	Error: Invalid username or password	වරදක්: වැරදි පරිශීලක නාමයක් හෝ මුරපදයක් @ label: listbox KDE distribution method	0.21151973897413384
+1307	Pre-KDE startup	මූලික- KDE ආරම්භය	0.21151793438499483
+3778	Use window title	කවුළු මාතෘකාව භාවිත කරන්න	0.21147411903753702
+3863	Use this command to create a new document	නව ලේඛනයක් නිර්‍මාණය කිරීමට මෙම බොත්තම භාවිත කරන්න	0.21143566267569674
+2495	There was an error loading the image %1	පිංතූරය පූර්ණය කිරීමේ වරදක් හට ගැණිනි:% 1	0.21133519376296306
+2711	Please enter new text:	කරුණාකර නව පෙළක් ඇතුළත් කරන්න:	0.2112351834987246
+2084	First day of the week:	සතියේ පළමු දිනය:	0.21122793772700577
+3695	Switch to Screen 4	4 වන තිරයට මාරුවන්න	0.21115454154746946
+4676	servname not supported for ai_socktype	servname, ai_ socktype සඳහා සහාය නොදක්වයි	0.21100797050281617
+3308	Application %1 could not be found using service %2 and path %3.	% 2 සේවාව හා% 3 මාර්ගය මගින්% 1 භාවිතයෙදවුම සොයාගත නොහැකිවිය.	0.21099893781404322
+3189	Enter the name:	නම ඇතුළත් කරන්න:	0.21091379601473956
+2722	Do you really want to disable '%1', contained within group '%2'?	ඔබට '% 2' සමූහයේ අඩංගු '% 1' අක්‍රීය කිරීමට ඇවැසිද?,	0.21084448088948218
+1453	Enter the path to your htsearch program here, e. g. / usr/ local/ bin/ htsearch	ඔබේ htsearch වැඩසටහනේ මාර්‍ගය ඇතුළත් කරන්න උදා. / usr/ local/ bin/ htsearch	0.21078814198674148
+2463	& Remove theme	තේමාව ඉවත් කරන්න (R)	0.21072590042487002
+1472	Select the icon theme you want to use:	ඔබට භාවිත කිරීමට අවශ්‍ය අයිකන තේමාව තෝරාගන්න:	0.21065814848597214
+3487	Host %1 not found	% 1 ධාරකය හමු නොවිනි	0.21056990415160018
+104	Title: %1	සිරස්තලය:% 1	0.21043586866209166
+1605	A policy already exists for %1 Do you want to replace it?	% 1 සඳහා දැනටමත් ප්‍රතිපත්තියක් පවතී. ඔබට එය ප්‍රතිපිහිටුවීමට ඇවැසිද?	0.21033894714710036
+2657	Remove group	සමූහය ඉවත් කරන්න	0.21028420502449974
+2985	%1: Unknown file type, neither directory or file.	% 1: නොදන්නා බහාළුමක්, ගොනුවක් හෝ ගොනු වර්ගයක්.	0.21015417672386794
+4180	"Profile changed to ""%1"""	"පැතිකඩ ""% 1"" වෙනස්විය"	0.21013804605507744
+3968	Unable to use the %1 Multimedia Backend: %2	% 1 භාවිත කළ නොහැක බහුමාධ්ය පසුතලය:% 2	0.21009053013087164
+411	Color settings	වර්‍ණ සැකසුම්Name	0.2100580425508458
+3835	Number of windows:	කවුළු ගණන:	0.2100538887325923
+2736	ERROR: Could not determine font's name.	දෝෂය: අකුරු නාමය හදුනාගත නොහැකි විය.	0.21003910307490384
+1265	Press %1 while CapsLock is active	CapsLock සක්‍රීය විට% 1 ඔබන්න	0.20991191155510502
+4664	operation is not supported	මෙහෙයුම සහාය නොදක්වයිSocket error code Timeout	0.20966142568678942
+3703	KDE window manager	KDE කවුළු කළමණාකරු	0.20963527264988557
+200	Enter path of file or directory:	ගොනුව හෝ බහාළුමට මාර්ගය ඇතුළත් කරනෙනName	0.20957797794395797
+4388	Show Settings	සිටුවම් පෙන්වන්න	0.209556933242165
+2590	Change Icon...	අයිකනය වෙනස් කරන්න... (g)	0.20944579960290702
+1235	"Do you really want to activate ""%1"" and ""%2""?"	"ඔබට ඇත්තෙන්ම ""% 1"" හා ""% 2"" සක්‍රීය කිරීමට අවශ්‍යද?"	0.2094212777319006
+3486	Connection to %1 refused	% 1 වෙත සම්බන්ධය ප්‍රතික්‍ෂේප විය	0.2093686024907946
+1949	& Suppress images	පිංතූර යටපත් කරන්න (S)	0.20919973234492076
+3421	Add Theme	තේමාව එක් කරන්න	0.20908381996467879
+4227	Settings and Profile	සැකසුම් හා පැතිකඩ	0.20904213380445277
+2641	URL to open	විවෘත කළයුතු URL	0.20900195340231037
+3190	Do you really want to remove the %1 tab?	ඔබට% 1 ටැබය ඉවත් කිරීමට අවශ්‍යමද?	0.20893115238496915
+2989	Could not connect to host for %1	% 1 සඳහා ධාරකය සම්බන්ධ කරගත නොහැකි විය	0.20883963921229742
+4157	log out	ඉවත් වන්නlog out command	0.20874346211395806
+4724	Show %1 specific options	% 1 විශේෂිත විකල්ප පෙන්වන්න	0.2086355381159999
+4717	%1 was written by %2	% 1 ලියන ල්දේ% 2	0.20862651598540344
+4557	What language to use to display text	පෙළ දර්ශනය කළ යුතු භාෂාව	0.20855032502911655
+2847	Input Action: %1	ඇතුළත්කිරීමේ ක්‍රියාවක්:% 1	0.20854345870716307
+3851	Inactive windows:	අක්‍රීය කවුළු:	0.2084287371070366
+4011	Type a path or a URL here	මාර්‍ගයක් හෝ URL ලිපිනයක් මෙහි ඇතුළු කරන්න	0.2084039521195402
+3203	and many more...	සහ තවත් බොහෝ... A feature of Konqueror	0.2083696827879539
+4036	The player '%1 'cannot perform the action'play'.	'% 1' ධාවකයට 'ධාවනය' ක්‍රියාව ඉටුකළ නොහැක.	0.20832230452781839
+2470	Installing %1 theme	% 1 තේමාව ස්ථාපනය කරමින්	0.2083026456745586
+1478	Installing %1 theme	ස්ථාපනය කරමින්% 1 තේමාව	0.20830264008728056
+3407	The file or folder %1 does not exist.	% 1 ගොණුව හෝ බහාලුම නොපවතී.	0.20824456477236075
+2033	Other Settings	වෙනත් සැකසුම්	0.20812134204792848
+4589	Error: DISPLAY environment variable not set.	දෝෂය: DISPLAY පාරිසරික විචල්‍යය සකසා නැත.	0.2080650341430262
+1903	Enter the name of a host (like www. kde. org) or a domain, starting with a dot (like. kde. org or. org)	(. kde. org හෝ. org වැනි) තිතකින් ආරම්භ වන ධාරක නාමයක් හෝ ඩොමේනයක් ඇතුළත් කරන්න (www. kde. org වැනි)	0.20792184386285714
+482	Simple_action	සරල_ ක්‍රියාවComment	0.20784555051817122
+2126	Could not initialize OpenGL	OpenGLආරම්භ කල නොහැකිවිය	0.20783635982932824
+1678	Reject all cookies	සියලු කුකී ප්‍රතික්‍ෂේප කරන්න (j)	0.20778970402886315
+3283	Background color:	පසුබිම් වර්‍ණය:	0.20767458546471645
+4846	Select Region of Image	රූපයේ දිසාව තෝරන්න	0.20761588319267857
+1229	"Do you really want to deactivate ""%1"", ""%2"" and ""%3""?"	"ඔබට ඇත්තෙන්ම ""% 1"" ""% 2"" හා ""% 3"" අක්‍රීය කිරීමට අවශ්‍යද?"	0.20741202957192875
+1413	Use a different & window manager:	වෙනත් කවුළු කළමනාකරුවෙක් භාවිත කරන්න (w):	0.20734557118501235
+496	Go to KDE Website	KDE වෙබ් අඩවියට යන්නComment	0.20733618911004814
+1262	Press %1 while NumLock and ScrollLock are active	NumLock, CapsLock හා ScrollLock සක්‍රීය විට% 1 ඔබන්න	0.20733065814629878
+4389	Hide Settings	සිටුවම් සඟවන්න	0.20730823037339838
+2483	Selected Users	තෝරාගත් පරිශීලකයන්	0.20719482983291357
+2312	Show opened files	විවෘත ගොණු පෙන්වන්න	0.20706883383249325
+4151	Launch with %1	% 1 සමඟින් අරඹන්න	0.20699096613160087
+2355	Specify a particular language	නිශ්චිත භාශාවක් දක්වන්න	0.20692891644981348
+86	"& Save playlist to ""%1"""	වාදන ලැයිස්තුව	0.2068859166640681
+3415	Delete folder %1 and its contents?	% 1 බහාළුම හා එහි අන්තර්ගතය මකාදමන්නද?	0.20687799231146028
+3694	Switch to Screen 3	3 වන තිරයට මාරුවන්න	0.20662419391679818
+1740	Default user name:	පෙරනිමි පරිශීලක නාමය:	0.2065654312000367
+2839	Save changes	වෙනස්කම් සුරකින්න	0.2065564935877766
+1874	Move window:	කවුළුව ගෙනයන්න:	0.20655255776493442
+2983	libsmbclient failed to create context	libsmbclientට අන්තර්ගතය සෑදිය නොහැකි විය	0.20654222296392621
+1436	Used for normal text (e. g. button labels, list items).	සාමාන්‍ය පෙළ සඳහා භාවිත වේ (උදා. බොත්තම් ලේබල, ලැයිස්තු අයිතම).	0.20651571756918213
+4731	Could not launch the mail client: %1	තැපැල් සේවාලාභියා ඇරඹිය නොහැකි විය:% 1	0.20649529527836943
+1332	Apply colors to & non-KDE4 applications	KDE4 නොවන භාවිත යෙදවුම් සඳහා වර්ණ ඇතුළත් කරන්න. (n)	0.20634689554065327
+1239	"Do you really want to activate ""%1"", ""%2"" and ""%3"" and to deactivate ""%4""?"	"ඔබට ඇත්තෙන්ම ""% 1"" ""% 2"" හා ""% 3"" සක්‍රීය කිරීමට හා""% 4 ""අක්‍රීය කිරීමට අවශ්‍යද?"	0.20629654880431414
+4369	networking: is enabled	ජාලය: සක්‍රීයව ඇත	0.2062737324492608
+3897	The file '%1 'could not be opened: it is not a normal file, it is a folder.	'% 1' ගොනුව විවෘත කල නොහැක: එය සාමාන්‍ය ගොනුවක් ඔවේ, එය බහාළුමකි.	0.20625837269077532
+1260	Press %1 while NumLock, CapsLock and ScrollLock are active	NumLock, CapsLock හා ScrollLock සක්‍රීය විට% 1 ඔබන්න	0.20620171102815646
+3755	Remove selected exception?	තෝරාගත් මඟහැරීම ඉවත් කරන්න?	0.20618548131546913
+3697	Switch to Screen 7	7 වන තිරයට මාරුවන්න	0.2060032806967364
+226	The application name	යෙදුම් නාමයName	0.20568132507002834
+2861	SCSI subsystem could not be queried: / sbin/ camcontrol could not be executed	SCSI අනුපද්ධතිය විමසිය නොහැක: / sbin/ camcontrol ක්‍රියාත්මක කල නොහැක	0.20565274213211232
+2863	PCI subsystem could not be queried: %1 could not be executed	PCI අනුපද්ධතිය විමසිය නොහැක:% 1 ක්‍රියාත්මක කල නොහැක	0.20564725311502655
+2984	libsmbclient failed to initialize context	libsmbclientට අන්තර්ගතය සැකසීමට නොහැකිවිය	0.20563605895286974
+933	All folders	සියලු බහලුම්@ option: check	0.20541336501487656
+3016	Maximum size:	උපරිම ප්‍රමාණය: @ info: whatsthis	0.2053578844543994
+3026	not supported	සහාය නොදක්වයි	0.2053500231023633
+3569	Choose your visual KDE theme:	ඔබේ දෘශ්‍ය තේමාව තෝරන්න:	0.2053477564671945
+4038	The player '%1 'cannot perform the action'stop'.	'% 1' ධාවකයට 'නවතන්න' ක්‍රියාව ඉටුකළ නොහැක.	0.20530388309179043
+4649	The library %1 does not offer a KDE 4 compatible factory.	% 1 පුස්තකාලය KDE 4 අනුකූල වැඩපොලක් ලබා නොදේ.	0.20515080056104473
+3300	Switch to Tab %1	% 1 ටැබයට මාරුවන්න	0.20502537220809225
+2865	Could not check file system info:	ගොනු පද්ධති තොරතුරු පිරික්සිය නොහැක:	0.20493048109621903
+4014	%1 Icon Settings	% 1 අයිකන සැකසුම්@ action: inmenu	0.20490695515894225
+4823	Save file with another name	ගොනුව වෙනත් නමකින් සුරකින්න	0.20485533322657035
+698	Files and Directories	ගොනු සහ බහලුම්Comment	0.20484142416058582
+4588	Error: HOME environment variable not set.	දෝෂය: HOME පාරිසරික විචල්‍යය සකසා නැත.	0.20477310573377167
+847	Add Comment...	සටහන එක් කරන්න... @ label	0.20475320559340668
+2703	Nothing to Delete	මැකීමට කිසිවක් නැත	0.2046571477624689
+2368	Unable to launch KCardChooser	KCardChooser ක්‍රියාකල නොහැකි විය	0.20460830681170367
+1727	Add & platform name	වේදිකා වර්‍ගය ඇතුළත් කරන්න (p)	0.20442779556137186
+1714	Enter the host or domain to which this policy applies, e. g. www. kde. org or. kde. org.	මෙම ප්‍රතිපත්ති ඇතුළත් වන වසම් හෝ ධාරක ඇතුළත් කරන්න, උදා. www. kde. org හෝ. kde. org.	0.20428223922209016
+3166	Do Not Add	එක් නොකරන්න	0.20426512315683593
+1084	Stop searching	ගවේශනය නවතන්න@ info: tooltip	0.20426456367126541
+4520	Select the sound to play	වාදය සඳහා හඬ තෝරන්න	0.20422416475087068
+3198	Search the Web	අන්තර්ජාලයේ සොයන්න	0.20411079692548176
+1261	Press %1 while CapsLock and ScrollLock are active	CapsLock හා ScrollLock සක්‍රීය විට% 1 ඔබන්න	0.20397382539675957
+3285	& Change Profile	පැතිකඩ වෙනස් කරන්න (C)	0.20392154600218826
+2845	Active window:	සක්‍රීය කවුළුව:	0.20387763588061056
+4040	The player '%1 'cannot perform the action'next'.	'% 1' ධාවකයට 'ඊලඟ' ක්‍රියාව ඉටුකළ නොහැක.	0.20383980541174
+204	Enter link to location (URL):	ස්ථානයට සබැඳිය ඇතුළු කරන්න( URL): Name	0.20382203812456595
+4734	Could not Launch Browser	ගවේෂකය ඇරඹිය නොහැකි විය	0.20371788598097923
+1238	"Do you really want to activate ""%1"", ""%2"" and ""%3""?"	"ඔබට ඇත්තෙන්ම ""% 1"", ""% 2"" හා ""% 3"" සක්‍රීය කිරීමට අවශ්‍යද?"	0.20368602827293664
+1264	Press %1 while NumLock and CapsLock are active	NumLock හා CapsLock සක්‍රීය විට% 1 ඔබන්න	0.20354042822945465
+3890	PHP Keyword/ Datatype list	PHP යතුරු වදන්/ දත්ත වර්‍ග ලැයිස්තුව	0.20350945613856639
+1327	Remove the selected scheme	තෝරාගත් තේමාව ඉවත් කරන්න	0.2034547841595199
+4006	File name pattern:	ගොනු නාම රටා:	0.20339908620081573
+3276	New Profile...	නව පැතිකඩ...	0.20339078339274774
+3262	Delete the selected color scheme	තෝරාගත් වර්‍ණ ක්‍රමය මකන්න	0.20333793807480277
+3373	& Do not ask again	නැවත අසන්න එපා (D)	0.20329647635021753
+2866	enabled	සක්‍රීය කල	0.20326236909608217
+198	New camera	නව කැමරාවName	0.2032416172997569
+3292	%1 is an invalid URL, the output could not be saved.	% 1 සාවද්‍ය URL කි, ප්‍රථිධානය සුරකිය නොහැක.	0.20322908106498092
+3100	Menu changes could not be saved because of the following problem:	පහත ගැටළුව නිසා මෙනු වෙනස්කම් සුරැකිය නොහැක:	0.203190897609221
+2708	No files?	ගොනු නොමැතිද?	0.20315272187827502
+3216	"& Save View Profile ""%1""..."	"""% 1"" දසුන් පැතිකඩ සුරකින්න... (S)"	0.20314513097868112
+4674	no address associated with nodename	නොඩ් නාමය සමඟ ලිපිනය බැදි නැත	0.20311478199504193
+4355	Memory usage: %1 out of %2 (%3%)	මතක භාවිතය:% 2 කින්% 1 (% 3%)	0.2030704141795746
+417	Display Settings	සංදර්ශන සැකසුම්Comment	0.20297077948777809
+4035	The player '%1 'cannot be found.	'% 1' ධාවකය සොයාගත නොහැක.	0.20293255731151716
+1393	& Revert to Previous	පෙර අවස්ථාවට යන්න (R)	0.20292178688320336
+3676	Switch to Desktop 1	1 වන වැඩතලයට මාරුවන්න	0.2029096529247154
+2832	Active window	සක්‍රීය කවුළුව	0.20289903625724473
+3050	Add Action...	ක්‍රියාව එක් කරන්න...	0.20287244167189386
+3001	Cannot load ThumbCreator %1	ThumbCreator% 1 පූර්ණය කල නොහැක	0.2028260208558276
+2656	Remove Group	සමූහය ඉවත් කරන්න	0.202789746292578
+3907	Remove Group	කණ්ඩායම ඉවත් කරන්න	0.202789746292578
+3962	Unable to load Netscape plugin for %1	% 1 සඳහා Netscape ප්ලගිනය ක්‍රියාත්මක කළ නොහැකName of the netscape- plugin which generated this mimetype	0.20274037509832485
+4194	Do not display this warning again	අවවාදය නැවත නොපෙන්වන්න	0.20271129417044323
+2860	SCSI subsystem could not be queried: / sbin/ camcontrol could not be found	SCSI අනුපද්ධතිය විමසිය නොහැක: / sbin/ camcontrol සොයාගත නොහැක	0.20267986545097313
+2186	Data select	දත්ත තේරීම	0.20265532261778044
+3031	Disable Actions for Windows of Type WM_CLASS	WM_ CLASS වර්ගයේ කවුළු සඳහා ක්‍රියා අක්‍රීය කරන්න (i)	0.20261520303755204
+849	Add Tags...	නව ටැගය... @ label	0.2025867762643121
+2961	Could not access %1. There is probably no disk in the drive %2	% 1 වෙත පිවිසිය නොහැක. බොහෝ විට% 2 ධාවකයේ තැටියක් නොමැති විය හැක	0.20257866671466646
+3129	& Reload All Tabs	සියලු ටැබ යළිපූරණය (R)	0.20249451206102048
+4046	The player '%1 'cannot perform the action'seek'.	'% 1' ධාවකයට 'සෙවීම' ක්‍රියාව ඉටුකළ නොහැක.	0.2024940530331595
+2689	Unexpected error whilst processing: %1	whilst සැකසීමේදී බලාපොරොත්තු නොවූ වරදක්:% 1	0.2024741385521241
+3192	& Open Link	සබැඳිය විවෘත කරන්න (O)	0.20241042322156955
+1524	Channel 2	2 වන නාලිකාව	0.20221680307242584
+4037	The player '%1 'cannot perform the action'pause'.	'% 1' ධාවකයට 'රඳවන්න' ක්‍රියාව ඉටුකළ නොහැක.	0.20219860499592315
+2461	Install & new theme	නව තේමාවක් ස්ථාපනය කරන්න (n)	0.20214313258851654
+1435	Window title	කවුළු සිරස්ලය	0.20213979044589703
+2808	URL to display	පෙන්විය යුතු URL	0.20209870916572295
+3634	Verify password:	මුරපදය තහවුරු කරන්න: NAME OF TRANSLATORS	0.20207755353561846
+533	Failed attempt to unlock the screen	තිරය අගුළු හැරිමේ උත්සාහය අසාර්ථකයිName	0.20200229723341628
+2724	"Can only install fonts to either ""%1"" or ""%2""."	"""% 1"" හෝ ""% 2"" වලින් පමණක් අකුරු ස්ථාපනය කල හැක."	0.20197046257293014
+4703	sets the default button color	පෙරනිමි බොත්තම් වර්‍ණය සකසයි	0.20194106206342816
+1539	KDE Classic	KDE සම්මත	0.20187503502577986
+271	KDE Classic	KDE සාම්ප්‍රදායිකComment	0.20187503171461257
+89	Playlist name:	වාදන ලැයිස්තු නාමය:	0.2018684673730238
+1527	Remove Theme	තේමාව ඉවත් කරන්න...	0.20185571220087642
+1423	Remove Theme	තේමාව ඉවත් කරන්න	0.20185571220087642
+1429	Remove Theme	තේමාව ඉවත් කරන්නNAME OF TRANSLATORS	0.2018557011011177
+955	the URL of a web site you were browsing	ඔබ ගවේශනය කරමින් සිටි වෙබ් අඩවියේ URL ලිපිනය@ info/ rich crash situation example	0.20182203372210852
+2751	Please enter new string:	කරුණාකර නව වැකියක් ඇතුළත් කරන්න:	0.20171545581907432
+1359	Selected text	තෝරාගත් පෙළ	0.20160595138927298
+334	Africa, Northern	උතුරු අප්‍රිකාවName	0.20152269060822928
+3488	An error occurred with the network (e. g. the network cable was accidentally unplugged) for host %1.	% 1 ධාරකය සමඟ ජාලයේ දෝශයක් ඇතිවිය (උදා. ජාල රැහැන අනපේක්‍ෂිතව ගැලවිනි).	0.2015148668209673
+3172	& Rename Profile	පැතිකඩ නාමය වෙනස් කිරීම (R)	0.20149849502033185
+625	Another window is activated	තවත් කවුළුවක් සක්‍රීය වියComment	0.2014830601849838
+3966	Submitting data to %1	% 1 ට දත්ත ඇතුළත් කරමින්	0.20144777644217182
+810	The KDE 4 icon view style	KDE 4 අයිකන දසුන් රටාවName	0.2014448554211323
+4762	Add Comment	සටහනක් එක් කරන්න	0.20141400941064316
+848	Add Comment	සටහන එක් කරන්න... @ info: progress	0.20141398691585635
+2430	No password required for:	මුරපදයක් අවශ්‍ය නොවේ (q):	0.201369905516838
+4378	Configure your system	සකසන්න	0.20125515009527567
+4390	Click any button to change its key	එහි යතුරු වෙනස් කිරීමට ඕනෑම බොත්තමක් මත ක්ලික් කරන්න	0.20123703346670904
+3862	Use this command to close the current document	වත්මන් ලේඛනය වසාදැමීමට මෙම විධානය භාවිත කරන්න	0.2011396774832825
+3725	Not on all desktops	සියලු වැඩතලයක මත නොවේ	0.20099521190393238
+3744	Not on all desktops	සියළුම වැඩතලයන් මත නොවේ	0.20099517480193904
+4385	Show nothing	කිසිවක් පෙන්වන්න එපාNAME OF TRANSLATORS	0.20089734769321105
+942	with optional icon and description	නම වෙනස් කිරීම අවසන්.	0.20086319161726265
+3457	The file %1 has an invalid worksheet size.	% 1 ගොනුව සතුව වලංගු නොවන වැඩපත්‍ර ප්‍රමාණයක් පවතී.	0.20084104813829334
+2947	File Changed	ගොනුව වෙනස්විය	0.2008267356202798
+4523	Select the command to run	ක්‍රියාත්මක කළයුතු විධානය තෝරන්න	0.20062904628930764
+4487	Remember password	රහස්පදය මතක තබාගන්න	0.2005369610076644
+4653	name lookup has failed	නාම විමසුම අසමත් වී ඇතSocket error code AddressInUse	0.20050743726341272
+3039	Do Not Start	ආරම්භ නොකරන්න	0.20047036640033378
+2306	All KDE settings in one place	සියලු KDE සැකසුම් එකම ස්ථානයක	0.20032116875302972
+4735	Could not launch the terminal client: %1	ටර්මිනල් සේවාලාභියා ඇරඹිය නොහැකි විය:% 1	0.20031903045394436
+70	Select Source	සංයුතිය තෝරන්න:	0.2002966043887874
+1234	"Do you really want to activate ""%1"" and to deactivate ""%2"", ""%3"" and ""%4""?"	"ඔබට ඇත්තෙන්ම ""% 1"" සක්‍රීය කිරීමට හා ""% 2"", ""% 3"" හා ""% 4"" අක්‍රීය කිරීමට අවශ්‍යද?"	0.20022964712917934
+3088	Only show in KDE	KDE තුළ පමණක් පෙන්වන්න	0.20021476368931385
+3094	Save Menu Changes?	මෙනු වෙනස්කම් සුරකින්නද?	0.20014333457908798
+1588	This file (%1) does not exist. You can only select local files.	(% 1) ගොණුව නොපවතී, ඔබට තෝරාගත හැක්කේ ප්‍රාදේශීය ගොණූ පමණයි	0.20014263272282592
+1424	New theme name:	නව තේමා නාමය	0.20010532328980407
+3261	Edit the selected color scheme	වර්‍ණ ක්‍රමය සකසන්න	0.20009517576119976
+3257	Show menu bar in new windows	මෙනු තීරුව නව කවුළුවේ පෙන්වන්න	0.20005083956360795
+4191	No methods found	ක්‍රමයක් හමු නොවිනි	0.2000375388637405
+2106	& Use an external player	භාහිර ධාවකයක් භාවිත කරන්න (U)	0.19994624437414324
+1980	Shortcut conflict: Could not set Shortcut %1 for Desktop %2	කෙට්මං ගැටුමක්:% 2 වැඩතලය සඳහා% 1 කෙටිමඟ සැකසිය නොහැක	0.19990516970913239
+855	Select	සියල්ල තෝරන්න	0.19988824272752037
+3274	Select	තෝරන්න	0.19988824272752037
+3698	Switch to Next Screen	මීළඟ තිරයට මාරුවන්න	0.19984010734367788
+1417	"Theme items have been changed. Do you still wish remove the ""%1"" theme?"	"තේමා අයිතමය වෙනස් වී ඇත. ඔබ තවමත් ""% 1"" තේමාව ඉවත් කිරීමට සිතනවාද?"	0.1998340218998224
+893	Close Other Tabs	අනෙකුත් ටැබ වසන්න@ action: inmenu	0.1998202670574498
+4807	File Uploaded	පිටුව පූරණය විය.	0.19981235511016743
+118	in bytes, for example > 1000	බයිට් මඟින්, උදා > 1000Comment	0.1997779288797714
+4274	Displayed Information	පෙන්වූ තොරතුරු	0.1997699021376828
+4018	[Other Actions]	[වෙනත් ක්‍රියා]	0.19975134923239476
+521	Open with & Firefox	& Firefox සමඟ විවෘත කරන්නDescription	0.19974837459669711
+1319	& Enter a name for the color scheme:	වර්‍ණ තේමාවේ නම ඇතුළත් කරන්න (E):	0.19972527212199412
+1454	Enter the path to your htmerge program here, e. g. / usr/ local/ bin/ htmerge	ඔබේ htmerge වැඩසටහනේ මාර්‍ගය ඇතුළත් කරන්න උදා, e. g. / usr/ local/ bin/ htmerge	0.1996993895784093
+4824	Apply changes	වෙනස්කම් යොදන්න	0.1996960344604356
+258	KDE is starting up	KDE අරඹමින්Name	0.1996242642131571
+4707	disable XIM	XIM අක්‍රීය කරන්න	0.19960802255582746
+3724	"The window ""%2"" is not responding. It belongs to the application %1 (Process ID = %3, hostname = %4). Do you wish to terminate the application process including all of its child windows? Any unsaved data will be lost."	"""% 2"" මාතෘකාව ඇති කවුළුව ප්‍රතිචාරයක් නොදක්වයි. මෙම කවුළුව අයත් වන්නේ% 1 යෙදුමටයි (PID=% 3, hostname=% 4). ඔබ මෙම යෙදුම මර්දනය කිරීමට කැමතිද? (සියළු නොසුරැකුනු දත්ත නැතිවනු ඇත.)"	0.19957690375369522
+3567	Theme Not Created	තේමාව නොසැකසිණි	0.19946679207405507
+3007	"Helper program to handle the KDE trash can Note: to move files to the trash, do not use ktrash, but ""kioclient move'url 'trash: /"""	"KDE කුණු කූඩය හැසිරවීමට උදව් වැඩසටහන වැදගත්: ගොනු කුණුකූඩයට දැමීමට ktrash භාවිත නොකරන්න, එහෙත් ""kioclient 'url' කුණුකූඩයට ගෙනයන්න trash: /"""	0.19943727145451495
+860	Show preview	පූර්‍වදසුන පෙන්වන්න@ option: check	0.1993520502340014
+1179	internal error - code %1 unknown	අභ්‍යන්තර වරදක් -% 1 කේතය නොදනී	0.1993120416022361
+2728	"Can only remove fonts from either ""%1"" or ""%2""."	"""% 1"" හෝ ""% 2"" වලින් පමණක් අකුරු ඉවත්කල හැක."	0.1992709134029821
+2582	First viewed:	මුල් වරට පිවිසි:	0.19920355851543986
+3368	The session was locked by %1	මෙම වාරය% 1 විසින් අගුළුලන ලදී	0.19918715815467175
+2472	Remove themes?	තේමා ඉවත් කරන්නද?	0.19914477415477524
+2950	Do Not Upload	අපගත නොකරන්න	0.19889605194378024
+3290	Edit Current Profile...	දැනට ඇති පැතැකඩ සුරකින්න...	0.1988288420588959
+3779	Outer Color:	පිටත වර්ණය:	0.19880883794273604
+3277	Edit the selected profile(s)	තෝරාගත් පැතිකඩ සකසන්න	0.19875183711492972
+4694	Use the QWS display'displayname '	QWS දර්ශන 'displayname' භාවිත කරන්න	0.1987031197418732
+2731	Failed to start the system daemon	පද්ධති මුද්‍රක ඩීමනය ඇරඹිය නොහැක	0.19859688954855254
+183	This folder contains your personal files	මෙම බහාළුමෙහි ඔබේ පුද්ගලික ගොනු අඩංගු වේName	0.19848648708299838
+2681	%1 is not a font.	% 1 අකුරක් නොවේ.	0.19847050376582578
+2734	%1 is not a font.	% 1 යනු අකුරක් නොවේ.	0.19847050376582578
+3291	Change Profile	පැතිකඩ වෙනස් කරන්න	0.1984377541082569
+2635	URL to install	ස්ථාපනය කළයුතු URL	0.1984180935619072
+1616	%1 is already in the list.	% 1 දැනටමත් ලැයිස්තුවේ පවතී.	0.19838897901368702
+4206	Save Profile	පැතිකඩ සුරකින්නNAME OF TRANSLATORS	0.19833792137207742
+3584	Show all jobs in a list	සියළුම කාර්යයන් ලැයිස්තුවක දක්වන්න.	0.19814333127767567
+1444	Click to change all fonts	සියළුම අකුරු වෙනස් කිරීමට මෙය ක්ලික් කරන්න	0.1980769803967935
+3173	Start without a default window	පෙරනිමි කවුලුවක් නොමැතිව විවෘත කරන්න	0.1980751881314235
+1109	Showing report %1	% 1 වාර්ථාව පෙන්වමින්@ info	0.19793301313203326
+4763	View Comments	සටහන් දර්ශනය	0.19779572644126572
+3944	New backend	නව පසු ඉමක්	0.19773684076852982
+4512	Only Run HTML Tests	HTML පරීක්‍ෂණය පමණක් ක්‍රියාත්මක කරන්න	0.19772971435077105
+2548	Cannot parse theme file %1	% 1 තේමා ගොනුව විග්‍රහ කල නොහැක	0.19765048342100985
+4571	Quit application...	යෙදුමින් ඉවත් වීම...	0.19763826955343144
+4569	Open a script...	ස්ක්‍රිප්ට්ටයක් විවෘත කරන්න...	0.19758440036457167
+1344	Inactive color	අක්‍රීය වර්ණ	0.19742475516517557
+32	unknown type	නොදන්නා	0.1973995684176584
+2733	%1 contains the font %2, which is already installed on your system.	% 1හී% 2 අකුරු අඩංගු වේ, ඒවා දැනටමත් ඔබේ පද්ධතියේ ස්ථාපනය කර ඇත.	0.19733433629772426
+2680	%1 contains the font %2, which is already installed on your system.	% 1 සතුව% 2 අකුරු පවතී, මේවා දැනටමත් ඔබේ පද්ධතියේ ස්ථාපනය කර ඇත.	0.19733433629772426
+1569	Unable to stop server %1.	සේවාව නැවතිය නොහැකි විය% 1.	0.19724945373564493
+4198	Modules not found	මොඩියුල හමු නොවිනි	0.19719505998921757
+87	Total playlist size: %1	වාදන ලැයිස්තුව	0.19709439488406078
+2611	Show & hidden files	සැඟවුනු ගොනු සොයන්න (h)	0.19706654937362234
+2962	Could not access %1. There is probably no disk in the drive %2 or you do not have enough permissions to access the drive.	% 1 වෙත පිවිසිය නොහැක. බොහෝවිට% 2 ධාවකයේ තැටියක් නොමැති හෝ ධාවකය වෙත පිවිසීමට ඔබට ප්‍රමානවත් බලතල නොමැතිවිය හැක.	0.1970639513343911
+4668	Unknown error	නොදන්නා දෝෂයක්	0.19700862860877938
+999	Unknown error	නොදන්නා වරදක්@ info	0.19700862860877938
+3559	Use ksystraycmd's icon instead of the window's icon in the systray (should be used with --icon to specify ksystraycmd icon)	පද්ධති තැටියේ කවුළුවේ අයිකනය වෙනුවට ksystraycmd' s හි අයිකනය භාවිත කරන්න (ksystraycmd අයිකනය ලබාදීමට -- අයිකනය සමඟ භාවිත කල යුතුයි)	0.1969038147287103
+3135	Protocol not supported %1	ප්‍රොටොකොලය සහාය නොදක්වයි% 1@ title: tab	0.19674480691790253
+1523	Channel 1	1 වන නාලිකාව	0.19667543453858588
+3230	Open Link	සබැඳිය විවෘත කරන්න	0.1966183309787043
+1591	Remove component	සංරචකයක් ඉවත් කරන්න	0.19661678817047637
+2811	Do Not Create	තනන්න එපා	0.19659536144881676
+2820	Window appears	කවුළුව පෙනෙයි	0.19659106977053514
+4813	Download File:	බාගන්න	0.19653928704364743
+2659	"All Fonts contains all the fonts installed on your system - both ""System"" and ""Personal"". System contains all fonts that are installed system-wide (i. e. available to all users). Personal contains your personal fonts. Unclassified contains all fonts that have not yet been placed within a ""Custom"" group."	"සියළු අකුරු ඔබේ පද්ධතියේ ඇති සියළු අකුරු ""පද්ධති"" හා ""පුද්ගලික"" යන දෙකම. පද්ධති සියළු පද්ධති- ව්‍යාප්ත ලෙස ස්ථාපිත අකුරු අඩංගු වේ (සියළු පරිශීලකයන්ට භාවිත කල හැකි). පුද්ගලික ඔබේ පුද්ගලික අකුරු දරයි. වර්ග නොකළ ඔබ විසින් ""රුචි"" කණ්ඩායමක නොදැමූ සියළු අකුරු මෙහි අඩංගු වේ."	0.19653478922031714
+2439	There was an error loading the image: %1 It will not be saved.	පිළිබිඹුව පූර්ණය කිරීමේ වරදක් හට ගැණිනි:% 1 එය නොසුරැකේ.	0.1964132818518191
+4817	Overwrite File?	ගොනුව මත ලියන්න ද?	0.19634893850829296
+727	File and URL opener	ගොනු සහ URL විවෘතකරණයName	0.19632270072330577
+1679	To add a new policy, simply click on the Add... button and supply the necessary information. To change an existing policy, use the Change... button and choose the new policy from the policy dialog box. Clicking on the Delete button will remove the currently selected policy causing the default policy setting to be used for that domain, whereas Delete All will remove all the site specific policies.	නව ප්‍රතිපත්තියක් එක් කිරීමට, සරලව එක් කරන්න... බොත්තම ක්ලික් කර ඇවැසි තොරතුරු ලබාදෙන්න. පවතින ප්‍රතිපත්තියක් වෙනස් කිරීමට වෙනස් කරන්න... බොත්තම ක්ලික් කර ප්‍රතිපත්ති ලැයිස්තු කොටුවෙනව ප්‍රතිපත්තිය තෝරන්න මකන්න බොත්තම දැනට තෝරාගෙන ඇති ප්‍රතිපත්තිය මකාදමා එම වසම සඳහා පෙරනිමි ප්‍රතිපත්ති සැකසුම් යොදන අතර සියල්ල මකන්න සියළු අඩවි පාදක ප්‍රතිපත්ති මකාදමයි.	0.1963158905147087
+2954	URL(s) or local file(s) used for'command '	'විධානය' සඳහා වූ URL හෝ ගොනුNAME OF TRANSLATORS	0.19614183788390513
+514	Launches KSnapShot when PrintScrn is pressed.	PrintScrn එබූ විට KSnapShot ක්‍රියාත්මක කරයි. Name	0.19609592600160966
+272	Classic KDE style	සාම්ප්‍රදායික KDE රටාවName	0.1960950144380618
+3223	Edit Profile	පැතිකඩ වෙනස් කරන්න	0.19603821705540692
+3162	Move Files...	ගොනු ගෙනයන්න (o)	0.1960225007187927
+3309	Quitting application %1 failed. Error reported was: %2: %3	% 1 භාවිත යෙදවුමෙන් ඉවත්වීම අසාර්ථකයි. වැරදි වාර්ථාව වූයේ:% 2:% 3NAME OF TRANSLATORS	0.19600376297874678
+3564	Theme %1 already exists.	% 1 තේමාව දැනටමත් පවතී.% 1 is theme archive name	0.19595430468403194
+1529	You have to restart KDE for these changes to take effect.	ඔබට මෙම වෙනස්කම් බලපැවැත්වීමට KDE නැවත ආරම්භ කිරීමට සිදුවේ.	0.19594755387550422
+1627	You have to restart KDE for these changes to take effect.	ඔබට මෙම වෙනස්කම් බලගැන්වීමට KDE නැවත ආරම්භ කිරීමට සිදුවේ	0.19594755387550422
+1977	Switch to Desktop %1	% 1 වැඩතලයට මාරුවෙන්න	0.19593400880149364
+4203	Enter here the name for the profile you are creating	මෙහි ඔබ සාදන පැතිකට සඳහා නමක් ඇතුළත් කරන්න	0.1959304374141152
+3248	Manage Profiles...	කළමණාකරන පැතිකඩ...	0.19590591854086906
+4347	%1: %2, owned by user %3	% 1:% 2,% 3 පරිශීලක හට අයත් වේ	0.1958559174169987
+2963	Could not access %1. The drive %2 is not supported.	% 1 වෙත පිවිසිය නොහැක.% 2 ධාවකය සහාය නොදක්වයි.	0.195737282681691
+3651	XRender/ XFixes extensions are not available and only XRender support is compiled.	XRender/ XFixes දිගු නොපවතින අතර XRender සහාය පමණක් සම්පාදනය කර ඇත.	0.19570719447375123
+1573	If supported, this option allows you to setup the state of NumLock after KDE startup. You can configure NumLock to be turned on or off, or configure KDE not to set NumLock state.	සහාය දක්වයි නම්, මෙම විකල්පය ඔබට KDE ආරමභයෙන් පසු NumLock හී තත්වය සැකසීමට ඉඩ දේ. ඔබට Numlock සක්‍රීයව හෝ අක්‍රීයව තැබිය හැක. නැතහොත් Numlock තත්වයක් නොසැකසීම සඳහා KDE සකසන්න.	0.1957026266628502
+4811	Install again	ස්ථාපනය	0.19567053048205477
+2369	No card inserted	කිසිඳු කාඩ්පතක් ඇතුල් කර නොමැත	0.1955778319247591
+4853	Name for new scheme:	නව ක්‍රමය සඳහා නාමය:	0.19554761364110373
