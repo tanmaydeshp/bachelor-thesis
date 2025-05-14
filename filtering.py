@@ -4,19 +4,35 @@ model_path = hf_hub_download(repo_id="cis-lmu/glotlid", filename="model.bin", ca
 model = fasttext.load_model(model_path)
 lang_codes = {"english": "__label__eng_Latn", "sinhala": "__label__sin_Sinh"}
 
+#Define length ratio parameters based on NLLB
+LENGTH_RATIO_MEAN = 0
+LENGTH_RATIO_STD = 0
+
+with open("data/en-si/NLLB.en-si.en") as f1, open("data/en-si/NLLB.en-si.si") as f2: 
+    ratios = []
+    for line1, line2 in zip(f1, f2):
+        line1 = line1.removesuffix("\n")
+        line2= line2.removesuffix("\n")
+        ratios.append(float(len(line1)/len(line2)))
+    import statistics 
+    LENGTH_RATIO_MEAN = statistics.fmean(ratios)
+    LEGNTH_RATIO_STD = statistics.stdev(ratios)
+
+
 #Check if the lengths of the sentence pairs match:
-def check_lengths(sentence1, sentence2):
-    words1 = len(sentence1.split())
-    words2 = len(sentence2.split())
-    if words1 >= 5 * words2 or words2 >= 5 * words1: 
-        return False 
-    else:
-        return True
+def check_lengths(df, lang1, lang2, z_thresh=2.5):
+    import numpy as np
+    ratios = df[f"{lang1}"].apply(lambda x: len(x.split())) / df[f"{lang2}"].apply(lambda x: len(x.split()) if len(x.split()) > 0 else 1)
+    log_ratios = np.log(ratios)
+    mean = log_ratios.mean()
+    std = log_ratios.std()
+    z_scores = (log_ratios - mean) / std
+    return df[np.abs(z_scores) <= z_thresh].reset_index(drop=True)
 
 #Return true if the sentence belongs to the specified language
-def check_language(sentence, language_code):
+def check_language(sentence, language_code, threshold):
     x = model.predict(sentence)
-    if str(x[0][0]) == language_code and float(x[1][0]) >= 0.5:
+    if str(x[0][0]) == language_code and float(x[1][0]) >= threshold:
         return True 
     else:
         return False
@@ -25,18 +41,28 @@ def check_language(sentence, language_code):
 def moses_to_df(file1, file2, lang1, lang2):
     lang1_lines = []
     lang2_lines = []
+
+    #Read Moses files into a Pandas DataFrame
     with open(file1, "r", encoding="utf-8") as f1, open(file2, "r", encoding="utf-8") as f2:
         for line1, line2 in zip(f1, f2): 
             line1 = line1.removesuffix("\n")
             line2= line2.removesuffix("\n")
-            if not(check_lengths(line1, line2)):
-                continue
-            if (check_language(line1, lang_codes[lang1]) and check_language(line2, lang_codes[lang2])):
-                lang1_lines.append(line1)
-                lang2_lines.append(line2)
+            lang1_lines.append(line1)
+            lang2_lines.append(line2)
     import pandas as pd
     df = pd.DataFrame({lang1: lang1_lines, lang2: lang2_lines})
+
+    #Remove duplicated sentence pairs 
     df.drop_duplicates(inplace=True, ignore_index=True)
+
+    #Remove pairs where the ratios of words per sentence is too unlikely
+    df = check_lengths(df, "english", "sinhala")
+
+    #Remove pairs where one of the sentences is in the wrong language
+    
+    lang1_mask = df[f"{lang1}"].apply(check_language, args=(lang_codes[f"{lang1}"], 0.5))
+    lang2_mask = df[f"{lang2}"].apply(check_language, args=(lang_codes[f"{lang2}"], 0.5))
+    df[lang1_mask & lang2_mask].reset_index(drop=True)
     return df
 
 #Convert a list of sentences into their multilingual embeddings according to the given model
@@ -65,9 +91,9 @@ def find_similarity_score(embeddings1, embeddings2):
     return similarity_scores
 
 #Given a pandas DataFrame, filter best x percent of sentence pairs and store the results in a .tsv file
-def filter_top_percentile(df, percentile, tsv_path): 
+def filter(df, mode, tsv_path): 
     df.sort_values("Similarity score", ascending=False, inplace=True)
-    df[df["Similarity score"] >= df["Similarity score"].quantile(percentile)].to_csv(sep="\t", path_or_buf=tsv_path)
+    df[df["Similarity score"] >= mode].to_csv(sep="\t", path_or_buf=tsv_path)
 
 def main():
     import argparse 
@@ -75,14 +101,15 @@ def main():
     parser.add_argument("--files", "-f", type=str, nargs="+")
     parser.add_argument("--langs", "-l", type=str, nargs="+")
     parser.add_argument("--output", "-o", type=str)
-    parser.add_argument("--percentile", "-p", type=float)
+    # parser.add_argument("--percentile", "-p", type=float)
     parser.add_argument("--model", "-m", type=str)
     args = parser.parse_args()
     df = moses_to_df(args.files[0], args.files[1], args.langs[0], args.langs[1])
     lang1_embedding = to_multilingual_embedding(args.langs[0], df[args.langs[0]], args.model)
     lang2_embedding = to_multilingual_embedding(args.langs[1], df[args.langs[1]], args.model)
     df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
-    filter_top_percentile(df, args.percentile, args.output)
+    mode = df["Similarity score"].mode()[0]
+    filter(df, mode, args.output)
 
 if __name__ == "__main__":
     main()
