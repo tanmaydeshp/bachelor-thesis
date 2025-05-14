@@ -3,7 +3,7 @@ from huggingface_hub import hf_hub_download
 model_path = hf_hub_download(repo_id="cis-lmu/glotlid", filename="model.bin", cache_dir="./models")
 model = fasttext.load_model(model_path)
 lang_codes = {"english": "__label__eng_Latn", "sinhala": "__label__sin_Sinh"}
-
+filtering_stats = {}
 #Define length ratio parameters based on NLLB
 LENGTH_RATIO_MEAN = 0
 LENGTH_RATIO_STD = 0
@@ -51,18 +51,18 @@ def moses_to_df(file1, file2, lang1, lang2):
             lang2_lines.append(line2)
     import pandas as pd
     df = pd.DataFrame({lang1: lang1_lines, lang2: lang2_lines})
-    print(f"Number of sentence pairs in raw corpus: {df.shape[0]}\n")
+    filtering_stats["Raw corpus"] = df.shape[0]
     #Remove duplicated sentence pairs 
     df.drop_duplicates(inplace=True, ignore_index=True)
-    print(f"Number of sentence pairs after dropping duplicates: {df.shape[0]}\n")
+    filtering_stats["After dropping duplicates"] = df.shape[0]
     #Remove pairs where the ratios of words per sentence is too unlikely
     df = check_lengths(df, "english", "sinhala")
-    print(f"Number of sentence pairs after removing outliers based on length ratios: {df.shape[0]}\n")
+    filtering_stats["After removing length based outliers"] = df.shape[0]
     #Remove pairs where one of the sentences is in the wrong language
     lang1_mask = df[f"{lang1}"].apply(check_language, args=(lang_codes[f"{lang1}"], 0.5))
     lang2_mask = df[f"{lang2}"].apply(check_language, args=(lang_codes[f"{lang2}"], 0.5))
     df = df[lang1_mask & lang2_mask].reset_index(drop=True)
-    print(f"Number of sentence pairs after language identification: {df.shape[0]}\n")
+    filtering_stats["After performing language identification"] = df.shape[0]
     return df
 
 #Convert a list of sentences into their multilingual embeddings according to the given model
@@ -91,10 +91,9 @@ def find_similarity_score(embeddings1, embeddings2):
     return similarity_scores
 
 #Given a pandas DataFrame, filter best x percent of sentence pairs and store the results in a .tsv file
-def filter(df, mode, tsv_path): 
+def filter(df, mode): 
     df.sort_values("Similarity score", ascending=False, inplace=True)
     df = df[df["Similarity score"] >= mode]
-    df.to_csv(sep="\t", path_or_buf=tsv_path)
     return df
 
 def main():
@@ -111,8 +110,8 @@ def main():
     lang2_embedding = to_multilingual_embedding(args.langs[1], df[args.langs[1]], args.model)
     df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
     mode = df["Similarity score"].mode()[0]
-    df = filter(df, mode, args.output)
-    print(f"Number of sentence pairs after filtering according to similarity score distribution: {df.shape[0]}\n")
+    df = filter(df, mode)
+    filtering_stats["After filtering based on similarity scores"] = df.shape[0]
     import align_source_target as ast
     source_lines = df[args.langs[0]]
     target_lines = df[args.langs[1]]
@@ -132,6 +131,15 @@ def main():
     split_margin_train = margin_train_file.split('\n')[:-1]
     align_list_train = ast.align_source_target(split_margin_train, src_file_dict, trg_file_dict) 
     align_rate_train_file = ast.align_rate_file(split_margin_train, align_list_train, src_file_dict, trg_file_dict) 
-    split_align = align_rate_train_file.split("\t")
+    alignment_score = []
+    for line in align_rate_train_file:
+        split_align = line.split("\t")
+        alignment_score.append(float(split_align[2]))
+    df["Alignment score"] = alignment_score
+    df = df[df["Alignment score"] >= 0.3]
+    filtering_stats["After filtering based on word aligment"] = df.shape[0]
+    df.to_csv(args.output, sep="\t")
+    for item in filtering_stats.keys():
+        print(item + f": {filtering_stats[item]}\n")
 if __name__ == "__main__":
     main()

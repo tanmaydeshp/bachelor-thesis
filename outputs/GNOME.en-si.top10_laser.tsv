@@ -1,686 +1,622 @@
-	english	sinhala	Similarity score
-702	Switch device	උපකරණය සිරුමාරුව	0.5230794716371249
-709	Keyboard Type	යතුරු පුවරු වර්ගය	0.5115601991545664
-580	Mailbox files	සියළු ගොනු	0.5085433402970502
-450	Copy the selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.5067860651097885
-482	Highlight syntax	උද්දීපන ආකාරය (_H)	0.5067585749441086
-628	profile file	ගොනුව කම්පයිල් කරන්න	0.5064957204610789
-774	Book Shelf	පොත් රාක්කය	0.5051549456299168
-422	View log	සටහන් දර්ශනය	0.5045512029705527
-521	Select a Folder	ප්ලගිනයක් තෝරාගන්න	0.5035245241639821
-664	Scan the file system	ගොනු පද්ධතිය පරිලෝකණය කරන්න	0.5033534481781259
-366	Synchronization file	සමමුහුර්ථකරණ URI එක	0.5027499751549334
-795	Change typing break settings	#-#-#-#-# si.po (si) #-#-#-#-# දෝෂහරිණ කේත සක්‍රිය කරන්න #-#-#-#-# si.po (si) #-#-#-#-#	0.5018054132183937
-588	Sort shortcuts	කෙටි මාර්‍ගය	0.5009896333903483
-711	Save file	ගොනුව සුරකින්න	0.500604326009206
-381	Select a build directory	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.5003589220106874
-1080	Discover Binding	බන්ධනය අනාවරණය කරන්න	0.5001910176995682
-707	Switch button	මාරුකිරීමේ බොත්තම	0.5000394626023018
-799	Audio Settings	ජාල සැකසුම්	0.4998647629534273
-470	Select file	සියල්ල තෝරන්න (_A)	0.49979368103965777
-712	Select File	ගොනුව තෝරන්න	0.49979368103965777
-643	list box	ලැයිස්තුව	0.49936514261378545
-82	the six of spades	ඉස්කෝප්ප හය	0.49932625274679976
-427	Select Mailbox File	සියල්ල තෝරන්න (_A)	0.49931986859263894
-952	Reconnect	නැවත සම්බන්ධවන්න	0.4991094333123943
-425	Create patch series	නව ඩිරෙක්ටරි බිහිකරන්න	0.4990975183847288
-704	Switch key	යතුරු මාරුව	0.49865043566107203
-419	Unstage Files	ලඟදී විවර කල ගොනු	0.4977404996276446
-807	Compact contact list	සංයුක්ත සබඳතා ලැයිස්තුව	0.49759977836178865
-540	Search variable	විචල්‍යය	0.49712625198304383
-556	Select Files	ලඟදී විවර කල ගොනු	0.4969020952508874
-80	the ace of spades	ඉස්කෝප්ප ආසියා	0.49497680082985257
-638	footer	පාදකය	0.49439257190107755
-325	New empty file	නව හිස් ගොනුවක්	0.4943821179948441
-380	Regenerate project	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.4935327556307457
-473	Makefile project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.49314109742913614
-379	Configure Project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.49309940485105125
-265	Configure project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.49309940485105125
-519	Shell script files	වර්තමාන ගොනුව සුරකින්න	0.4926485766422803
-301	Close file	ගොනුව වසන්න	0.49240457806140864
-893	Retry	නැවත උත්සහ කරන්න	0.4918298724987735
-213	Shrink	හැකිලෙනවා	0.49156145000294466
-84	the nine of spades	ඉස්කෝප්ප නවය	0.49140209092941456
-440	Ignore files	ගොනුව වසන්න	0.49130945809899945
-53	six of spades	ඉස්කෝප්ප හය	0.4909766873132148
-272	Build popup commands	උත්පතන නිමැවුම් විධාන	0.4904194151565909
-426	Apply mailbox files	සියළු ගොනු	0.4903991084256673
-101	the ace of diamonds	රුවිත ආසියා	0.48993148234881223
-472	Display description of the applet	පරිශීලක අතුරුමුහුණතේ XML විස්තරය	0.4891923525562025
-409	C++ compiler flags	ගොනුව කම්පයිල් කරන්න	0.48906845665413495
-437	Update the working copy	ප්‍රස්තාරය යාවත්කාලීන කරන්න	0.4879606255997806
-642	table row	වගුව	0.48775620755811805
-782	Decrease the text size	අකුරු ප්‍රමාණය අඩු කරන්න	0.48737417620066636
-629	Unlist Project	ව්‍යාපෘතිය පිහිටුවන්න	0.4871262709571891
-608	Show in File manager	ගොනු කළමණාකරු	0.48641772868970756
-477	Run operations	තොරතුරු	0.48511900358820614
-483	Print page header	මුද්‍රණ පූර්‍වදැදැක්ම	0.48499287934335944
-630	animation	සජීවනය	0.484657818718588
-74	the ace of clubs	කලාබර ආසියා	0.48397629896527555
-29	ace of diamonds	රුවිත ආසියා	0.48388249823764035
-395	Rename file or directory	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.48387527671987063
-1052	Encryption error	සංකේතාංකන දෝෂය	0.4838477302495747
-571	Remove Files	ලඟදී විවර කල ගොනු	0.48354969115834256
-801	Network Settings	ජාල සැකසුම්	0.4831739140631946
-109	the nine of diamonds	රුවිත නවය	0.48315810030453826
-356	Highlight style	උද්දීපන ආකාරය (_H)	0.4830868141972311
-827	Enable spell checker	අක්ෂර වින්‍යාස පරීක්ෂකය සක්‍රීය කරන්න	0.4823722931484109
-790	Increase the text size	අකුරු ප්‍රමාණය වැඩි කරන්න	0.4819108747047921
-768	Keyword	මුල පදය	0.4817440855992983
-646	Excluded partitions URIs	අත්හල පංගු	0.48136059420021704
-305	Sorted in opening order	විවෘත කල පිලිවෙලට අනුපිලිවෙලට සකසන්න	0.4813528344647525
-1012	Chat window theme	සල්ලාප කවුළු තේමාව	0.48131691444682206
-791	Leave fullscreen mode	මුලුතිර මොඩය හැර යන්න	0.48130274028538567
-484	Print page footer	මුද්‍රණ පූර්‍වදැදැක්ම	0.4809822456069189
-501	Icons	නිරූපකය	0.48083446785195233
-729	Control Style	පාලනය	0.48078179623438344
-388	Select one directory	හිස් ඩිරෙක්ටරි මකන්න	0.48076628856190806
-701	Scan cycles	පරිලෝකන චක්‍රය	0.48066612763764105
-641	caption	යටි ලියමන	0.48064699107653475
-87	the king of spades	ඉස්කෝප්ප කිංග්	0.48047900427149853
-332	Find _Previous	සොයන්න පෙර (_P)	0.48008525861452706
-794	Find _Previous	ඉදිරියට සොයන්න	0.48008525861452706
-592	Highlight source code	උද්දීපන ආකාරය (_H)	0.48004196654988207
-240	Name of the plugin profile	ප්ලගින පැතිකඩෙහි නම	0.4799889273907496
-941	Brightness	දීප්තිය	0.4799193850663155
-55	king of spades	ඉස්කෝප්ප කිංග්	0.4797591786406356
-714	Alphabet Selection	ක්‍රියා:	0.4794814633724352
-614	Highlights	උද්දීපන ආකාරය (_H)	0.479475336300728
-203	Launcher Properties	මෙනු වත්කම්	0.47925276665110567
-520	Generic rule	සාමාන්‍ය	0.4790705995336515
-499	Replace buffer	ආදේශය	0.4784140734503803
-607	_Show in File manager	ගොනු කළමණාකරු	0.4783957851123592
-106	the six of diamonds	රුවිත හය	0.47830304152345005
-37	nine of diamonds	රුවිත නවය	0.4782436901711982
-575	Add a remote	ව්‍යාපෘතියට එක් කරන්න	0.4782157141596215
-640	chart	ප්‍රස්තාරය	0.4781735368923509
-85	the jack of spades	ඉස්කෝප්ප ජැක්	0.4779072329878263
-266	Build project tarball distribution	ව්‍යාපෘතියේ ටාබෝල බෙදාහැරීම නිමවන්න	0.47787957398314457
-34	six of diamonds	රුවිත හය	0.4777413931339299
-605	Search in project files	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.47740876847478353
-503	Select projects directory	හිස් ඩිරෙක්ටරි මකන්න	0.47729540506046114
-634	push button	එබුම් බොත්තම	0.4772000820397242
-107	the seven of diamonds	රුවිත හත	0.47704234568223564
-271	Build commands	නිමැවුම් විධාන	0.47688624212458797
-324	Reload	ප්‍රථිපූරණය	0.4765154155694186
-471	A generic project	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.4763112892298938
-248	Shortcut	කෙටි මාර්‍ගය	0.4762711990233426
-35	seven of diamonds	රුවිත හත	0.47622935814128076
-669	Move to parent folder	බහාළුමේ විමසන්න	0.4761807599432392
-635	radio button	විකල්ප බොත්තම	0.47587589377954126
-851	Quit message:	පණිවිඩායෙන් ඉවත්වන්න:	0.47564008418283504
-1067	Quit message:	පණිවිඩයෙන් ඉවත්වන්න:	0.47564008418283504
-698	Inverse scanning	ප්‍රතිලෝම පරිලෝකනය	0.4754580694790845
-391	All files	සියළු ගොනු	0.47520992520465155
-81	the three of spades	ඉස්කෝප්ප තුන	0.4751715288178561
-396	Select package	ප්ලගිනයක් තෝරාගන්න	0.47508117821935103
-88	the ace of hearts	හාර්ත ආසියා	0.47507755760460685
-545	Select project directory	හිස් ඩිරෙක්ටරි මකන්න	0.47505298228296516
-1081	Keep-Alive Options	සජීවීව තබන්න අභිරුචි	0.4748285472665203
-25	ace of clubs	කලාබර ආසියා	0.47475551583179054
-348	Supported Encodings	සහාය දක්වන කේතන	0.4746929392422715
-442	Git operations	සමුහ වත්කම්	0.4744619591663417
-721	Application Style	ක්‍රියා:	0.4742652999483831
-725	A_ppend to file	ගොනුව විවෘත කරන්න	0.47414321263903353
-40	ace of hearts	හාර්ත ආසියා	0.4740486957847256
-907	Select a contact	සබඳතාවක් ‍තෝරාගන්න	0.47375978421947185
-543	Terminal options	අග්‍රය	0.47367391236568696
-367	File to sync the profile xml	පැතිකඩ xml එක සමමුහුර්ථ කළ යුතු URI එක	0.47362383125035185
-486	Remove file/directory	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4735506911119914
-660	Toolbar is Visible	මෙවලම්තීරුව දෘශ්‍ය වේ	0.4733294215240435
-576	Add a remote repository	රිපොසිටරියට එක් කරන්න	0.47263692729004986
-903	Send file	ගොණුව යවන්න	0.4722084080791909
-291	File is binary	ගොනුව ද්විමයි	0.47215398762324085
-549	Marked up text to render	විදහව සඳහා පෙළ	0.47199648953463935
-306	Save current file	වර්තමාන ගොනුව සුරකින්න	0.4719143157680285
-200	Restore the default menu layout	මෙනු සැකසුම පෙර තිබූ ප්‍රකෘති තත්වයට පත් කරනු	0.4718072488223581
-672	Save Snapshot	ඡායාරූපය සුරකින්න	0.4717050830523173
-578	Skip the current revision	වර්තමාන ගොනුව මුද්‍රණය කරන්න	0.4716734435324255
-302	Save file as	ගොනුව සුරකින අයුර	0.47164096073608963
-552	Select a pretty printer file	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.4716065914731592
-300	Search	සොයන්න	0.4715324418457676
-784	Search	සෙවීම	0.4715324418457676
-956	New conversation	නව සංවාදය	0.47122166012520117
-916	New Conversation	නව සංවාදය	0.47122166012520117
-104	the four of diamonds	රුවිත හතර	0.47120855812612733
-290	Delete empty directories	හිස් ඩිරෙක්ටරි මකන්න	0.4709435423079147
-83	the eight of spades	ඉස්කෝප්ප අට	0.47066590485235327
-19	Select Game	තරගයක් තෝරන්න	0.47061052594555025
-438	Update remote branches	ප්‍රස්තාරය යාවත්කාලීන කරන්න	0.4705880407397061
-105	the five of diamonds	රුවිත පහ	0.4703729040274337
-270	Compile current editor file	වර්තමාන පෙල සකසුම් ගොනුව කම්පයිල් කරන්න	0.47032878632278746
-68	Redo the undone move	අහෝසි කළ ගෙනයාම නැවත කිරීම	0.4703129225806014
-649	Home folder	නිවෙස් බහලුම පරිලෝකනය කරන්න	0.4702885825340062
-487	Update file/directory	නව ඩිරෙක්ටරි බිහිකරන්න	0.47025282274098157
-33	five of diamonds	රුවිත පහ	0.4701905258578253
-110	the ten of diamonds	රුවිත දහය	0.47008234257023085
-606	All text files	සියළු ගොනු	0.46995464658628316
-102	the two of diamonds	රුවිත දෙක	0.46982542227392327
-52	three of spades	ඉස්කෝප්ප තුන	0.46978937794356584
-971	Empathy default download folder	Empathyහි පෙරනිමි බාගත කිරීමේ බහලුම	0.4696152004000803
-829	Empathy default download folder	Empathyහි පෙරනිමි බාගත ෆෝල්ඩරය	0.4696152004000803
-919	Connected to server	සේවාදායකයට සම්බන්ධවිය	0.4695769094032784
-921	Classic	පැරණි	0.4693672843719726
-715	Adaptation	ක්‍රියා:	0.46931180009558865
-559	is Sub-Class	මූලික පන්තිය	0.46903080598676583
-449	Cut the selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.4685946574358091
-98	the jack of hearts	හාර්ත ජැක්	0.4684614729527469
-2	Layer	ස්තරය	0.4684118246378964
-826	Spell checking languages	අක්ෂර වින්්‍යාස භාෂාව	0.4682244089912606
-1020	Spell checking languages	අක්ෂර වින්‍යාසය පරීක්ෂා කිරීමේ භාෂාව	0.4682244089912606
-572	Tag tools	මෙවලම්	0.467899021302184
-322	Copy the selected text to the clipboard	තෝරාගත් පෙළ පසුරුපුවරුව වෙත පිටපත් කරන්න	0.4678386406811405
-30	two of diamonds	රුවිත දෙක	0.4676182457437254
-913	new server	නව සේවාදායකය	0.467557241029391
-805	Server password:	රහස්පදය:	0.4672982539216133
-899	Removing group	සමූහය ඉවත්කරන්න	0.4672548405111652
-113	the king of diamonds	රුවිත කිංග්	0.46722959363025074
-526	Failed to parse XML structure	'%s' කියවිම අසාර්ථකයි: XML විග්‍රහයේ දෝෂයකි	0.4671745955331685
-407	C++ compiler flags:	ගොනුව කම්පයිල් කරන්න	0.4669394611495815
-56	face-down card	නොදන්නා කාඩ්පතක්	0.4665176758891371
-371	Deleted	මකන්න	0.46632648172988195
-280	XML description of the user interface	පරිශීලක අතුරුමුහුණතේ XML විස්තරය	0.46627549470899854
-410	Install directory:	ව්‍යාපෘතිය පිහිටුවන්න	0.4661881404652443
-289	Create new directories	නව ඩිරෙක්ටරි බිහිකරන්න	0.46617855522186247
-683	Scan a remote folder	දුරස්ථ බහලුම පරිලෝකනය කරන්න	0.46592236663380715
-760	Font for fixed width text	අචල දිගක් ඇති වචන කාණ්ඩයට අකුරු රටා	0.46591673084453905
-111	the jack of diamonds	රුවිත ජැක්	0.46553659664985797
-452	HTML export options:	විකල්ප:	0.46534417395450206
-416	Remove File	ඉවත් කරන්න	0.4653229987648524
-75	the ten of clubs	කලාබර දහය	0.4652686969602489
-408	Install directories:	ව්‍යාපෘතිය පිහිටුවන්න	0.4651389801611095
-717	Top to Bottom	ඉහළ සිට පහළට	0.46494139842518933
-959	Automatically _connect on startup	පණගැන්වුමේදී සම්බන්ධ කරන්න	0.4648305068753626
-197	Six Foundations	සන්නිවේදනය:	0.4646766071178053
-944	Video Preview	වීඩියෝ පූර්වදර්ශණය	0.4642638115578046
-32	four of diamonds	රුවිත හතර	0.4642510436033005
-570	Remove Files:	ලඟදී විවර කල ගොනු	0.46407333201469353
-973	Show offline contacts	නොබැඳි පරිශීලකයින් පෙන්වන්න	0.4639540213564215
-39	king of diamonds	රුවිත කිංග්	0.46384154012486273
-742	Width of the index and search pane	සුචියේ හා සෙවුම් කොටුවේ පළල	0.4636768652151709
-568	Installation directory:	root ලෙස ස්ථාපනය කරන්න	0.46367564847752385
-1089	Select Your Avatar Image	ඔබගේ මූර්ති පින්තූරය තෝරන්න	0.4634449133453848
-772	_Group by language	_භාෂා වශයෙන් ගොනුගත කරන්න	0.4634316909939187
-891	Disconnected	විසන්ධිවිය	0.4634047486058109
-788	DevHelp Website	DevHelp වෙබ් අඩවිය	0.4633482924130954
-766	DevHelp Website	DevHelp වෙබ් අඩවියDevhelp	0.4633482924130954
-865	Authentication username:	සහතිකකල පරිශීලක නාමය:	0.4630544736096848
-78	the king of clubs	කලාබර කිංග්	0.4627603465835798
-951	Error sending a file	ගොණුව යැවීම දෝශසහගතයි	0.4626728064801595
-688	Email Address	විද්‍යුත් තැපැල් ලිපිනය	0.46266645340070334
-505	File to syncronize the profile XML	පැතිකඩ xml එක සමමුහුර්ථ කළ යුතු URI එක	0.4626260267885308
-108	the eight of diamonds	රුවිත අට	0.46195639491625573
-581	Remotes	ඉවත් කරන්න	0.46183503595389186
-23	Bristol	බ්‍රිස්ටල්	0.46166848510367686
-386	Cancel build command	නිමැවුම් විධාන	0.46150820315156355
-653	Failed to open file	බහාළුමේ විමසන්න	0.461487252935427
-11	Caption:	යෙදුම:	0.4613926697539412
-22	%s on foundation	පරිශීලක තොරතුරුreserveslot hint	0.4613435984610423
-902	_Previous Conversations	පෙර සංවාද (_P)	0.46133940724749545
-5	Columns	තීරු	0.461329188970126
-695	Enable switch scanning	ස්විචිය පරිලෝකනය සක්‍රිය කිරීම	0.4613276004723218
-439	Add files to the repository	රිපොසිටරියට එක් කරන්න	0.4613061551770119
-631	check box	සලකුණු කොටුව	0.4610819677511851
-444	Manage associations	ක්‍රීයා	0.46101803179473094
-451	Delete the selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.4604821820101237
-377	Highlight message locations in editor	නිමැවුම් පණිවිඩයේ ස්ථාන, පෙල සකසුවේ උද්දීපනය කරන්න	0.46045356160157347
-764	translator_credits	පරිවර්තකයාගේ_සම්මාන	0.4604450068517363
-254	Install as root:	root ලෙස ස්ථාපනය කරන්න	0.46037412125226024
-896	Conversation	සංවාදය	0.46034050830150847
-76	the jack of clubs	කලාබර ජැක්	0.46030076732646386
-491	Use previous message	මීට පෙර පණිවිඩය (_N)	0.46007752302846955
-103	the three of diamonds	රුවිත තුන	0.4597824624820387
-665	Scan a remote folder or file system	දුරස්ථ බහලුම පරිලෝකනය කරන්න	0.4595291388021212
-376	Select Program to run:	ක්‍රමලේඛය දිවැවීම	0.4593928400784323
-562	Clear Highlight	උද්දීපන ආකාරය (_H)	0.4593892305000732
-662	All_ocated Space	යෙදවූ ඉඩ (_o)	0.45937198955718783
-13	Distinguished	විශිෂ්ට	0.45917935209459365
-239	Profile Name	පැතිකඩෙහි නම	0.45912902786579307
-51	king of hearts	හාර්ත කිංග්	0.4591276228700054
-310	Close all files	සියළුම ගොනු වසන්න	0.45896729920824914
-351	Try to save in original encoding	පලමු කේතනයෙන්ම සුරැකීමට උත්සාහ කරන්න	0.4589355874959737
-734	Width of the main window	ප්‍රධාන වින්ඩෝවේ පළල	0.4588167685488043
-706	Right shift	දකුණු ශිෆ්ටය	0.45849120793821607
-312	Reload current file	වර්තමාන ගොනුව නැවත පූරණය කරන්න	0.45830321675974484
-211	Refresh	නැවුම් කරන්න	0.45816398800508074
-31	three of diamonds	රුවිත තුන	0.45809478978860324
-49	jack of hearts	හාර්ත ජැක්	0.45808936264961275
-901	Removing contact	සබඳතාව ඉවත්කරමින්	0.4579984690908972
-577	Delete selected remote	හිස් ඩිරෙක්ටරි මකන්න	0.45793604071009647
-417	Select file to remove:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.45782570587173443
-100	the king of hearts	හාර්ත කිංග්	0.45769733009545227
-694	Enable scanning	පරිලෝකනය සක්‍රිය කර ඇත	0.45732023390732945
-962	Critical	වැදගත්	0.4572880606809163
-79	the unknown card	නොදන්නා කාඩ්පතක්	0.45722323646556295
-311	Reload F_ile	ගොනුව නැවත පූරණය කරන්න	0.45668592171309746
-750	Width of the assistant window	සහකාරක වින්ඩෝවේ පළල	0.45655958682434744
-922	Select a destination	ගමනාන්තයක් ෙතා්රන්න	0.4564801320773826
-677	_Show hidden folders	සැගවුනු බහලුම් පෙන්වන්න (_S)	0.4560817020940998
-529	Cannot add source files	c header සහ source ගොනු මාරුකරන්න	0.4560794097783903
-627	Save in folder:	වර්තමාන ගොනුව සුරකින්න	0.4560411522785823
-413	Debugger connected	නිදොසක විධානය	0.4559732163605625
-611	Show Diff	පෙන්වීම	0.45589306677040986
-624	Loading files...	පුරණය වෙමින්...	0.45575721575517086
-263	Install whole project	සම්පූර්ණ ව්‍යාපෘතියම ස්ථාපනය කරන්න	0.4557008831876598
-54	eight of spades	ඉස්කෝප්ප අට	0.4555464002095401
-567	Installation directories:	නව ඩිරෙක්ටරි බිහිකරන්න	0.4551778310782289
-420	Select Files to Unstage:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.45515445659285814
-48	nine of hearts	හාර්ත නවය	0.4551413019634273
-500	Current selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.45508397955056196
-251	Text to render	විදහව සඳහා පෙළ	0.4549972646856961
-770	Display the version and exit	අනුවාදය පෙන්වා ඉවත්වන්න	0.45476916748094776
-292	Debugger command	නිදොසක විධානය	0.4546966525517642
-28	king of clubs	කලාබර කිංග්	0.4546760821451335
-354	Select execution program and args	දිවැයිය යුතු යෙදුම හා විස්තාරක තෝරාගන්න	0.45460107785109516
-880	invalid contact	වැරදි සබඳතාවකි	0.4545514409808808
-1090	Click to enlarge	විශාලනය කිරීමට ක්ලික් කරන්න	0.45452848331296825
-872	Click to enlarge	ව්ශාලනයට ඔබන්න	0.45452848331296825
-636	scroll bar	රෝල් තීරුව	0.4541621983867802
-957	Account connected	ගිණුම සම්බන්ධයි	0.45415731075147514
-904	Infor_mation	තොරතුරු (_M)	0.45402153673237317
-38	jack of diamonds	රුවිත ජැක්	0.4539882828791936
-769	Search for a keyword	මුල පදයක් සොයන්න	0.45391031853412384
-842	Authentication failed	සහතික කිරීම අසමත්විය	0.4537998072632916
-199	_Revert to Original	පෙර තිබූ නව්‍ය තත්වයට පත්කරන්න (_R)	0.4536752710059353
-639	entry	පිවිසුම	0.45356394282486884
-953	Chat Room	කථාබහ කාමරය	0.45336405085102066
-274	Add to Repository	රිපොසිටරියට එක් කරන්න	0.4533001243591853
-339	Unable to complete file copy	ගොනු පිටපත් කිරීම අසම්පූර්ණයි	0.4532107260061181
-838	The selected file is empty	තෝරාගත් ගොණුව හිස්ය	0.45319059344187174
-1042	The selected file is empty	තෝරාගත් ගොනුව හිස්ය:	0.45319059344187174
-705	Key to use with scanning mode	පරිලෝකන අවධියේ භාවිත වන යතුරු	0.45302699500159044
-36	eight of diamonds	රුවිත අට	0.4528736757089014
-945	Incoming video call	වීඩියෝ ඇමතුමක් එමින්	0.4524897344580524
-446	Close the current file	වර්තමාන ගොනුව මුද්‍රණය කරන්න	0.45243005815161963
-387	Command aborted	විධානය	0.45228611284603265
-317	Convert EOL to CR	EOL, CR වලට හරවන්න	0.4522172199128425
-443	Widget name	වියත්නාම	0.4520768218524924
-241	List of plugins for this profile	මේ පැතිකඩ සඳ්හා වූ ප්ලගින ලැයිස්තුව	0.45178659565780804
-45	six of hearts	හාර්ත හය	0.4514739404394202
-428	Clear all stashes	සියළුම ගොනු වසන්න	0.4513326647755218
-7	translator-credits	පරිවර්තන ස්තුතිය	0.45128599510753536
-785	translator-credits	පරිවර්තකයාගේ_සම්මාන	0.45128599510753536
-436	_Diff uncommitted changes	වෙනස් කිරීම් ඉවත දමන්න	0.45104935463160684
-67	Undo the last move	අවසාන ගෙනයාම අහෝසි කරන්න	0.45098494920012067
-752	Height of assistant window	සහකාරක වින්ඩෝවේ උස	0.450868602933949
-347	Encoding to use when saving files	ගොනු සුරැකීමේදී භාවිතා කල යුතු කේතනය	0.4508613711622752
-461	Can not add source files	c header සහ source ගොනු මාරුකරන්න	0.45083243352909613
-1023	Nick completed character	අන්වර්ථ නාම සම්පූර්ණ කල අනුලකුණ	0.4504257729880886
-217	Missing location of plugin %s	%s plugin එකෙහි ස්ථානය හමු නොවේ	0.4503571953471393
-404	Project directory	නව ඩිරෙක්ටරි බිහිකරන්න	0.4503128832469792
-96	the nine of hearts	හාර්ත නවය	0.4501914196634946
-623	Long description of your plugin	පරිශීලක අතුරුමුහුණතේ XML විස්තරය	0.4500470229071569
-496	Currently edited file name	දැනට සක්‍රීය කර ඇති ප්ලගින	0.4500309969600477
-589	Directory properties	සමුහ වත්කම්	0.45002641779919195
-86	the queen of spades	ඉස්කෝප්ප ක්වීන්	0.44960748143664236
-947	Incoming video call from %s	%s ගෙන් වීඩියෝ ඇමතුමක් එමින්	0.44958389397353343
-490	Previous Commit Messages:	මීට පෙර පණිවිඩය (_N)	0.4495162198532662
-537	Created project view…	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.4495112482543405
-731	Developer's Help program	දියුණු කරන්නන්ගේ උපකාරක වැඩසටහන	0.4495069683686783
-320	Undo the last action	අවසාන ක්‍රියාව අහොසි කරන්න	0.44908471446331233
-502	Default project directory:	හිස් ඩිරෙක්ටරි මකන්න	0.4490500194296989
-1051	Status is set to offline	%s දැන් නොබැඳියි.	0.44900699266015665
-93	the six of hearts	හාර්ත හය	0.44890833177250816
-1016	Enable WebKit Developer Tools	WebKit සංවර්ධක මෙවලම් සක්‍රිය කරන්න	0.44880870609590995
-718	Bottom to Top	පහළ සිට ඉහළට	0.44871834790053433
-719	Speed	වේගය:	0.44862982936917917
-313	Print the current file	වර්තමාන ගොනුව මුද්‍රණය කරන්න	0.44847325181852193
-275	Class Options:	පන්ති විකල්ප	0.44846363545280615
-604	Add to Project Target:	ව්‍යාපෘතියට එක් කරන්න	0.4480928249555091
-610	Add to project target:	ව්‍යාපෘතියට එක් කරන්න	0.4480928249555091
-26	jack of clubs	කලාබර ජැක්	0.44772895650776556
-686	Bug reporter name	දෝෂ වාර්තාකරුගේ නම	0.4476554337021423
-474	Choose a working directory	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.447575501886677
-238	The plugin manager to use for resolving plugins	ප්ලගින නිරාකරණයේදී භාවිතා කල යුතු ප්ලගින කළමනාකරු	0.4474718952696073
-1047	The other participant canceled the file transfer	අනිත් සහභාගිකයින් ගොනු හුවමාරුව අවලංගු කරන ලදි	0.44745438081216593
-267	Build module associated with current file	වර්තමාන ගොනුවට අදාල නිමැවුම් මොඩියුලය	0.4474073644846542
-362	Forget selected plugin	ප්ලගිනයක් තෝරාගන්න	0.44739129761038304
-97	the ten of hearts	හාර්ත දහය	0.44734725372432027
-920	Disconnected from server	සේවාදායකයෙන් විසන්ධිවිය	0.4473381888512607
-414	Select Files to Commit:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.44728012846349036
-644	image map	අනුරුව	0.4472793975649359
-12	Selected Cell	සියල්ල තෝරන්න	0.44694723234465134
-950	Error receiving a file	ගොණුව ලැබීම දෝශසහගතයි	0.4468842167968619
-268	Install module associated with current file	වර්තමාන ගොනුවට අදාල මොඩියුලය ස්ථාපනය කරන්න	0.4468303751863845
-566	Unable to parse project file	%s ගොනුව බිහිකළ නොහැක	0.44665260806203433
-72	the black joker	කලු ජොකර්	0.4463784622002954
-59	Main game:	ප්‍රධාන තරගය	0.44636911405548113
-538	Build library as	ටාබෝලය නිමවන්න	0.4462927659624788
-908	Select	තෝරන්න	0.4461604232793529
-71	Unknown color	නොදන්නා වර්‍ණය	0.44613098264012707
-708	Mouse button to use in the scanning mode	පරිලෝකන අවධියේ භාවිත වන මුසික බොත්තම	0.44608566809326544
-583	Unable to parse make file	%s ගොනුව බිහිකළ නොහැක	0.4459626608855648
-609	Add License Information:	තොරතුරු	0.44590264919413825
-226	execvp failed	execvp අසාර්ථකයි	0.4456939338549087
-754	X position of assistant window	සහකාරක වින්ඩෝවේ X කන්දාංක	0.445673203441106
-828	Connection managers should be used	සම්බන්දතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.4454149523418244
-963	Connection managers should be used	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.4454149523418244
-527	Macro details:	මැක්‍රෝ	0.4450021817395676
-778	Find previous occurrence of the search string	පෙර සෙවුම් වචනය සොයන්න	0.4448119396420374
-453	Failed to read file	%s ගොනුව කියවිය නොහැක	0.4446686861177558
-262	Build whole project	සම්පූර්ණ ව්‍යාපෘතියම නිමවන්න	0.44457353720926257
-447	Save the current file	වර්තමාන ගොනුව සුරකින්න	0.4440497084023201
-273	Add to Project	ව්‍යාපෘතියට එක් කරන්න	0.44384402727971883
-46	seven of hearts	හාර්ත හත	0.4437442686595873
-73	the red joker	රතු ජොකර්	0.4435057443979124
-821	Pop up notifications when a contact logs out	සබඳතාවක් පිටවීමේදී ශබ්දයක් වාදනය කරන්න	0.44341740738175234
-1008	Pop up notifications when a contact logs out	සබඳතාවක් ඉවත් වූ විට උත්පතන දැනුම්දීම්	0.44341740738175234
-216	Unknown error in module %s	%s මොඩුලය තුල නොදන්නා වරදකි	0.4432668592491651
-44	five of hearts	හාර්ත පහ	0.44316941807259164
-315	Convert EOL to LF	EOL, LF වලට හරවන්න	0.4428105825362684
-92	the five of hearts	හාර්ත පහ	0.4427417347420296
-9	Title	සිරස්තලය	0.4426911587448425
-654	Failed to move file to the trash	"""%s"" බහලුම මැකිය නොහැක"	0.44257784519157456
-948	Incoming call from %s	%s ගෙන් ඇමතුමක් එමින්	0.44257338147729497
-1000	Enable popup notifications for new messages	නව පණිවිඩ සඳහා උත්පතන දැන්වීම් සක්‍රිය කරන්න	0.44248508966812805
-497	Currently edited file directory	නව ඩිරෙක්ටරි බිහිකරන්න	0.442405016053485
-732	Main window maximized state	ප්‍රධාන වින්ඩෝව පුලුල්තිර අවස්ථාවේ..	0.44239590719138105
-20	foundation	සන්නිවේදනය:slot type	0.4423647441956551
-415	Select file to add:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.4420201872037426
-738	X position of main window	ප්‍රධාන වින්ඩෝවේ X කන්දාංක	0.4419763170556935
-41	two of hearts	හාර්ත දෙක	0.4414030708406614
-321	Redo the last undone action	අවසාන අහෝසි කළ ක්‍රියාව නැවත කරන්න	0.44127513155273107
-917	Contact connected	සබඳතාව සම්බන්ධවිය	0.4412557848376226
-448	Redo the last action	අවසාන ක්‍රියාව අහොසි කරන්න	0.44088832054236166
-601	Select a build directory inside the project directory	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.44085675252082684
-374	Unversioned	වෙළුම:	0.4407937524933793
-1043	Socket type not supported	කෙවෙනි වර්ගය සහය නොදක්වයි	0.44075589851565555
-603	Check module associated with current file	වර්තමාන ගොනුවට අදාල මොඩියුලය පිරිසිදු කරන්න	0.44070458211447006
-43	four of hearts	හාර්ත හතර	0.4405668783813851
-1046	You canceled the file transfer	ඔබ ගොනු හුවමාරුව අවලංගු කරන ලදි	0.4404548300863945
-980	Default directory to select an avatar image from	මූර්ති පින්තූරයක් තේරීමට පෙරනිමි නාමාවලිය	0.4404510861186132
-740	Y position of main window	ප්‍රධාන වින්ඩෝවේ Y කන්දාංක	0.4404393821546476
-94	the seven of hearts	හාර්ත හත	0.4403275132315344
-304	Sorted in alphabetical order	අකාරාදී පිලිවෙලට අනුපිලිවෙලට සකසන්න	0.4400964271532346
-724	Save and quit	සුරකීම සහ පිටවීම	0.43983817203268066
-264	Clean whole project	සම්පූර්ණ ව්‍යාපෘතියම පිරිසිදු කරන්න	0.4397609287609248
-895	Connected	සම්බන්ධවිය	0.4397505728621461
-756	Y position of assistant window	සහකාරක වින්ඩෝවේ Y කන්දාංක	0.43961624532393667
-494	Completed unsuccessfully with status code %d	සම්පූර්ණයි... නමුත් අසාර්ථකයි	0.43956570521881594
-91	the four of hearts	හාර්ත හතර	0.43945461785140105
-843	Certificate self-signed	තමන්ම අත්සන්කල සහතිකය	0.43942123450100695
-969	Empathy has asked about importing accounts	Empathy, ගිණුම් ආයාත කිරීම ගැන විමසා ඇත	0.439069233705464
-57	black joker	කලු ජොකර්	0.43899694730157723
-658	_Monitor changes to your home folder	නිවෙස් බහලුම වෙනස්කිරීම් අධීක්ෂණය කිරීමට (_M)	0.43890490944935306
-703	Switch device, keyboard or mouse	යතුරු පුවරුව හා මුසිකය හුවමාරු කරන්න	0.4387532091916424
-58	red joker	රතු ජොකර්	0.43855310136869075
-765	A developers' help browser for GNOME	GNOME සඳහා විකෂකයන්ගේ බ්‍රව්සරය	0.43815255050109403
-546	Auto-complete	අවසන් කළ	0.43801305933630086
-24	Glenwood	ග්ලෙන්වූඩ්	0.437806554159073
-536	_Add to Project	ව්‍යාපෘතියට එක් කරන්න	0.43775425169565907
-652	A graphical tool to analyze disk usage.	තැටි භාවිතය විශ්ලේෂණයට ප්‍රස්ථාරික මෙවලම	0.43733721151267557
-421	Select Files to Check Out:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.43729733389262193
-269	Clean module associated with current file	වර්තමාන ගොනුවට අදාල මොඩියුලය පිරිසිදු කරන්න	0.43703635486021436
-650	Mo_ve to Trash	ඉවතලන බදුනට දමන්න (_v)	0.4370291896198438
-454	Next/Previous Message	මීට පෙර පණිවිඩය (_N)	0.43690167549810455
-227	Anjuta shell that will contain the plugin	plugin එක අන්තර්ගත අන්ජුටා කවචය(shell)	0.43684559820313434
-743	The width of the index and search pane.	සුචියේ හා සෙවුම් කොටුවේ පළල	0.436588327777168
-593	Create a new project	නව ඩිරෙක්ටරි බිහිකරන්න	0.43642977384943943
-645	definition	සජීවනය	0.43639601622814456
-17	About Aisleriot	මෙම ක්‍රිඩාව සම්බන්ධව	0.43639562588576314
-319	Select all text in the editor	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.43635282785925145
-455	Patching...	සොයයමින්...	0.43633573311104623
-528	Patching…	සොයමින්	0.43633573311104623
-736	Height of main window	ප්‍රධාන වින්ඩෝවේ උස	0.43628169671041234
-1091	Failed to open private chat	පුද්ගලික සල්ලාපය විවෘත කිරීම‍ට අසමත් විය	0.43623520397160154
-875	Failed to open private chat	පුද්ගලික කථාබහ විවෘත කිරීම‍ට අසමත්විය	0.43623520397160154
-1053	Connection has been refused	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.43617758342664537
-340	Go to previous help page	ඉහත උදව් පිටුවට යන්න	0.4361705990142474
-915	Conversations	සංවාද	0.435906526242217
-488	File or directory to diff:	diff: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.43587424452990703
-710	Maximum distance when keyboard is hidden	යතුරු පුවරුව වසන් කර ඇති විටදී උපරිම දුර	0.43573578972386445
-63	Restart the game	තරගය නැවත ආරම්ඹ කරන්න	0.4355015765314233
-61	Card themes:	කාඩ් තේමා:	0.43546822615410097
-229	Only show user activatable plugins	පරිශීලකයාට සක්‍රීය කළ හැකි ප්ලගින පමණක් දර්ශනය කරනු	0.4354112700240253
-160	Remove the ace of spades.	ඉස්කෝප්ප ආසියා	0.4354025653780323
-308	Save A_ll	සියළුම ගොනු සුරකින්න	0.43531194303405885
-1027	Show hint about closing the main window	ප්‍රධාන කවුළුව වැසීම පිළිබඳව ඉඟියක් පෙන්වන්න	0.4352791459184803
-435	Please select a stash	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.4351553820583918
-424	Select Files to Ignore:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.4350849676349936
-89	the two of hearts	හාර්ත දෙක	0.4350471381183084
-208	Could not open file	ගොනුව විවෘත කළ නොහැක	0.43498013146119574
-602	Check whole project	සම්පූර්ණ ව්‍යාපෘතියම පිරිසිදු කරන්න	0.43476189730102066
-489	Select Changes to Revert:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.4346871170755391
-219	plugin %s fails to register type %s	%s plugin එක මගින් %s type එක ලියාපදිංචිය අසාර්ථකයි	0.4344441041214281
-697	Time between key transitions	ප්‍රධාන මාරුවීම් දෙකක් අතර කාලය	0.4342755051304216
-60	Card games:	කාඩ් තරග:	0.4339219939899227
-796	Address incomplete	ලිපින පොත	0.43374406488518735
-699	Step with the switch, activate by dwelling	ස්විචය සමගම අදියරය කරන්න	0.4337210212940495
-314	Preview the current file in print-format	වර්තමාන ගොනුව මුද්‍රිතාකාරයෙන් පෙරදකින්න	0.4336522211699181
-445	Failed to save associations	autogen ධාවනය කල නොහැකියි: %s	0.4334542260050229
-558	warning:-old	අවවාදයයි:	0.4333381129862511
-1057	Certificate has been revoked	සහතිකය සපයා නැත	0.4333067916027487
-492	Source/Destination Paths:	ගමනාන්තය:	0.43326674566081125
-42	three of hearts	හාර්ත තුන	0.43324325876693204
-112	the queen of diamonds	රුවිත ක්වීන්	0.4332088809851642
-663	Scan your home folder	ඔබගේ නිවාස බහලුම නැවත පරිලෝකිතය කලයුතුද?	0.4331416273770267
-547	Swap C header and source files	c header සහ source ගොනු මාරුකරන්න	0.43306149021471474
-334	Swap c header and source files	c header සහ source ගොනු මාරුකරන්න	0.43306149021471474
-50	queen of hearts	හාර්ත ක්වීන්	0.43288489718959755
-958	Account disconnected	ගිණුම විසන්ධියි	0.4325576533465625
-548	JS Find dirs	CVS විකල්ප	0.4323692989267715
-1079	Discover the STUN server automatically	STUN සේවාදායකය ස්වයංව අනාවරණය කරන්න	0.4321475597072954
-201	Revert Changes?	සංශෝධනයන් පෙර තිබූ තත්වයට පත් කිරීමට අවශ්‍යද?	0.4320963873574723
-932	Enter your account details	ඔබගේ ගිණුම් විස්තර ඇතුලත් කරන්න	0.4318988785079625
-8	Web site	‍වෙබ් අඩවිය	0.4318497305183106
-400	Malformed project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.4317977132046059
-792	Display in full screen	මුලුතිරයේ පෙන්වන්න	0.4317723363637924
-582	Select widgets in the workspace	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.4317178503495373
-820	Pop up notifications when a contact logs in	සබඳතාවක් පැමිනීමේදී ශබ්දයක් වාදනය කරන්න	0.4314084119040128
-1006	Pop up notifications when a contact logs in	සබඳතාවක් පිවිසි විට උත්පතන දැනුම්දීම්	0.4314084119040128
-430	Git: Fetching...	සොයයමින්...	0.43126449544135836
-515	Preview the current file in print format	වර්තමාන ගොනුව මුද්‍රිතාකාරයෙන් පෙරදකින්න	0.43118917944088375
-779	Find next occurrence of the search string	පසු සෙවුම් වචනය සොයන්න	0.4311329276934606
-1059	Facebook Chat	ෆේස්බුක් සල්ලාපය	0.43113212529654915
-845	Facebook Chat	ෆේස්බුක් චැට්	0.43113212529654915
-780	Go to the previous page	පෙර පිටුව වෙත යන්න	0.4309298830761757
-730	Copy All on stop	සියල්ල පිටපත් කරන්න (_A)	0.43089800451171995
-946	Incoming call	ඇමතුමක් එමින්	0.43072796507513145
-1041	The selected file is not a regular file	තෝරාගත් ගොනුව සාමාන්‍ය ගොනුවක් නො‍වේ	0.4307082438169549
-837	The selected file is not a regular file	තෝරාගත් ගොණුව සාමාන්‍ය ගොණුවක් නො‍වේ	0.4307082438169549
-887	%s was banned	%s තහනමට ලක්විය	0.4306139225148719
-775	All Books	සියලු පොත්	0.4304544872344901
-787	All books	සියලු පොත්	0.4304544872344901
-504	Project Defaults	ව්‍යාපෘතිය	0.43040082358061993
-10	Path:	මාර්‍ගය:	0.43032326548611194
-15	Statistics of games played	තරග කළ තරග සංඛ්‍යාන්ක	0.43017446900883766
-808	Hide main window	ප්‍රධාන වින්ඩෝ ස‍ඟවන්න	0.42989524186474004
-978	Hide main window	ප්‍රධාන කවුළු ස‍ඟවන්න	0.42989524186474004
-783	Focus the Devhelp window with the search field active	සක්‍රිය සෙවුම් ක්ෂේත්‍රය සහිත වින්ඩෝව වෙත යොමුවන්න	0.42985800723098727
-1045	The change in state was requested	තත්වයේ වෙනස්වීම ඉල්ලන ලදි	0.42972593868159814
-493	First Path:	මාර්‍ගය:	0.4296516016193721
-839	People nearby	අවට පුද්ගයින්	0.42964592260312817
-1058	People Nearby	ආසන්නයේ පුද්ගලයින්	0.42964592260312817
-693	Collecting information from the crash…	ඔබගේ පද්ධතියේන් තොරතුරු එකරැස් කරමින්...	0.429468219329233
-885	Failed to retrieve recent logs	පුද්ගලික කථාබහ විවෘත කිරීම‍ට අසමත්විය	0.42936083435604017
-90	the three of hearts	හාර්ත තුන	0.42934999727223017
-657	Select _devices to include in file system scan:	ගොනු පද්දතිය පරිලෝකිතයට ඇතුලත්විය යුතු උපාංග තෝරන්න (_d)	0.42926855730275587
-804	Room name	විශාල කරන්න	0.42921855890587585
-564	Highlight all occurrences	උද්දීපන ආකාරය (_H)	0.4291997297985913
-1018	Use theme for chat rooms	සල්ලාප මණ්ඩප සඳහා තේමාව භාවිතා කරන්න	0.4290620868064497
-551	Close Other	ගොනුව වසන්න	0.42903278912311277
-95	the eight of hearts	හාර්ත අට	0.42899002002798803
-914	Previous Conversations	පෙර සංවාද	0.4288735682697601
-886	%s has disconnected	%s විසන්ධිවිය	0.4288551279875241
-1014	Path of the Adium theme to use	භාවිතා කිරීමට adium තේමාවේ පෙත	0.42863670567807544
-1063	Example: username	උදාහරණය: පරිශීලක නාමය	0.4285596067230451
-777	Find Previous	ඉදිරියට සොයන්න	0.42841426219842205
-853	Nickname:	සුරතල්නාමය:	0.42813224118866333
-1068	Nickname:	අන්වර්ත නාමය:	0.42813224118866333
-878	Unknown command	ෙනාදන්නා අණකි	0.42795832212929313
-236	Anjuta shell for which the plugins are	ප්ලගින සඳහා වූ අන්ජුටා කවචය (shell)	0.4279301462550414
-771	Quit any running Devhelp	ධාවනය වන ඕනෑම DevHelp උපකාරයක් විසන්ධි කරන්න	0.42783506630354273
-633	list	ලැයිස්තුව	0.42759653668697567
-456	File/Directory to patch:	යාවත් කල යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.42759520680937046
-212	Grow	වැඩි කරනවා	0.4275281095885795
-822	Open new chats in separate windows	නව පිළිසඳරවල් නව වින්ඩෝවක විවෘත කරන්න	0.42752437279921146
-982	Open new chats in separate windows	නව සල්ලාප නව කවුළුවල විවෘත කරන්න	0.42752437279921146
-1084	I_gnore conference and chat room invitations	සම්මන්ත්‍රණ සහ සල්ලාප මණ්ඩප ආරාධනා නොතකන්න (_I)	0.42749837748536235
-955	Message received	ලැබුණු පණිවිඩ	0.4274862421702032
-252	The pixbuf to render.	විදැහවිය යුතු Pixbuf එක	0.4274219115439071
-355	start	අරඹන්න	0.4272279700459955
-495	Unable to open input file %s, command aborted	ගොනු පිටපත් කිරීම අසම්පූර්ණයි	0.42710844344166043
-591	Unknown properties	සමුහ වත්කම්	0.4270161310287371
-1054	Connection can't be established	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.4269582619541856
-965	Empathy should auto-connect on startup	ආරම්භයේදී Empathy ස්වයංව සම්බන්ධ විය යුතුයි	0.42665335090329115
-918	Contact disconnected	සබඳතාව විසන්ධිවිය	0.4264172423375796
-27	queen of clubs	කලාබර ක්වීන්	0.4263728011824769
-364	Anjuta shell for which the plugins are made	ප්ලගින සඳහා වූ අන්ජුටා කවචය (shell)	0.42631962176191207
-744	Books disabled	පොත් අක්‍රිය කර ඇත	0.4262769166737387
-293	Debugger command:	නිදොසක විධානය	0.42617715729153866
-392	File not found	%s ආයිත්තම හමු නොවි	0.4259935232602298
-77	the queen of clubs	කලාබර ක්වීන්	0.42595514354368325
-372	Conflicted	මානරණය කරන්න (_C)	0.4257163199115562
-961	Warning	අවවාදයයි	0.4257070547505601
-468	Warning	අවවාදයයි:	0.4257070547505601
-99	the queen of hearts	හාර්ත ක්වීන්	0.42554723955180546
-375	Could not find application pixmap file: %s	%s යෙදුම් pixmap ගොනුව හමු නොවිණි	0.4255367700333737
-786	Show API Documentation for the word at the cursor	කසරය ඇති වචනයට API ලිපි ලේකන පෙන්වයිDevhelp	0.42537531913279397
-763	Show API Documentation for the word at the cursor	කසරය ඇති වචනයට API ලිපි ලේකන පෙන්වයි	0.42537531913279397
-874	Failed to join chat room	කථාබහ කාමරයට එකතුවීම අසාර්ථකවිය	0.4253249152474207
-557	Highlight build warnings and errors in editor	නිමැවුම් පණිවිඩයේ ස්ථාන, පෙල සකසුවේ උද්දීපනය කරන්න	0.42530933531451987
-478	Search and Replace	සෙවීම සහ ආදේෂය	0.4250004446125466
-561	Search and replace	උදව් සොයන්න	0.4250004446125466
-678	"Could not open folder ""%s"""	"""%s"" බහලුම විවෘත කල නොහැක"	0.42450098672277853
-553	Unable to extract project template %s: %s	%s ගොනුව බිහිකළ නොහැක	0.4243830842616623
-47	eight of hearts	හාර්ත අට	0.4242290375847795
-399	Unable to update project	සම්පූර්ණ ව්‍යාපෘතියම ස්ථාපනය කරන්න	0.42413204619873607
-759	Font for text with variable width.	විචල්‍ය දිගක් ඇති වචන කාණ්ඩයට අකුරු රටා	0.4241259810042708
-221	Chinese Traditional	සම්ප්‍රදායික චීන	0.424016871490435
-923	Chinese Traditional	සාම්ප්‍රදායික චීන	0.424016871490435
-972	The default folder to save file transfers in.	ගොනු හුවමාරු සුරැකීමට පෙරනිමි බහලුම.	0.42389717306856695
-218	Missing type defined by plugin %s	%s plugin එකෙන් අර්ථදැක්වෙන type එක හමු නොවේ	0.4237956093870886
-1002	Disable popup notifications when away	බැහැරව සිටින විට උත්පතන දැනුම්දීම් අක්‍රිය කරන්න	0.42329698658152803
-510	General Class Properties	සමුහ වත්කම්	0.42328314502897874
-231	Please select a plugin to activate	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.4231880260452832
-560	Close Others	ගොනුව වසන්න	0.4230816779615672
-215	Unable to find plugin registration function %s in module %s	plugin එක ලියාපදිංචි කරන %s ශ්‍රිතය %s මොඩුලය තුලින් සෙවිය නොහැක	0.4229278371937267
-365	Anjuta status to use in loading and unloading of plugins	ප්ලගින පූරණයේදී සහ වැරීමේදී භාවිතා කල යුතු අන්ජුටාහි තත්ත්වයIcon: %s	0.4227159736142175
-237	Anjuta status to use in loading and unloading of plugins	ප්ලගින පූරණයේදී සහ වැරීමේදී භාවිතා කල යුතු අන්ජුටාහි තත්ත්වය	0.4227159736142175
-459	Select the _target for the new source files:	ගැලපෙන වරහන් තුල ඇති පෙල තෝරාගන්න	0.4224701705996849
-755	The X position of the assistant window.	සහකාරක වින්ඩෝවේ X කන්දාංක	0.42244168021227124
-285	Choose file or directory to get log:	සටහන් ලබාගත යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4224411959857701
-1029	Empathy can publish the user's location	Empathyට පරිශීලකගේ පිහිටීම ප්‍රකාශයට පත් කල හැක	0.42227630243045555
-544	Unable to create a buffer: command aborted	%s ගොනුව බිහිකළ නොහැක	0.42226897410061803
-196	Unknown value	නොදන්න අගය	0.422214389514161
-323	Zoom Out	කුඩා කරන්න	0.4220436733471204
-670	Zoom out	කුඩා කරන්න	0.4220436733471204
-758	Use the system default fonts.	පද්ධතියේ ඇති මුලික අකුරු රටා භාවිතා කරන්න	0.42170222483269154
-21	reserve	වෙන්කර ඇතslot type	0.4214344216127918
-279	Failed to execute autogen: %s	autogen ධාවනය කල නොහැකියි: %s	0.4214026268554605
-696	Scanning type, subgroups, rows or linear	පරිලෝකන වර්ගය, උප ගොණු , තීරු වශයෙන්, දික් අතට.	0.42133171551916154
-1004	Pop up notifications if the chat isn't focused	සල්ලාපය එල්ල වී නැත්නම් උත්පතන දැනුම්දීම්	0.421321535607179
-555	Unable to execute command	"""%s"" විධානය ක්‍රියාත්මක කල නොහැක"	0.42131468697225666
-850	Network:	ජාලය:	0.4212106090158088
-613	Failed to activate the JHBuild Plugin: %s	autogen ධාවනය කල නොහැකියි: %s	0.42111328934153464
-223	Japanese	ජපන්	0.4210149702007912
-182	Remove the ace of diamonds.	රුවිත ආසියා	0.4209588169915491
-287	Choose file or directory to remove:	ඉවත් කල යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.42092144872363846
-990	Play a sound for outgoing messages	යැවෙන පණිවිඩ සඳහා ශබ්දයක් වාදනය කරන්න	0.42079282626169456
-813	Play a sound for outgoing messages	යන පණිවිඩ සඳහා ශබිදයක් වාදනය කරන්න	0.42079282626169456
-166	Remove the jack of spades.	ඉස්කෝප්ප ජැක්	0.4207093534404284
-154	Remove the ace of clubs.	කලාබර ආසියා	0.4206263583272559
-746	Group by language	භාෂාව අනුපිලිවලට ගොනු ගත කරන්න	0.42045708027876677
-65	_Recently Played	මෑතකදි තරග කළ (_R)	0.4201432571427463
-700	Automatically restart scanning after item activation	අයිතමය සක්‍රිය කිරීමෙන් පසුව ස්වයංක්‍රියව පරිලෝකනය නැවත පටන් ගන්න	0.4198608925523551
-928	The selected contact is offline.	තෝරාගත් ගොණුව හිස්ය	0.4195323824950549
-590	Source properties	සමුහ වත්කම්	0.4194650912121551
-517	Go to previous history	ඉහත උදව් පිටුවට යන්න	0.41945700773365424
-909	Location,	පිහිටුම,	0.419425282957347
-1061	Create a new account on the server	නව ගිණුමක් තනන්න (_C)	0.41919948615167785
-584	Select the _target for the library:	ගැලපෙන වරහන් තුල ඇති පෙල තෝරාගන්න	0.41915013595530975
-462	Group properties	සමුහ වත්කම්	0.4190375581111538
-245	Select the items to save:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.4188662587099424
-119	Move ~a onto the ace of spades.	ඉස්කෝප්ප ආසියා	0.418822908428706
-165	Remove the ten of spades.	ඉස්කෝප්ප දහය	0.41877699673311897
-384	Completed unsuccessfully	සම්පූර්ණයි... නමුත් අසාර්ථකයි	0.41877030523400327
-689	File to store unsent bug reports.	දෝෂය වාර්තා සුරකිය යුතු ගොනුව	0.4186939970679479
-883	No topic defined	මාතෘකාවක් නිශ්වයකර නැත	0.41867698956297955
-390	Open '%s'	%s විවෘත වෙමින්	0.4186184967081296
-934	Enter the details for the new account	නව ගිණුම සඳහා විස්තර ඇතුලත් කරන්න	0.4185137644546217
-284	Choose file or directory to diff:	diff: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4184510718878001
-748	Whether the assistant window should be maximized	ප්‍රධාන වින්ඩෝව පුළුල් තිරයේ ඇරඹිය යුතුද යන්න වග.	0.41801920710089
-930	The error message was: %s	දෝශ පණිවිඩයක් නොමැත	0.4180112213712849
-751	The width of the assistant window.	සහකාරක වින්ඩෝවේ පළල	0.4175072793546877
-687	Real name of user reporting the bug.	දෝෂ වාර්තා කරන පරිශිලකගේ සැබෑ නම	0.4174381360343602
-873	Failed to reconnect this chat	මෙ‍ම කථාබහ නැවත සම්බන්ධකිරීම අසාර්ථකවිය	0.4172458836341013
-594	Recent projects:	ලඟදී විවර කල ගොනු	0.41708493068065816
-418	Select Files to Mark as Resolved:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.4169099473721905
-824	Show contact list in rooms	කාමරවලදී සබඳතා ලැයිස්තුව පෙන්වන්න	0.41672664085343547
-233	Remember this selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.41668373358576266
-277	Header or source file has not been created	සිරස් ගොනුව හෝ මූල ගොනුව බිහිකර නැත	0.41659125515927464
-168	Remove the king of spades.	ඉස්කෝප්ප කිංග්	0.416436816568244
-832	Empathy can use the cellular network to guess the location	Empathy හට ඔබගේ පිහිටුම ජංගම දුරකථන ජාලය මගින් අනුමාන කල හැක	0.41625809616422
-1033	Empathy can use the cellular network to guess the location	පිහිටීම අනුමාන කිරීමට Empathyට ජංගම දුරකථන ජාලය භාවිතා කල හැක	0.41625809616422
-346	make: Leaving directory `%s'	නිමවන්න (Make): පිටවුම් ඩිරෙක්ටරිය '%s'	0.41615584875078504
-344	make: Leaving directory '%s'	නිමවන්න (Make): පිටවුම් ඩිරෙක්ටරිය '%s'	0.41615584875078504
-460	No project loaded	ව්‍යාපෘතියක් හෝ ගොනුවක් විවෘත කර නැත	0.41609414217815005
-316	Convert End Of Line characters to Unix EOL (LF)	පෙල අග (EOL) අක්ෂර Unix EOL (LF) වලට හරවන්න	0.4159949974756535
-573	Commit changes	වෙනස් කිරීම් ඉවත දමන්න	0.41574762166226836
-466	Failed to retrieve URI info of %s: %s	'%s' කියවිම අසාර්ථකයි: %s	0.41566434270238767
-370	Unable to load user interface file: %s	%s ගොනුව බිහිකළ නොහැක	0.41543661600582676
-432	Please select branches to delete	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.41527889238236704
-679	Could not move file to the Trash	"""%s"" බහලුම මැකිය නොහැක"	0.41494863896745526
-1	Relations	සම්බන්ධතා	0.41492485891194103
-394	Up-to-date	යාවත් කාළීන:	0.41475204173560554
-498	Currently selected text in editor	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.41472535811058464
-485	Recent Projects	ව්‍යාපෘතිය පිරිසිදු කරන්න	0.4145499778120485
-988	Play a sound for incoming messages	එන පණිවිඩ සඳහා ශබ්දයක් වාදනය කරන්න	0.4141675543703445
-811	Play a sound for incoming messages	එන පණිවිඩ සඳහා ශබිදයක් වාදනය කරන්න	0.4141675543703445
-125	Move ~a onto the jack of spades.	ඉස්කෝප්ප ජැක්	0.4141101863150183
-692	Collecting information from your system…	ඔබගේ පද්ධතියේන් තොරතුරු එකරැස් කරමින්...	0.4140915857738556
-691	Collecting information from your system...	ඔබගේ පද්ධතියේන් තොරතුරු එකරැස් කරමින්...	0.4140915857738556
-1040	File transfer not supported by remote contact	ගොනු හුවමාරුව සඳහා දුරස්ථ සබඳතාවය සහය නොදක්වයි	0.4140596959008474
-836	File transfer not supported by remote contact	ගොණු හුවමාරුව සඳහා දුරස්ථ සබඳතාවය සහය නොදක්වයි	0.4140596959008474
-854	Reso_urce:	සම්පත් (_U):	0.4140065787725797
-1070	Reso_urce:	සම්පත්: (_u)	0.4140065787725797
-806	Send and receive messages	පණිවිඩ ගන්න සහ යවන්න	0.4138402422541353
-1055	Connection has been lost	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.41376378532141855
-283	Choose file or directory to commit:	commit: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.41358420168768323
-762	Makes F2 bring up Devhelp for the word at the cursor	F2 මගින් කසරය ඇති වචනයට DevHelp උපකාර ලබා දෙයි	0.41336914812252945
-563	Highlight All	උද්දීපන ආකාරය (_H)	0.4131884222977782
-569	Additional objects:	ව්‍යාපෘතියට එක් කරන්න	0.41316502359631946
-353	Cannot execute command %s (using shell %s)	%s විධානය ක්‍රියාත්මක කල නොහැක. (භාවිතා කරන්නේ %s කවචයයි)	0.4130667561911829
-684	"Could not scan folder ""%s"""	"""%s"" බහලුම විවෘත කල නොහැක"	0.4128606440065658
-385	Completed successfully	සම්පූර්ණයි... සාර්ථකයි	0.4126643247255996
-1048	Error while trying to transfer the file	ගොනුව හුචමාරු කිරීමට උත්සහ කිරීමේදී දෝෂය	0.4120977964711516
-368	Please select a plugin from the list	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.41205421956978977
-739	The X position of the main window.	ප්‍රධාන වින්ඩෝවේ X කන්දාංක	0.4120285795976038
-343	make: Entering directory `%s'	නිමවන්න (Make): පිවිසුම් ඩිරෙක්ටරිය '%s'	0.41195746660232546
-349	Always save in UTF-8 encoding (faster)	UTF-8 කේතනයෙන් සැමවිටම සුරකින්න (වේගවත්)	0.4118314247518846
-508	Install	ස්තාපනය (_I)	0.4117844812401898
-378	Install	විකල්ප	0.4117844812401898
-1037	Empathy should reduce the location's accuracy	Empathy පිහිටීමේ නිරවද්‍යතාව අඩු කල යුතුයි	0.41160844976771366
-579	Delete all stashes in this repository	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.4115649973692959
-318	Convert End Of Line characters to Mac OS EOL (CR)	පෙල අග (EOL) අක්ෂර Mac OS EOL (CR) වලට හරවන්න	0.4114835046129684
-350	Try to save in current locale's encoding	වර්තමාන පෙදෙසියේ කේතනයෙන් සුරැකීමට උත්සාහ කරන්න	0.41134705980346625
-480	Could not open %s: %s	ගොනුව විවෘත කළ නොහැක	0.4109707573165088
-735	The width of the main window.	ප්‍රධාන වින්ඩෝවේ පළල	0.4108894007799288
-802	Play	වාදනය	0.4108176487085482
-209	Could not save intermediate file %s: %s	%s යෙදුම් pixmap ගොනුව හමු නොවිණි	0.4107479534430863
-222	Cyrillic/Russian	සයිරිලීක/රුසියානු	0.4106975121925411
-924	Cyrillic/Russian	සිරිලික්/රුසියානු	0.4106975121925411
-912	Information requested…	තොරතුරු ඉල්ලනලදී...	0.41030216795396585
-282	Choose file or directory to add:	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4102359435942075
-276	Source/Header Headings:	මූල සිරස්තලය/සිරස්තල	0.41017284685210004
-535	Confirm remove	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.4101482395848183
-574	Diff uncommitted changes	වෙනස් කිරීම් ඉවත දමන්න	0.41012218266589456
-1049	The other participant is unable to transfer the file	අනෙක් සහභාගිකයාට ගොනුව හුවමාරු කිරීමට නොහැක	0.4101091372095831
-288	Choose file or directory to update:	යාවත් කල යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.41007530015625365
-234	Currently available plugins found in plugin paths	ප්ලගින පෙත්(path) තුල දැනට ඇති ප්ලගින	0.4099639724523305
-513	Choose file or directory to get log for:	සටහන් ලබාගත යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4096624458693478
-214	Develop software in an integrated development environment	සංගෘහිත පරිසරයක් තුල මෘදුකාංග නිමවයි	0.40935262026920166
-960	_Publish location to my contacts	මගේ පිහිටුම සබඳතාවලට ප්‍රසිද්ධ කරන්න (_P)	0.4090240978282881
-776	Error opening the requested link.	අයදුම් කරන ලද බන්ධයේ(link) දෝෂයක් පවතී	0.4089926995575156
-881	permission denied	අවසර නැත	0.4089318627636182
-62	Start a new game	නව තරගයක් ආරම්ඹකරන්න	0.408320058603265
-516	Convert End Of Line characters to the most common EOL found in the file	පෙල අග (EOL) අක්ෂර Unix EOL (LF) වලට හරවන්න	0.4083037052014375
-1035	Empathy can use the GPS to guess the location	පිහිටීම අනුමාන කිරීමට Empathyට GPS භාවිතා කල හැක	0.4081265853522303
-834	Empathy can use the GPS to guess the location	Empathy හට ඔබගේ පිහිටුම GPS මගින් අනුමාන කල හැක	0.4081265853522303
-256	Program '%s' does not have execution permission	'%s' ක්‍රමලේඛයට ධාවන අයිතීන් නොමැත	0.4078511296341953
-338	Unable to create file: %s.	%s ගොනුව බිහිකළ නොහැක	0.407838399633425
-818	Play a sound when a contact logs out	සබඳතාවක් පිටවීමේදී ශබ්දයක් වාදනය කරන්න	0.40760653990588774
-141	Move ~a onto the ace of diamonds.	රුවිත ආසියා	0.4075004726784414
-720	Actions	ක්‍රියා:	0.4074664340307723
-331	Actions	ක්‍රීයා	0.4074664340307723
-539	Actions	ක්‍රියාව	0.4074664340307723
+	english	sinhala	Similarity score	Alignment score
+702	Switch device	උපකරණය සිරුමාරුව	0.5230794716371249	0.455882
+709	Keyboard Type	යතුරු පුවරු වර්ගය	0.5115601991545664	0.345238
+580	Mailbox files	සියළු ගොනු	0.5085433402970502	0.512987
+450	Copy the selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.5067860651097885	0.846154
+482	Highlight syntax	උද්දීපන ආකාරය (_H)	0.5067585749441086	0.416409
+628	profile file	ගොනුව කම්පයිල් කරන්න	0.5064957204610789	0.335165
+774	Book Shelf	පොත් රාක්කය	0.5051549456299168	0.564394
+422	View log	සටහන් දර්ශනය	0.5045512029705527	0.508547
+521	Select a Folder	ප්ලගිනයක් තෝරාගන්න	0.5035245241639821	0.481908
+664	Scan the file system	ගොනු පද්ධතිය පරිලෝකණය කරන්න	0.5033534481781259	0.720238
+366	Synchronization file	සමමුහුර්ථකරණ URI එක	0.5027499751549334	0.705952
+795	Change typing break settings	#-#-#-#-# si.po (si) #-#-#-#-# දෝෂහරිණ කේත සක්‍රිය කරන්න #-#-#-#-# si.po (si) #-#-#-#-#	0.5018054132183937	0.366771
+588	Sort shortcuts	කෙටි මාර්‍ගය	0.5009896333903483	0.641026
+711	Save file	ගොනුව සුරකින්න	0.500604326009206	0.45
+1080	Discover Binding	බන්ධනය අනාවරණය කරන්න	0.5001910176995682	0.401961
+707	Switch button	මාරුකිරීමේ බොත්තම	0.5000394626023018	0.555556
+799	Audio Settings	ජාල සැකසුම්	0.4998647629534273	0.633333
+470	Select file	සියල්ල තෝරන්න (_A)	0.49979368103965777	0.423246
+712	Select File	ගොනුව තෝරන්න	0.49979368103965777	0.439103
+643	list box	ලැයිස්තුව	0.49936514261378545	0.777778
+82	the six of spades	ඉස්කෝප්ප හය	0.49932625274679976	0.319444
+952	Reconnect	නැවත සම්බන්ධවන්න	0.4991094333123943	0.647059
+425	Create patch series	නව ඩිරෙක්ටරි බිහිකරන්න	0.4990975183847288	0.784783
+704	Switch key	යතුරු මාරුව	0.49865043566107203	0.431818
+419	Unstage Files	ලඟදී විවර කල ගොනු	0.4977404996276446	0.722222
+807	Compact contact list	සංයුක්ත සබඳතා ලැයිස්තුව	0.49759977836178865	1.0
+540	Search variable	විචල්‍යය	0.49712625198304383	0.71875
+556	Select Files	ලඟදී විවර කල ගොනු	0.4969020952508874	0.722222
+80	the ace of spades	ඉස්කෝප්ප ආසියා	0.49497680082985257	0.494444
+638	footer	පාදකය	0.49439257190107755	1.0
+325	New empty file	නව හිස් ගොනුවක්	0.4943821179948441	0.35625
+380	Regenerate project	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.4935327556307457	0.741935
+473	Makefile project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.49314109742913614	0.9
+379	Configure Project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.49309940485105125	0.9
+265	Configure project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.49309940485105125	0.9
+519	Shell script files	වර්තමාන ගොනුව සුරකින්න	0.4926485766422803	0.358124
+301	Close file	ගොනුව වසන්න	0.49240457806140864	0.477273
+893	Retry	නැවත උත්සහ කරන්න	0.4918298724987735	0.647059
+213	Shrink	හැකිලෙනවා	0.49156145000294466	1.0
+84	the nine of spades	ඉස්කෝප්ප නවය	0.49140209092941456	0.530364
+440	Ignore files	ගොනුව වසන්න	0.49130945809899945	0.519231
+53	six of spades	ඉස්කෝප්ප හය	0.4909766873132148	0.375
+272	Build popup commands	උත්පතන නිමැවුම් විධාන	0.4904194151565909	0.652597
+426	Apply mailbox files	සියළු ගොනු	0.4903991084256673	0.427273
+101	the ace of diamonds	රුවිත ආසියා	0.48993148234881223	0.35
+472	Display description of the applet	පරිශීලක අතුරුමුහුණතේ XML විස්තරය	0.4891923525562025	0.597594
+409	C++ compiler flags	ගොනුව කම්පයිල් කරන්න	0.48906845665413495	0.451128
+437	Update the working copy	ප්‍රස්තාරය යාවත්කාලීන කරන්න	0.4879606255997806	0.300595
+642	table row	වගුව	0.48775620755811805	0.7
+782	Decrease the text size	අකුරු ප්‍රමාණය අඩු කරන්න	0.48737417620066636	0.504348
+629	Unlist Project	ව්‍යාපෘතිය පිහිටුවන්න	0.4871262709571891	0.483333
+477	Run operations	තොරතුරු	0.48511900358820614	0.866667
+483	Print page header	මුද්‍රණ පූර්‍වදැදැක්ම	0.48499287934335944	0.861111
+630	animation	සජීවනය	0.484657818718588	1.0
+74	the ace of clubs	කලාබර ආසියා	0.48397629896527555	0.794118
+29	ace of diamonds	රුවිත ආසියා	0.48388249823764035	0.375
+395	Rename file or directory	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.48387527671987063	0.570732
+1052	Encryption error	සංකේතාංකන දෝෂය	0.4838477302495747	0.656863
+571	Remove Files	ලඟදී විවර කල ගොනු	0.48354969115834256	0.369658
+801	Network Settings	ජාල සැකසුම්	0.4831739140631946	1.0
+109	the nine of diamonds	රුවිත නවය	0.48315810030453826	0.514286
+356	Highlight style	උද්දීපන ආකාරය (_H)	0.4830868141972311	0.319079
+827	Enable spell checker	අක්ෂර වින්‍යාස පරීක්ෂකය සක්‍රීය කරන්න	0.4823722931484109	0.308897
+790	Increase the text size	අකුරු ප්‍රමාණය වැඩි කරන්න	0.4819108747047921	0.515886
+768	Keyword	මුල පදය	0.4817440855992983	0.75
+646	Excluded partitions URIs	අත්හල පංගු	0.48136059420021704	0.327273
+305	Sorted in opening order	විවෘත කල පිලිවෙලට අනුපිලිවෙලට සකසන්න	0.4813528344647525	0.447635
+1012	Chat window theme	සල්ලාප කවුළු තේමාව	0.48131691444682206	0.350877
+791	Leave fullscreen mode	මුලුතිර මොඩය හැර යන්න	0.48130274028538567	0.681818
+484	Print page footer	මුද්‍රණ පූර්‍වදැදැක්ම	0.4809822456069189	0.861111
+501	Icons	නිරූපකය	0.48083446785195233	1.0
+729	Control Style	පාලනය	0.48078179623438344	0.785714
+388	Select one directory	හිස් ඩිරෙක්ටරි මකන්න	0.48076628856190806	0.785714
+701	Scan cycles	පරිලෝකන චක්‍රය	0.48066612763764105	0.558333
+641	caption	යටි ලියමන	0.48064699107653475	0.7
+87	the king of spades	ඉස්කෝප්ප කිංග්	0.48047900427149853	0.331579
+332	Find _Previous	සොයන්න පෙර (_P)	0.48008525861452706	0.489583
+794	Find _Previous	ඉදිරියට සොයන්න	0.48008525861452706	0.4
+592	Highlight source code	උද්දීපන ආකාරය (_H)	0.48004196654988207	0.437799
+240	Name of the plugin profile	ප්ලගින පැතිකඩෙහි නම	0.4799889273907496	0.565741
+941	Brightness	දීප්තිය	0.4799193850663155	1.0
+55	king of spades	ඉස්කෝප්ප කිංග්	0.4797591786406356	0.366667
+714	Alphabet Selection	ක්‍රියා:	0.4794814633724352	0.736842
+614	Highlights	උද්දීපන ආකාරය (_H)	0.479475336300728	0.631579
+203	Launcher Properties	මෙනු වත්කම්	0.47925276665110567	1.0
+520	Generic rule	සාමාන්‍ය	0.4790705995336515	0.807692
+499	Replace buffer	ආදේශය	0.4784140734503803	0.766667
+106	the six of diamonds	රුවිත හය	0.47830304152345005	0.558333
+37	nine of diamonds	රුවිත නවය	0.4782436901711982	0.447059
+640	chart	ප්‍රස්තාරය	0.4781735368923509	1.0
+85	the jack of spades	ඉස්කෝප්ප ජැක්	0.4779072329878263	0.362782
+266	Build project tarball distribution	ව්‍යාපෘතියේ ටාබෝල බෙදාහැරීම නිමවන්න	0.47787957398314457	0.803175
+34	six of diamonds	රුවිත හය	0.4777413931339299	0.614583
+605	Search in project files	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.47740876847478353	0.554435
+503	Select projects directory	හිස් ඩිරෙක්ටරි මකන්න	0.47729540506046114	0.430403
+634	push button	එබුම් බොත්තම	0.4772000820397242	1.0
+107	the seven of diamonds	රුවිත හත	0.47704234568223564	0.469697
+271	Build commands	නිමැවුම් විධාන	0.47688624212458797	0.5
+324	Reload	ප්‍රථිපූරණය	0.4765154155694186	1.0
+471	A generic project	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.4763112892298938	0.68638
+248	Shortcut	කෙටි මාර්‍ගය	0.4762711990233426	0.807692
+35	seven of diamonds	රුවිත හත	0.47622935814128076	0.5
+669	Move to parent folder	බහාළුමේ විමසන්න	0.4761807599432392	0.409091
+635	radio button	විකල්ප බොත්තම	0.47587589377954126	0.519231
+851	Quit message:	පණිවිඩායෙන් ඉවත්වන්න:	0.47564008418283504	1.0
+1067	Quit message:	පණිවිඩයෙන් ඉවත්වන්න:	0.47564008418283504	0.559524
+698	Inverse scanning	ප්‍රතිලෝම පරිලෝකනය	0.4754580694790845	1.0
+391	All files	සියළු ගොනු	0.47520992520465155	0.527273
+81	the three of spades	ඉස්කෝප්ප තුන	0.4751715288178561	0.521154
+396	Select package	ප්ලගිනයක් තෝරාගන්න	0.47508117821935103	0.496491
+88	the ace of hearts	හාර්ත ආසියා	0.47507755760460685	0.361111
+545	Select project directory	හිස් ඩිරෙක්ටරි මකන්න	0.47505298228296516	0.720952
+1081	Keep-Alive Options	සජීවීව තබන්න අභිරුචි	0.4748285472665203	0.45614
+25	ace of clubs	කලාබර ආසියා	0.47475551583179054	0.403846
+348	Supported Encodings	සහාය දක්වන කේතන	0.4746929392422715	0.8125
+442	Git operations	සමුහ වත්කම්	0.4744619591663417	0.658333
+721	Application Style	ක්‍රියා:	0.4742652999483831	0.666667
+725	A_ppend to file	ගොනුව විවෘත කරන්න	0.47414321263903353	0.416667
+40	ace of hearts	හාර්ත ආසියා	0.4740486957847256	0.392857
+907	Select a contact	සබඳතාවක් ‍තෝරාගන්න	0.47375978421947185	0.455882
+543	Terminal options	අග්‍රය	0.47367391236568696	0.764706
+486	Remove file/directory	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4735506911119914	0.401885
+660	Toolbar is Visible	මෙවලම්තීරුව දෘශ්‍ය වේ	0.4733294215240435	0.630383
+576	Add a remote repository	රිපොසිටරියට එක් කරන්න	0.47263692729004986	0.676136
+903	Send file	ගොණුව යවන්න	0.4722084080791909	0.5
+291	File is binary	ගොනුව ද්විමයි	0.47215398762324085	0.9
+549	Marked up text to render	විදහව සඳහා පෙළ	0.47199648953463935	0.613333
+306	Save current file	වර්තමාන ගොනුව සුරකින්න	0.4719143157680285	0.665459
+672	Save Snapshot	ඡායාරූපය සුරකින්න	0.4717050830523173	0.571429
+302	Save file as	ගොනුව සුරකින අයුර	0.47164096073608963	0.358974
+300	Search	සොයන්න	0.4715324418457676	1.0
+784	Search	සෙවීම	0.4715324418457676	1.0
+956	New conversation	නව සංවාදය	0.47122166012520117	0.532353
+104	the four of diamonds	රුවිත හතර	0.47120855812612733	0.833333
+290	Delete empty directories	හිස් ඩිරෙක්ටරි මකන්න	0.4709435423079147	1.0
+83	the eight of spades	ඉස්කෝප්ප අට	0.47066590485235327	0.3
+19	Select Game	තරගයක් තෝරන්න	0.47061052594555025	1.0
+438	Update remote branches	ප්‍රස්තාරය යාවත්කාලීන කරන්න	0.4705880407397061	0.392081
+105	the five of diamonds	රුවිත පහ	0.4703729040274337	0.547619
+270	Compile current editor file	වර්තමාන පෙල සකසුම් ගොනුව කම්පයිල් කරන්න	0.47032878632278746	0.875
+649	Home folder	නිවෙස් බහලුම පරිලෝකනය කරන්න	0.4702885825340062	0.416667
+487	Update file/directory	නව ඩිරෙක්ටරි බිහිකරන්න	0.47025282274098157	0.5583
+33	five of diamonds	රුවිත පහ	0.4701905258578253	0.598039
+110	the ten of diamonds	රුවිත දහය	0.47008234257023085	0.525
+606	All text files	සියළු ගොනු	0.46995464658628316	0.427273
+102	the two of diamonds	රුවිත දෙක	0.46982542227392327	0.825
+52	three of spades	ඉස්කෝප්ප තුන	0.46978937794356584	0.564904
+829	Empathy default download folder	Empathyහි පෙරනිමි බාගත ෆෝල්ඩරය	0.4696152004000803	0.745968
+919	Connected to server	සේවාදායකයට සම්බන්ධවිය	0.4695769094032784	0.5
+921	Classic	පැරණි	0.4693672843719726	1.0
+715	Adaptation	ක්‍රියා:	0.46931180009558865	1.0
+559	is Sub-Class	මූලික පන්තිය	0.46903080598676583	0.615385
+449	Cut the selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.4685946574358091	0.638889
+98	the jack of hearts	හාර්ත ජැක්	0.4684614729527469	0.411483
+2	Layer	ස්තරය	0.4684118246378964	1.0
+826	Spell checking languages	අක්ෂර වින්්‍යාස භාෂාව	0.4682244089912606	0.427273
+572	Tag tools	මෙවලම්	0.467899021302184	0.8
+322	Copy the selected text to the clipboard	තෝරාගත් පෙළ පසුරුපුවරුව වෙත පිටපත් කරන්න	0.4678386406811405	0.629268
+30	two of diamonds	රුවිත දෙක	0.4676182457437254	0.58125
+805	Server password:	රහස්පදය:	0.4672982539216133	0.794118
+899	Removing group	සමූහය ඉවත්කරන්න	0.4672548405111652	1.0
+113	the king of diamonds	රුවිත කිංග්	0.46722959363025074	0.833333
+526	Failed to parse XML structure	'%s' කියවිම අසාර්ථකයි: XML විග්‍රහයේ දෝෂයකි	0.4671745955331685	0.6
+407	C++ compiler flags:	ගොනුව කම්පයිල් කරන්න	0.4669394611495815	0.439286
+56	face-down card	නොදන්නා කාඩ්පතක්	0.4665176758891371	0.598039
+371	Deleted	මකන්න	0.46632648172988195	1.0
+280	XML description of the user interface	පරිශීලක අතුරුමුහුණතේ XML විස්තරය	0.46627549470899854	0.392344
+410	Install directory:	ව්‍යාපෘතිය පිහිටුවන්න	0.4661881404652443	0.539474
+289	Create new directories	නව ඩිරෙක්ටරි බිහිකරන්න	0.46617855522186247	1.0
+760	Font for fixed width text	අචල දිගක් ඇති වචන කාණ්ඩයට අකුරු රටා	0.46591673084453905	0.576923
+111	the jack of diamonds	රුවිත ජැක්	0.46553659664985797	0.487013
+452	HTML export options:	විකල්ප:	0.46534417395450206	0.714286
+416	Remove File	ඉවත් කරන්න	0.4653229987648524	0.481061
+75	the ten of clubs	කලාබර දහය	0.4652686969602489	0.476471
+408	Install directories:	ව්‍යාපෘතිය පිහිටුවන්න	0.4651389801611095	0.559524
+717	Top to Bottom	ඉහළ සිට පහළට	0.46494139842518933	0.596154
+959	Automatically _connect on startup	පණගැන්වුමේදී සම්බන්ධ කරන්න	0.4648305068753626	0.373094
+197	Six Foundations	සන්නිවේදනය:	0.4646766071178053	0.875
+944	Video Preview	වීඩියෝ පූර්වදර්ශණය	0.4642638115578046	0.469925
+32	four of diamonds	රුවිත හතර	0.4642510436033005	0.564706
+570	Remove Files:	ලඟදී විවර කල ගොනු	0.46407333201469353	0.388889
+973	Show offline contacts	නොබැඳි පරිශීලකයින් පෙන්වන්න	0.4639540213564215	0.581169
+39	king of diamonds	රුවිත කිංග්	0.46384154012486273	0.911765
+742	Width of the index and search pane	සුචියේ හා සෙවුම් කොටුවේ පළල	0.4636768652151709	0.742857
+568	Installation directory:	root ලෙස ස්ථාපනය කරන්න	0.46367564847752385	0.73913
+1089	Select Your Avatar Image	ඔබගේ මූර්ති පින්තූරය තෝරන්න	0.4634449133453848	1.0
+891	Disconnected	විසන්ධිවිය	0.4634047486058109	1.0
+788	DevHelp Website	DevHelp වෙබ් අඩවිය	0.4633482924130954	0.460526
+766	DevHelp Website	DevHelp වෙබ් අඩවියDevhelp	0.4633482924130954	0.403846
+865	Authentication username:	සහතිකකල පරිශීලක නාමය:	0.4630544736096848	0.818182
+78	the king of clubs	කලාබර කිංග්	0.4627603465835798	0.388889
+951	Error sending a file	ගොණුව යැවීම දෝශසහගතයි	0.4626728064801595	0.69697
+688	Email Address	විද්‍යුත් තැපැල් ලිපිනය	0.46266645340070334	0.422619
+108	the eight of diamonds	රුවිත අට	0.46195639491625573	0.537879
+581	Remotes	ඉවත් කරන්න	0.46183503595389186	0.772727
+23	Bristol	බ්‍රිස්ටල්	0.46166848510367686	1.0
+386	Cancel build command	නිමැවුම් විධාන	0.46150820315156355	0.466667
+653	Failed to open file	බහාළුමේ විමසන්න	0.461487252935427	0.425
+11	Caption:	යෙදුම:	0.4613926697539412	1.0
+22	%s on foundation	පරිශීලක තොරතුරුreserveslot hint	0.4613435984610423	0.38511
+902	_Previous Conversations	පෙර සංවාද (_P)	0.46133940724749545	0.375
+5	Columns	තීරු	0.461329188970126	1.0
+695	Enable switch scanning	ස්විචිය පරිලෝකනය සක්‍රිය කිරීම	0.4613276004723218	0.62202
+439	Add files to the repository	රිපොසිටරියට එක් කරන්න	0.4613061551770119	0.631494
+631	check box	සලකුණු කොටුව	0.4610819677511851	0.530769
+444	Manage associations	ක්‍රීයා	0.46101803179473094	0.675
+451	Delete the selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.4604821820101237	0.846154
+764	translator_credits	පරිවර්තකයාගේ_සම්මාන	0.4604450068517363	1.0
+896	Conversation	සංවාදය	0.46034050830150847	1.0
+76	the jack of clubs	කලාබර ජැක්	0.46030076732646386	0.439394
+491	Use previous message	මීට පෙර පණිවිඩය (_N)	0.46007752302846955	0.904762
+103	the three of diamonds	රුවිත තුන	0.4597824624820387	0.840909
+376	Select Program to run:	ක්‍රමලේඛය දිවැවීම	0.4593928400784323	0.386473
+562	Clear Highlight	උද්දීපන ආකාරය (_H)	0.4593892305000732	0.523026
+662	All_ocated Space	යෙදවූ ඉඩ (_o)	0.45937198955718783	0.502101
+13	Distinguished	විශිෂ්ට	0.45917935209459365	1.0
+239	Profile Name	පැතිකඩෙහි නම	0.45912902786579307	1.0
+51	king of hearts	හාර්ත කිංග්	0.4591276228700054	0.483333
+310	Close all files	සියළුම ගොනු වසන්න	0.45896729920824914	0.645833
+351	Try to save in original encoding	පලමු කේතනයෙන්ම සුරැකීමට උත්සාහ කරන්න	0.4589355874959737	0.413186
+734	Width of the main window	ප්‍රධාන වින්ඩෝවේ පළල	0.4588167685488043	0.334286
+706	Right shift	දකුණු ශිෆ්ටය	0.45849120793821607	1.0
+312	Reload current file	වර්තමාන ගොනුව නැවත පූරණය කරන්න	0.45830321675974484	0.822581
+211	Refresh	නැවුම් කරන්න	0.45816398800508074	0.769231
+31	three of diamonds	රුවිත තුන	0.45809478978860324	0.55
+49	jack of hearts	හාර්ත ජැක්	0.45808936264961275	0.460606
+901	Removing contact	සබඳතාව ඉවත්කරමින්	0.4579984690908972	0.570261
+577	Delete selected remote	හිස් ඩිරෙක්ටරි මකන්න	0.45793604071009647	0.6853
+100	the king of hearts	හාර්ත කිංග්	0.45769733009545227	0.434211
+694	Enable scanning	පරිලෝකනය සක්‍රිය කර ඇත	0.45732023390732945	0.476902
+962	Critical	වැදගත්	0.4572880606809163	1.0
+79	the unknown card	නොදන්නා කාඩ්පතක්	0.45722323646556295	0.5
+311	Reload F_ile	ගොනුව නැවත පූරණය කරන්න	0.45668592171309746	0.73913
+922	Select a destination	ගමනාන්තයක් ෙතා්රන්න	0.4564801320773826	0.952381
+529	Cannot add source files	c header සහ source ගොනු මාරුකරන්න	0.4560794097783903	0.447304
+413	Debugger connected	නිදොසක විධානය	0.4559732163605625	0.486842
+611	Show Diff	පෙන්වීම	0.45589306677040986	0.75
+624	Loading files...	පුරණය වෙමින්...	0.45575721575517086	0.577206
+263	Install whole project	සම්පූර්ණ ව්‍යාපෘතියම ස්ථාපනය කරන්න	0.4557008831876598	0.663636
+54	eight of spades	ඉස්කෝප්ප අට	0.4555464002095401	0.34375
+567	Installation directories:	නව ඩිරෙක්ටරි බිහිකරන්න	0.4551778310782289	0.467391
+48	nine of hearts	හාර්ත නවය	0.4551413019634273	0.433333
+500	Current selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.45508397955056196	0.470085
+251	Text to render	විදහව සඳහා පෙළ	0.4549972646856961	0.3
+292	Debugger command	නිදොසක විධානය	0.4546966525517642	0.514706
+28	king of clubs	කලාබර කිංග්	0.4546760821451335	0.892857
+354	Select execution program and args	දිවැයිය යුතු යෙදුම හා විස්තාරක තෝරාගන්න	0.45460107785109516	0.707353
+880	invalid contact	වැරදි සබඳතාවකි	0.4545514409808808	0.55
+1090	Click to enlarge	විශාලනය කිරීමට ක්ලික් කරන්න	0.45452848331296825	0.378151
+872	Click to enlarge	ව්ශාලනයට ඔබන්න	0.45452848331296825	0.535294
+636	scroll bar	රෝල් තීරුව	0.4541621983867802	0.454545
+957	Account connected	ගිණුම සම්බන්ධයි	0.45415731075147514	0.590278
+904	Infor_mation	තොරතුරු (_M)	0.45402153673237317	0.692308
+38	jack of diamonds	රුවිත ජැක්	0.4539882828791936	0.537433
+769	Search for a keyword	මුල පදයක් සොයන්න	0.45391031853412384	0.372549
+842	Authentication failed	සහතික කිරීම අසමත්විය	0.4537998072632916	0.555195
+639	entry	පිවිසුම	0.45356394282486884	1.0
+953	Chat Room	කථාබහ කාමරය	0.45336405085102066	0.5
+274	Add to Repository	රිපොසිටරියට එක් කරන්න	0.4533001243591853	0.578283
+339	Unable to complete file copy	ගොනු පිටපත් කිරීම අසම්පූර්ණයි	0.4532107260061181	0.455747
+838	The selected file is empty	තෝරාගත් ගොණුව හිස්ය	0.45319059344187174	0.366667
+1042	The selected file is empty	තෝරාගත් ගොනුව හිස්ය:	0.45319059344187174	0.592593
+36	eight of diamonds	රුවිත අට	0.4528736757089014	0.583333
+945	Incoming video call	වීඩියෝ ඇමතුමක් එමින්	0.4524897344580524	0.391667
+446	Close the current file	වර්තමාන ගොනුව මුද්‍රණය කරන්න	0.45243005815161963	0.497751
+387	Command aborted	විධානය	0.45228611284603265	0.75
+317	Convert EOL to CR	EOL, CR වලට හරවන්න	0.4522172199128425	0.404971
+443	Widget name	වියත්නාම	0.4520768218524924	0.791667
+241	List of plugins for this profile	මේ පැතිකඩ සඳ්හා වූ ප්ලගින ලැයිස්තුව	0.45178659565780804	0.335859
+45	six of hearts	හාර්ත හය	0.4514739404394202	0.416667
+428	Clear all stashes	සියළුම ගොනු වසන්න	0.4513326647755218	0.666667
+7	translator-credits	පරිවර්තන ස්තුතිය	0.45128599510753536	0.764706
+785	translator-credits	පරිවර්තකයාගේ_සම්මාන	0.45128599510753536	1.0
+436	_Diff uncommitted changes	වෙනස් කිරීම් ඉවත දමන්න	0.45104935463160684	0.551839
+67	Undo the last move	අවසාන ගෙනයාම අහෝසි කරන්න	0.45098494920012067	0.523158
+752	Height of assistant window	සහකාරක වින්ඩෝවේ උස	0.450868602933949	0.369396
+347	Encoding to use when saving files	ගොනු සුරැකීමේදී භාවිතා කල යුතු කේතනය	0.4508613711622752	0.43442
+461	Can not add source files	c header සහ source ගොනු මාරුකරන්න	0.45083243352909613	0.436471
+1023	Nick completed character	අන්වර්ථ නාම සම්පූර්ණ කල අනුලකුණ	0.4504257729880886	0.5875
+217	Missing location of plugin %s	%s plugin එකෙහි ස්ථානය හමු නොවේ	0.4503571953471393	0.582292
+404	Project directory	නව ඩිරෙක්ටරි බිහිකරන්න	0.4503128832469792	0.782609
+96	the nine of hearts	හාර්ත නවය	0.4501914196634946	0.384211
+623	Long description of your plugin	පරිශීලක අතුරුමුහුණතේ XML විස්තරය	0.4500470229071569	0.447443
+589	Directory properties	සමුහ වත්කම්	0.45002641779919195	0.446429
+86	the queen of spades	ඉස්කෝප්ප ක්වීන්	0.44960748143664236	0.39375
+947	Incoming video call from %s	%s ගෙන් වීඩියෝ ඇමතුමක් එමින්	0.44958389397353343	0.560345
+490	Previous Commit Messages:	මීට පෙර පණිවිඩය (_N)	0.4495162198532662	0.311355
+537	Created project view…	ව්‍යාපෘති ගොනු ස්වයංජනනය කරන්න	0.4495112482543405	0.575269
+731	Developer's Help program	දියුණු කරන්නන්ගේ උපකාරක වැඩසටහන	0.4495069683686783	0.890625
+320	Undo the last action	අවසාන ක්‍රියාව අහොසි කරන්න	0.44908471446331233	0.563492
+502	Default project directory:	හිස් ඩිරෙක්ටරි මකන්න	0.4490500194296989	0.441799
+1051	Status is set to offline	%s දැන් නොබැඳියි.	0.44900699266015665	0.661111
+93	the six of hearts	හාර්ත හය	0.44890833177250816	0.361111
+719	Speed	වේගය:	0.44862982936917917	1.0
+313	Print the current file	වර්තමාන ගොනුව මුද්‍රණය කරන්න	0.44847325181852193	0.809595
+275	Class Options:	පන්ති විකල්ප	0.44846363545280615	1.0
+604	Add to Project Target:	ව්‍යාපෘතියට එක් කරන්න	0.4480928249555091	0.624506
+610	Add to project target:	ව්‍යාපෘතියට එක් කරන්න	0.4480928249555091	0.624506
+26	jack of clubs	කලාබර ජැක්	0.44772895650776556	0.487013
+686	Bug reporter name	දෝෂ වාර්තාකරුගේ නම	0.4476554337021423	1.0
+474	Choose a working directory	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.447575501886677	0.497742
+238	The plugin manager to use for resolving plugins	ප්ලගින නිරාකරණයේදී භාවිතා කල යුතු ප්ලගින කළමනාකරු	0.4474718952696073	0.335833
+1047	The other participant canceled the file transfer	අනිත් සහභාගිකයින් ගොනු හුවමාරුව අවලංගු කරන ලදි	0.44745438081216593	0.520625
+267	Build module associated with current file	වර්තමාන ගොනුවට අදාල නිමැවුම් මොඩියුලය	0.4474073644846542	0.548872
+362	Forget selected plugin	ප්ලගිනයක් තෝරාගන්න	0.44739129761038304	0.847826
+97	the ten of hearts	හාර්ත දහය	0.44734725372432027	0.394444
+920	Disconnected from server	සේවාදායකයෙන් විසන්ධිවිය	0.4473381888512607	0.530833
+644	image map	අනුරුව	0.4472793975649359	0.7
+12	Selected Cell	සියල්ල තෝරන්න	0.44694723234465134	0.571429
+950	Error receiving a file	ගොණුව ලැබීම දෝශසහගතයි	0.4468842167968619	0.711462
+268	Install module associated with current file	වර්තමාන ගොනුවට අදාල මොඩියුලය ස්ථාපනය කරන්න	0.4468303751863845	0.528013
+566	Unable to parse project file	%s ගොනුව බිහිකළ නොහැක	0.44665260806203433	0.411442
+72	the black joker	කලු ජොකර්	0.4463784622002954	0.4875
+59	Main game:	ප්‍රධාන තරගය	0.44636911405548113	0.534965
+538	Build library as	ටාබෝලය නිමවන්න	0.4462927659624788	0.409804
+908	Select	තෝරන්න	0.4461604232793529	1.0
+71	Unknown color	නොදන්නා වර්‍ණය	0.44613098264012707	0.447619
+708	Mouse button to use in the scanning mode	පරිලෝකන අවධියේ භාවිත වන මුසික බොත්තම	0.44608566809326544	0.478906
+583	Unable to parse make file	%s ගොනුව බිහිකළ නොහැක	0.4459626608855648	0.435315
+609	Add License Information:	තොරතුරු	0.44590264919413825	0.58
+226	execvp failed	execvp අසාර්ථකයි	0.4456939338549087	1.0
+754	X position of assistant window	සහකාරක වින්ඩෝවේ X කන්දාංක	0.445673203441106	0.366625
+828	Connection managers should be used	සම්බන්දතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.4454149523418244	0.728938
+963	Connection managers should be used	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.4454149523418244	0.918681
+527	Macro details:	මැක්‍රෝ	0.4450021817395676	0.7
+778	Find previous occurrence of the search string	පෙර සෙවුම් වචනය සොයන්න	0.4448119396420374	0.652174
+453	Failed to read file	%s ගොනුව කියවිය නොහැක	0.4446686861177558	0.788636
+262	Build whole project	සම්පූර්ණ ව්‍යාපෘතියම නිමවන්න	0.44457353720926257	0.712069
+447	Save the current file	වර්තමාන ගොනුව සුරකින්න	0.4440497084023201	0.508893
+273	Add to Project	ව්‍යාපෘතියට එක් කරන්න	0.44384402727971883	0.763636
+46	seven of hearts	හාර්ත හත	0.4437442686595873	0.552083
+73	the red joker	රතු ජොකර්	0.4435057443979124	0.514286
+1008	Pop up notifications when a contact logs out	සබඳතාවක් ඉවත් වූ විට උත්පතන දැනුම්දීම්	0.44341740738175234	0.607692
+216	Unknown error in module %s	%s මොඩුලය තුල නොදන්නා වරදකි	0.4432668592491651	0.527116
+44	five of hearts	හාර්ත පහ	0.44316941807259164	0.566667
+315	Convert EOL to LF	EOL, LF වලට හරවන්න	0.4428105825362684	0.811404
+92	the five of hearts	හාර්ත පහ	0.4427417347420296	0.517544
+9	Title	සිරස්තලය	0.4426911587448425	1.0
+948	Incoming call from %s	%s ගෙන් ඇමතුමක් එමින්	0.44257338147729497	0.659091
+1000	Enable popup notifications for new messages	නව පණිවිඩ සඳහා උත්පතන දැන්වීම් සක්‍රිය කරන්න	0.44248508966812805	0.596717
+497	Currently edited file directory	නව ඩිරෙක්ටරි බිහිකරන්න	0.442405016053485	0.373641
+732	Main window maximized state	ප්‍රධාන වින්ඩෝව පුලුල්තිර අවස්ථාවේ..	0.44239590719138105	0.484073
+20	foundation	සන්නිවේදනය:slot type	0.4423647441956551	0.880952
+415	Select file to add:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.4420201872037426	0.303571
+738	X position of main window	ප්‍රධාන වින්ඩෝවේ X කන්දාංක	0.4419763170556935	0.698006
+41	two of hearts	හාර්ත දෙක	0.4414030708406614	0.55
+321	Redo the last undone action	අවසාන අහෝසි කළ ක්‍රියාව නැවත කරන්න	0.44127513155273107	0.564286
+917	Contact connected	සබඳතාව සම්බන්ධවිය	0.4412557848376226	1.0
+448	Redo the last action	අවසාන ක්‍රියාව අහොසි කරන්න	0.44088832054236166	0.793651
+601	Select a build directory inside the project directory	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.44085675252082684	0.316308
+374	Unversioned	වෙළුම:	0.4407937524933793	1.0
+1043	Socket type not supported	කෙවෙනි වර්ගය සහය නොදක්වයි	0.44075589851565555	0.480769
+603	Check module associated with current file	වර්තමාන ගොනුවට අදාල මොඩියුලය පිරිසිදු කරන්න	0.44070458211447006	0.512987
+43	four of hearts	හාර්ත හතර	0.4405668783813851	0.533333
+1046	You canceled the file transfer	ඔබ ගොනු හුවමාරුව අවලංගු කරන ලදි	0.4404548300863945	0.555948
+980	Default directory to select an avatar image from	මූර්ති පින්තූරයක් තේරීමට පෙරනිමි නාමාවලිය	0.4404510861186132	0.721088
+740	Y position of main window	ප්‍රධාන වින්ඩෝවේ Y කන්දාංක	0.4404393821546476	0.376781
+94	the seven of hearts	හාර්ත හත	0.4403275132315344	0.508333
+304	Sorted in alphabetical order	අකාරාදී පිලිවෙලට අනුපිලිවෙලට සකසන්න	0.4400964271532346	0.56705
+724	Save and quit	සුරකීම සහ පිටවීම	0.43983817203268066	1.0
+264	Clean whole project	සම්පූර්ණ ව්‍යාපෘතියම පිරිසිදු කරන්න	0.4397609287609248	0.641667
+895	Connected	සම්බන්ධවිය	0.4397505728621461	1.0
+494	Completed unsuccessfully with status code %d	සම්පූර්ණයි... නමුත් අසාර්ථකයි	0.43956570521881594	0.677778
+91	the four of hearts	හාර්ත හතර	0.43945461785140105	0.484211
+843	Certificate self-signed	තමන්ම අත්සන්කල සහතිකය	0.43942123450100695	0.863636
+969	Empathy has asked about importing accounts	Empathy, ගිණුම් ආයාත කිරීම ගැන විමසා ඇත	0.439069233705464	0.648837
+57	black joker	කලු ජොකර්	0.43899694730157723	1.0
+658	_Monitor changes to your home folder	නිවෙස් බහලුම වෙනස්කිරීම් අධීක්ෂණය කිරීමට (_M)	0.43890490944935306	0.414512
+58	red joker	රතු ජොකර්	0.43855310136869075	0.6
+546	Auto-complete	අවසන් කළ	0.43801305933630086	0.833333
+24	Glenwood	ග්ලෙන්වූඩ්	0.437806554159073	1.0
+536	_Add to Project	ව්‍යාපෘතියට එක් කරන්න	0.43775425169565907	0.815341
+652	A graphical tool to analyze disk usage.	තැටි භාවිතය විශ්ලේෂණයට ප්‍රස්ථාරික මෙවලම	0.43733721151267557	0.592988
+269	Clean module associated with current file	වර්තමාන ගොනුවට අදාල මොඩියුලය පිරිසිදු කරන්න	0.43703635486021436	0.512987
+650	Mo_ve to Trash	ඉවතලන බදුනට දමන්න (_v)	0.4370291896198438	0.308696
+454	Next/Previous Message	මීට පෙර පණිවිඩය (_N)	0.43690167549810455	0.437229
+227	Anjuta shell that will contain the plugin	plugin එක අන්තර්ගත අන්ජුටා කවචය(shell)	0.43684559820313434	0.398352
+743	The width of the index and search pane.	සුචියේ හා සෙවුම් කොටුවේ පළල	0.436588327777168	0.716071
+593	Create a new project	නව ඩිරෙක්ටරි බිහිකරන්න	0.43642977384943943	0.544513
+645	definition	සජීවනය	0.43639601622814456	1.0
+17	About Aisleriot	මෙම ක්‍රිඩාව සම්බන්ධව	0.43639562588576314	0.795455
+319	Select all text in the editor	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.43635282785925145	0.670968
+455	Patching...	සොයයමින්...	0.43633573311104623	1.0
+528	Patching…	සොයමින්	0.43633573311104623	1.0
+736	Height of main window	ප්‍රධාන වින්ඩෝවේ උස	0.43628169671041234	0.384091
+1091	Failed to open private chat	පුද්ගලික සල්ලාපය විවෘත කිරීම‍ට අසමත් විය	0.43623520397160154	0.61324
+875	Failed to open private chat	පුද්ගලික කථාබහ විවෘත කිරීම‍ට අසමත්විය	0.43623520397160154	0.672932
+1053	Connection has been refused	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.43617758342664537	0.621337
+340	Go to previous help page	ඉහත උදව් පිටුවට යන්න	0.4361705990142474	0.94
+915	Conversations	සංවාද	0.435906526242217	1.0
+488	File or directory to diff:	diff: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.43587424452990703	0.530423
+710	Maximum distance when keyboard is hidden	යතුරු පුවරුව වසන් කර ඇති විටදී උපරිම දුර	0.43573578972386445	0.804878
+63	Restart the game	තරගය නැවත ආරම්ඹ කරන්න	0.4355015765314233	0.632353
+61	Card themes:	කාඩ් තේමා:	0.43546822615410097	1.0
+229	Only show user activatable plugins	පරිශීලකයාට සක්‍රීය කළ හැකි ප්ලගින පමණක් දර්ශනය කරනු	0.4354112700240253	0.459066
+160	Remove the ace of spades.	ඉස්කෝප්ප ආසියා	0.4354025653780323	0.453846
+308	Save A_ll	සියළුම ගොනු සුරකින්න	0.43531194303405885	0.369048
+1027	Show hint about closing the main window	ප්‍රධාන කවුළුව වැසීම පිළිබඳව ඉඟියක් පෙන්වන්න	0.4352791459184803	0.620833
+435	Please select a stash	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.4351553820583918	0.480237
+89	the two of hearts	හාර්ත දෙක	0.4350471381183084	0.494444
+208	Could not open file	ගොනුව විවෘත කළ නොහැක	0.43498013146119574	0.535714
+602	Check whole project	සම්පූර්ණ ව්‍යාපෘතියම පිරිසිදු කරන්න	0.43476189730102066	0.641667
+219	plugin %s fails to register type %s	%s plugin එක මගින් %s type එක ලියාපදිංචිය අසාර්ථකයි	0.4344441041214281	0.842949
+697	Time between key transitions	ප්‍රධාන මාරුවීම් දෙකක් අතර කාලය	0.4342755051304216	0.547953
+60	Card games:	කාඩ් තරග:	0.4339219939899227	1.0
+796	Address incomplete	ලිපින පොත	0.43374406488518735	0.589474
+314	Preview the current file in print-format	වර්තමාන ගොනුව මුද්‍රිතාකාරයෙන් පෙරදකින්න	0.4336522211699181	0.780488
+558	warning:-old	අවවාදයයි:	0.4333381129862511	1.0
+1057	Certificate has been revoked	සහතිකය සපයා නැත	0.4333067916027487	0.719828
+492	Source/Destination Paths:	ගමනාන්තය:	0.43326674566081125	0.865385
+42	three of hearts	හාර්ත තුන	0.43324325876693204	0.90625
+112	the queen of diamonds	රුවිත ක්වීන්	0.4332088809851642	0.473776
+663	Scan your home folder	ඔබගේ නිවාස බහලුම නැවත පරිලෝකිතය කලයුතුද?	0.4331416273770267	0.548226
+547	Swap C header and source files	c header සහ source ගොනු මාරුකරන්න	0.43306149021471474	0.772296
+334	Swap c header and source files	c header සහ source ගොනු මාරුකරන්න	0.43306149021471474	0.772296
+50	queen of hearts	හාර්ත ක්වීන්	0.43288489718959755	0.487981
+958	Account disconnected	ගිණුම විසන්ධියි	0.4325576533465625	0.622024
+1079	Discover the STUN server automatically	STUN සේවාදායකය ස්වයංව අනාවරණය කරන්න	0.4321475597072954	0.362179
+201	Revert Changes?	සංශෝධනයන් පෙර තිබූ තත්වයට පත් කිරීමට අවශ්‍යද?	0.4320963873574723	0.389946
+932	Enter your account details	ඔබගේ ගිණුම් විස්තර ඇතුලත් කරන්න	0.4318988785079625	0.428241
+8	Web site	‍වෙබ් අඩවිය	0.4318497305183106	0.550505
+400	Malformed project	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.4317977132046059	0.9
+792	Display in full screen	මුලුතිරයේ පෙන්වන්න	0.4317723363637924	0.73913
+582	Select widgets in the workspace	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.4317178503495373	0.49244
+820	Pop up notifications when a contact logs in	සබඳතාවක් පැමිනීමේදී ශබ්දයක් වාදනය කරන්න	0.4314084119040128	0.403409
+1006	Pop up notifications when a contact logs in	සබඳතාවක් පිවිසි විට උත්පතන දැනුම්දීම්	0.4314084119040128	0.771531
+430	Git: Fetching...	සොයයමින්...	0.43126449544135836	0.647059
+515	Preview the current file in print format	වර්තමාන ගොනුව මුද්‍රිතාකාරයෙන් පෙරදකින්න	0.43118917944088375	0.414634
+779	Find next occurrence of the search string	පසු සෙවුම් වචනය සොයන්න	0.4311329276934606	0.641304
+1059	Facebook Chat	ෆේස්බුක් සල්ලාපය	0.43113212529654915	1.0
+845	Facebook Chat	ෆේස්බුක් චැට්	0.43113212529654915	1.0
+780	Go to the previous page	පෙර පිටුව වෙත යන්න	0.4309298830761757	0.717105
+946	Incoming call	ඇමතුමක් එමින්	0.43072796507513145	0.607143
+1041	The selected file is not a regular file	තෝරාගත් ගොනුව සාමාන්‍ය ගොනුවක් නො‍වේ	0.4307082438169549	0.875
+837	The selected file is not a regular file	තෝරාගත් ගොණුව සාමාන්‍ය ගොණුවක් නො‍වේ	0.4307082438169549	0.731419
+775	All Books	සියලු පොත්	0.4304544872344901	0.472727
+787	All books	සියලු පොත්	0.4304544872344901	1.0
+504	Project Defaults	ව්‍යාපෘතිය	0.43040082358061993	0.735294
+10	Path:	මාර්‍ගය:	0.43032326548611194	1.0
+15	Statistics of games played	තරග කළ තරග සංඛ්‍යාන්ක	0.43017446900883766	0.655724
+808	Hide main window	ප්‍රධාන වින්ඩෝ ස‍ඟවන්න	0.42989524186474004	0.320972
+978	Hide main window	ප්‍රධාන කවුළු ස‍ඟවන්න	0.42989524186474004	0.328877
+783	Focus the Devhelp window with the search field active	සක්‍රිය සෙවුම් ක්ෂේත්‍රය සහිත වින්ඩෝව වෙත යොමුවන්න	0.42985800723098727	0.439542
+1045	The change in state was requested	තත්වයේ වෙනස්වීම ඉල්ලන ලදි	0.42972593868159814	0.538462
+493	First Path:	මාර්‍ගය:	0.4296516016193721	0.75
+839	People nearby	අවට පුද්ගයින්	0.42964592260312817	0.607143
+1058	People Nearby	ආසන්නයේ පුද්ගලයින්	0.42964592260312817	0.460526
+693	Collecting information from the crash…	ඔබගේ පද්ධතියේන් තොරතුරු එකරැස් කරමින්...	0.429468219329233	0.47561
+90	the three of hearts	හාර්ත තුන	0.42934999727223017	0.825
+657	Select _devices to include in file system scan:	ගොනු පද්දතිය පරිලෝකිතයට ඇතුලත්විය යුතු උපාංග තෝරන්න (_d)	0.42926855730275587	0.507675
+804	Room name	විශාල කරන්න	0.42921855890587585	0.5
+564	Highlight all occurrences	උද්දීපන ආකාරය (_H)	0.4291997297985913	0.362348
+1018	Use theme for chat rooms	සල්ලාප මණ්ඩප සඳහා තේමාව භාවිතා කරන්න	0.4290620868064497	0.59027
+551	Close Other	ගොනුව වසන්න	0.42903278912311277	0.5
+95	the eight of hearts	හාර්ත අට	0.42899002002798803	0.825
+914	Previous Conversations	පෙර සංවාද	0.4288735682697601	1.0
+886	%s has disconnected	%s විසන්ධිවිය	0.4288551279875241	0.9
+1014	Path of the Adium theme to use	භාවිතා කිරීමට adium තේමාවේ පෙත	0.42863670567807544	0.580645
+1063	Example: username	උදාහරණය: පරිශීලක නාමය	0.4285596067230451	0.818182
+777	Find Previous	ඉදිරියට සොයන්න	0.42841426219842205	0.411905
+853	Nickname:	සුරතල්නාමය:	0.42813224118866333	1.0
+1068	Nickname:	අන්වර්ත නාමය:	0.42813224118866333	0.714286
+878	Unknown command	ෙනාදන්නා අණකි	0.42795832212929313	0.428571
+236	Anjuta shell for which the plugins are	ප්ලගින සඳහා වූ අන්ජුටා කවචය (shell)	0.4279301462550414	0.360043
+633	list	ලැයිස්තුව	0.42759653668697567	1.0
+456	File/Directory to patch:	යාවත් කල යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.42759520680937046	0.369767
+212	Grow	වැඩි කරනවා	0.4275281095885795	0.772727
+822	Open new chats in separate windows	නව පිළිසඳරවල් නව වින්ඩෝවක විවෘත කරන්න	0.42752437279921146	0.477444
+982	Open new chats in separate windows	නව සල්ලාප නව කවුළුවල විවෘත කරන්න	0.42752437279921146	0.45671
+1084	I_gnore conference and chat room invitations	සම්මන්ත්‍රණ සහ සල්ලාප මණ්ඩප ආරාධනා නොතකන්න (_I)	0.42749837748536235	0.422917
+955	Message received	ලැබුණු පණිවිඩ	0.4274862421702032	0.485294
+252	The pixbuf to render.	විදැහවිය යුතු Pixbuf එක	0.4274219115439071	0.304924
+355	start	අරඹන්න	0.4272279700459955	1.0
+495	Unable to open input file %s, command aborted	ගොනු පිටපත් කිරීම අසම්පූර්ණයි	0.42710844344166043	0.381159
+591	Unknown properties	සමුහ වත්කම්	0.4270161310287371	1.0
+1054	Connection can't be established	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.4269582619541856	0.30008
+965	Empathy should auto-connect on startup	ආරම්භයේදී Empathy ස්වයංව සම්බන්ධ විය යුතුයි	0.42665335090329115	0.439685
+918	Contact disconnected	සබඳතාව විසන්ධිවිය	0.4264172423375796	0.615079
+27	queen of clubs	කලාබර ක්වීන්	0.4263728011824769	0.469231
+744	Books disabled	පොත් අක්‍රිය කර ඇත	0.4262769166737387	0.710526
+293	Debugger command:	නිදොසක විධානය	0.42617715729153866	0.5
+77	the queen of clubs	කලාබර ක්වීන්	0.42595514354368325	0.427126
+372	Conflicted	මානරණය කරන්න (_C)	0.4257163199115562	0.694444
+961	Warning	අවවාදයයි	0.4257070547505601	1.0
+468	Warning	අවවාදයයි:	0.4257070547505601	1.0
+99	the queen of hearts	හාර්ත ක්වීන්	0.42554723955180546	0.444231
+375	Could not find application pixmap file: %s	%s යෙදුම් pixmap ගොනුව හමු නොවිණි	0.4255367700333737	0.930233
+786	Show API Documentation for the word at the cursor	කසරය ඇති වචනයට API ලිපි ලේකන පෙන්වයිDevhelp	0.42537531913279397	0.504091
+763	Show API Documentation for the word at the cursor	කසරය ඇති වචනයට API ලිපි ලේකන පෙන්වයි	0.42537531913279397	0.45973
+874	Failed to join chat room	කථාබහ කාමරයට එකතුවීම අසාර්ථකවිය	0.4253249152474207	0.536875
+557	Highlight build warnings and errors in editor	නිමැවුම් පණිවිඩයේ ස්ථාන, පෙල සකසුවේ උද්දීපනය කරන්න	0.42530933531451987	0.322038
+478	Search and Replace	සෙවීම සහ ආදේෂය	0.4250004446125466	0.589474
+561	Search and replace	උදව් සොයන්න	0.4250004446125466	0.39693
+678	"Could not open folder ""%s"""	"""%s"" බහලුම විවෘත කල නොහැක"	0.42450098672277853	0.396724
+553	Unable to extract project template %s: %s	%s ගොනුව බිහිකළ නොහැක	0.4243830842616623	0.833333
+47	eight of hearts	හාර්ත අට	0.4242290375847795	0.552083
+399	Unable to update project	සම්පූර්ණ ව්‍යාපෘතියම ස්ථාපනය කරන්න	0.42413204619873607	0.331429
+221	Chinese Traditional	සම්ප්‍රදායික චීන	0.424016871490435	0.317647
+923	Chinese Traditional	සාම්ප්‍රදායික චීන	0.424016871490435	0.311111
+218	Missing type defined by plugin %s	%s plugin එකෙන් අර්ථදැක්වෙන type එක හමු නොවේ	0.4237956093870886	0.638235
+1002	Disable popup notifications when away	බැහැරව සිටින විට උත්පතන දැනුම්දීම් අක්‍රිය කරන්න	0.42329698658152803	0.403061
+510	General Class Properties	සමුහ වත්කම්	0.42328314502897874	0.411667
+231	Please select a plugin to activate	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.4231880260452832	0.600311
+560	Close Others	ගොනුව වසන්න	0.4230816779615672	0.519231
+215	Unable to find plugin registration function %s in module %s	plugin එක ලියාපදිංචි කරන %s ශ්‍රිතය %s මොඩුලය තුලින් සෙවිය නොහැක	0.4229278371937267	0.542949
+365	Anjuta status to use in loading and unloading of plugins	ප්ලගින පූරණයේදී සහ වැරීමේදී භාවිතා කල යුතු අන්ජුටාහි තත්ත්වයIcon: %s	0.4227159736142175	0.430969
+237	Anjuta status to use in loading and unloading of plugins	ප්ලගින පූරණයේදී සහ වැරීමේදී භාවිතා කල යුතු අන්ජුටාහි තත්ත්වය	0.4227159736142175	0.584556
+459	Select the _target for the new source files:	ගැලපෙන වරහන් තුල ඇති පෙල තෝරාගන්න	0.4224701705996849	0.357843
+755	The X position of the assistant window.	සහකාරක වින්ඩෝවේ X කන්දාංක	0.42244168021227124	0.336538
+285	Choose file or directory to get log:	සටහන් ලබාගත යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4224411959857701	0.653055
+1029	Empathy can publish the user's location	Empathyට පරිශීලකගේ පිහිටීම ප්‍රකාශයට පත් කල හැක	0.42227630243045555	0.58125
+544	Unable to create a buffer: command aborted	%s ගොනුව බිහිකළ නොහැක	0.42226897410061803	0.61945
+196	Unknown value	නොදන්න අගය	0.422214389514161	1.0
+323	Zoom Out	කුඩා කරන්න	0.4220436733471204	1.0
+670	Zoom out	කුඩා කරන්න	0.4220436733471204	0.494949
+758	Use the system default fonts.	පද්ධතියේ ඇති මුලික අකුරු රටා භාවිතා කරන්න	0.42170222483269154	0.519048
+21	reserve	වෙන්කර ඇතslot type	0.4214344216127918	0.684211
+279	Failed to execute autogen: %s	autogen ධාවනය කල නොහැකියි: %s	0.4214026268554605	0.383333
+696	Scanning type, subgroups, rows or linear	පරිලෝකන වර්ගය, උප ගොණු , තීරු වශයෙන්, දික් අතට.	0.42133171551916154	0.339177
+555	Unable to execute command	"""%s"" විධානය ක්‍රියාත්මක කල නොහැක"	0.42131468697225666	0.561189
+850	Network:	ජාලය:	0.4212106090158088	1.0
+613	Failed to activate the JHBuild Plugin: %s	autogen ධාවනය කල නොහැකියි: %s	0.42111328934153464	0.554762
+223	Japanese	ජපන්	0.4210149702007912	1.0
+182	Remove the ace of diamonds.	රුවිත ආසියා	0.4209588169915491	0.428571
+287	Choose file or directory to remove:	ඉවත් කල යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.42092144872363846	0.492063
+990	Play a sound for outgoing messages	යැවෙන පණිවිඩ සඳහා ශබ්දයක් වාදනය කරන්න	0.42079282626169456	0.551128
+813	Play a sound for outgoing messages	යන පණිවිඩ සඳහා ශබිදයක් වාදනය කරන්න	0.42079282626169456	0.571429
+166	Remove the jack of spades.	ඉස්කෝප්ප ජැක්	0.4207093534404284	0.32672
+154	Remove the ace of clubs.	කලාබර ආසියා	0.4206263583272559	0.72
+746	Group by language	භාෂාව අනුපිලිවලට ගොනු ගත කරන්න	0.42045708027876677	0.346774
+65	_Recently Played	මෑතකදි තරග කළ (_R)	0.4201432571427463	0.425697
+700	Automatically restart scanning after item activation	අයිතමය සක්‍රිය කිරීමෙන් පසුව ස්වයංක්‍රියව පරිලෝකනය නැවත පටන් ගන්න	0.4198608925523551	0.489423
+928	The selected contact is offline.	තෝරාගත් ගොණුව හිස්ය	0.4195323824950549	0.622727
+590	Source properties	සමුහ වත්කම්	0.4194650912121551	0.486111
+517	Go to previous history	ඉහත උදව් පිටුවට යන්න	0.41945700773365424	1.0
+909	Location,	පිහිටුම,	0.419425282957347	1.0
+1061	Create a new account on the server	නව ගිණුමක් තනන්න (_C)	0.41919948615167785	0.657792
+462	Group properties	සමුහ වත්කම්	0.4190375581111538	0.615196
+119	Move ~a onto the ace of spades.	ඉස්කෝප්ප ආසියා	0.418822908428706	0.346875
+165	Remove the ten of spades.	ඉස්කෝප්ප දහය	0.41877699673311897	0.5
+384	Completed unsuccessfully	සම්පූර්ණයි... නමුත් අසාර්ථකයි	0.41877030523400327	0.9
+883	No topic defined	මාතෘකාවක් නිශ්වයකර නැත	0.41867698956297955	0.824808
+390	Open '%s'	%s විවෘත වෙමින්	0.4186184967081296	0.34375
+934	Enter the details for the new account	නව ගිණුම සඳහා විස්තර ඇතුලත් කරන්න	0.4185137644546217	0.665635
+284	Choose file or directory to diff:	diff: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4184510718878001	0.668067
+748	Whether the assistant window should be maximized	ප්‍රධාන වින්ඩෝව පුළුල් තිරයේ ඇරඹිය යුතුද යන්න වග.	0.41801920710089	0.444898
+751	The width of the assistant window.	සහකාරක වින්ඩෝවේ පළල	0.4175072793546877	0.339286
+687	Real name of user reporting the bug.	දෝෂ වාර්තා කරන පරිශිලකගේ සැබෑ නම	0.4174381360343602	0.482391
+873	Failed to reconnect this chat	මෙ‍ම කථාබහ නැවත සම්බන්ධකිරීම අසාර්ථකවිය	0.4172458836341013	0.583333
+594	Recent projects:	ලඟදී විවර කල ගොනු	0.41708493068065816	0.722222
+418	Select Files to Mark as Resolved:	සුරැකීම සඳහා අවශ්‍ය අයිතම තොරාගන්න	0.4169099473721905	0.478151
+824	Show contact list in rooms	කාමරවලදී සබඳතා ලැයිස්තුව පෙන්වන්න	0.41672664085343547	0.520153
+233	Remember this selection	මේ තෝරාගැනීම මතක තබා ගන්න	0.41668373358576266	0.826923
+277	Header or source file has not been created	සිරස් ගොනුව හෝ මූල ගොනුව බිහිකර නැත	0.41659125515927464	0.484819
+168	Remove the king of spades.	ඉස්කෝප්ප කිංග්	0.416436816568244	0.348148
+832	Empathy can use the cellular network to guess the location	Empathy හට ඔබගේ පිහිටුම ජංගම දුරකථන ජාලය මගින් අනුමාන කල හැක	0.41625809616422	0.684357
+1033	Empathy can use the cellular network to guess the location	පිහිටීම අනුමාන කිරීමට Empathyට ජංගම දුරකථන ජාලය භාවිතා කල හැක	0.41625809616422	0.562739
+346	make: Leaving directory `%s'	නිමවන්න (Make): පිටවුම් ඩිරෙක්ටරිය '%s'	0.41615584875078504	0.352155
+344	make: Leaving directory '%s'	නිමවන්න (Make): පිටවුම් ඩිරෙක්ටරිය '%s'	0.41615584875078504	0.352155
+460	No project loaded	ව්‍යාපෘතියක් හෝ ගොනුවක් විවෘත කර නැත	0.41609414217815005	0.37012
+316	Convert End Of Line characters to Unix EOL (LF)	පෙල අග (EOL) අක්ෂර Unix EOL (LF) වලට හරවන්න	0.4159949974756535	0.467803
+573	Commit changes	වෙනස් කිරීම් ඉවත දමන්න	0.41574762166226836	0.782609
+370	Unable to load user interface file: %s	%s ගොනුව බිහිකළ නොහැක	0.41543661600582676	0.332751
+432	Please select branches to delete	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.41527889238236704	0.427207
+1	Relations	සම්බන්ධතා	0.41492485891194103	1.0
+394	Up-to-date	යාවත් කාළීන:	0.41475204173560554	0.769231
+485	Recent Projects	ව්‍යාපෘතිය පිරිසිදු කරන්න	0.4145499778120485	0.492788
+988	Play a sound for incoming messages	එන පණිවිඩ සඳහා ශබ්දයක් වාදනය කරන්න	0.4141675543703445	0.885714
+811	Play a sound for incoming messages	එන පණිවිඩ සඳහා ශබිදයක් වාදනය කරන්න	0.4141675543703445	0.528571
+692	Collecting information from your system…	ඔබගේ පද්ධතියේන් තොරතුරු එකරැස් කරමින්...	0.4140915857738556	0.594441
+691	Collecting information from your system...	ඔබගේ පද්ධතියේන් තොරතුරු එකරැස් කරමින්...	0.4140915857738556	0.594441
+1040	File transfer not supported by remote contact	ගොනු හුවමාරුව සඳහා දුරස්ථ සබඳතාවය සහය නොදක්වයි	0.4140596959008474	0.430157
+836	File transfer not supported by remote contact	ගොණු හුවමාරුව සඳහා දුරස්ථ සබඳතාවය සහය නොදක්වයි	0.4140596959008474	0.634598
+854	Reso_urce:	සම්පත් (_U):	0.4140065787725797	0.730769
+1070	Reso_urce:	සම්පත්: (_u)	0.4140065787725797	0.692308
+806	Send and receive messages	පණිවිඩ ගන්න සහ යවන්න	0.4138402422541353	0.554945
+1055	Connection has been lost	සම්බන්ධතා කළමනාකරුවන් භාවිතා කල යුතුයි	0.41376378532141855	0.348205
+283	Choose file or directory to commit:	commit: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.41358420168768323	0.684343
+569	Additional objects:	ව්‍යාපෘතියට එක් කරන්න	0.41316502359631946	0.497727
+353	Cannot execute command %s (using shell %s)	%s විධානය ක්‍රියාත්මක කල නොහැක. (භාවිතා කරන්නේ %s කවචයයි)	0.4130667561911829	0.407578
+385	Completed successfully	සම්පූර්ණයි... සාර්ථකයි	0.4126643247255996	0.521739
+1048	Error while trying to transfer the file	ගොනුව හුචමාරු කිරීමට උත්සහ කිරීමේදී දෝෂය	0.4120977964711516	0.432317
+368	Please select a plugin from the list	කරුණාකර සක්‍රීය කරනු පිණිස ප්ලගිනයක් තෝරාගන්න	0.41205421956978977	0.577262
+739	The X position of the main window.	ප්‍රධාන වින්ඩෝවේ X කන්දාංක	0.4120285795976038	0.551852
+343	make: Entering directory `%s'	නිමවන්න (Make): පිවිසුම් ඩිරෙක්ටරිය '%s'	0.41195746660232546	0.642683
+349	Always save in UTF-8 encoding (faster)	UTF-8 කේතනයෙන් සැමවිටම සුරකින්න (වේගවත්)	0.4118314247518846	0.78768
+508	Install	ස්තාපනය (_I)	0.4117844812401898	0.692308
+378	Install	විකල්ප	0.4117844812401898	1.0
+1037	Empathy should reduce the location's accuracy	Empathy පිහිටීමේ නිරවද්‍යතාව අඩු කල යුතුයි	0.41160844976771366	0.539939
+579	Delete all stashes in this repository	පෙල සකසුවේ සියලුම පෙල තෝරාගන්න	0.4115649973692959	0.383701
+318	Convert End Of Line characters to Mac OS EOL (CR)	පෙල අග (EOL) අක්ෂර Mac OS EOL (CR) වලට හරවන්න	0.4114835046129684	0.333913
+350	Try to save in current locale's encoding	වර්තමාන පෙදෙසියේ කේතනයෙන් සුරැකීමට උත්සාහ කරන්න	0.41134705980346625	0.506098
+480	Could not open %s: %s	ගොනුව විවෘත කළ නොහැක	0.4109707573165088	0.49026
+735	The width of the main window.	ප්‍රධාන වින්ඩෝවේ පළල	0.4108894007799288	0.604762
+802	Play	වාදනය	0.4108176487085482	1.0
+209	Could not save intermediate file %s: %s	%s යෙදුම් pixmap ගොනුව හමු නොවිණි	0.4107479534430863	0.497794
+222	Cyrillic/Russian	සයිරිලීක/රුසියානු	0.4106975121925411	1.0
+924	Cyrillic/Russian	සිරිලික්/රුසියානු	0.4106975121925411	1.0
+912	Information requested…	තොරතුරු ඉල්ලනලදී...	0.41030216795396585	1.0
+282	Choose file or directory to add:	add: කලයුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4102359435942075	0.659276
+276	Source/Header Headings:	මූල සිරස්තලය/සිරස්තල	0.41017284685210004	0.696429
+535	Confirm remove	ව්‍යාපෘතිය වින්‍යාසකරණය කරන්න	0.4101482395848183	0.816667
+574	Diff uncommitted changes	වෙනස් කිරීම් ඉවත දමන්න	0.41012218266589456	0.682609
+1049	The other participant is unable to transfer the file	අනෙක් සහභාගිකයාට ගොනුව හුවමාරු කිරීමට නොහැක	0.4101091372095831	0.886792
+288	Choose file or directory to update:	යාවත් කල යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.41007530015625365	0.48708
+234	Currently available plugins found in plugin paths	ප්ලගින පෙත්(path) තුල දැනට ඇති ප්ලගින	0.4099639724523305	0.370526
+513	Choose file or directory to get log for:	සටහන් ලබාගත යුතු ගොනුව හෝ ඩිරෙක්ටරිය තෝරාගන්න	0.4096624458693478	0.439555
+214	Develop software in an integrated development environment	සංගෘහිත පරිසරයක් තුල මෘදුකාංග නිමවයි	0.40935262026920166	0.507922
+960	_Publish location to my contacts	මගේ පිහිටුම සබඳතාවලට ප්‍රසිද්ධ කරන්න (_P)	0.4090240978282881	0.520563
+776	Error opening the requested link.	අයදුම් කරන ලද බන්ධයේ(link) දෝෂයක් පවතී	0.4089926995575156	0.453243
+881	permission denied	අවසර නැත	0.4089318627636182	0.416667
+62	Start a new game	නව තරගයක් ආරම්ඹකරන්න	0.408320058603265	0.502801
+1035	Empathy can use the GPS to guess the location	පිහිටීම අනුමාන කිරීමට Empathyට GPS භාවිතා කල හැක	0.4081265853522303	0.598935
+834	Empathy can use the GPS to guess the location	Empathy හට ඔබගේ පිහිටුම GPS මගින් අනුමාන කල හැක	0.4081265853522303	0.745018
+256	Program '%s' does not have execution permission	'%s' ක්‍රමලේඛයට ධාවන අයිතීන් නොමැත	0.4078511296341953	0.436905
+338	Unable to create file: %s.	%s ගොනුව බිහිකළ නොහැක	0.407838399633425	0.430976
+818	Play a sound when a contact logs out	සබඳතාවක් පිටවීමේදී ශබ්දයක් වාදනය කරන්න	0.40760653990588774	0.419265
+141	Move ~a onto the ace of diamonds.	රුවිත ආසියා	0.4075004726784414	0.397059
+720	Actions	ක්‍රියා:	0.4074664340307723	1.0
+331	Actions	ක්‍රීයා	0.4074664340307723	1.0
+539	Actions	ක්‍රියාව	0.4074664340307723	1.0
