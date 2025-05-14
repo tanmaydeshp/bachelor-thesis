@@ -51,18 +51,18 @@ def moses_to_df(file1, file2, lang1, lang2):
             lang2_lines.append(line2)
     import pandas as pd
     df = pd.DataFrame({lang1: lang1_lines, lang2: lang2_lines})
-
+    print(f"Number of sentence pairs in raw corpus: {df.shape[0]}\n")
     #Remove duplicated sentence pairs 
     df.drop_duplicates(inplace=True, ignore_index=True)
-
+    print(f"Number of sentence pairs after dropping duplicates: {df.shape[0]}\n")
     #Remove pairs where the ratios of words per sentence is too unlikely
     df = check_lengths(df, "english", "sinhala")
-
+    print(f"Number of sentence pairs after removing outliers based on length ratios: {df.shape[0]}\n")
     #Remove pairs where one of the sentences is in the wrong language
-    
     lang1_mask = df[f"{lang1}"].apply(check_language, args=(lang_codes[f"{lang1}"], 0.5))
     lang2_mask = df[f"{lang2}"].apply(check_language, args=(lang_codes[f"{lang2}"], 0.5))
-    df[lang1_mask & lang2_mask].reset_index(drop=True)
+    df = df[lang1_mask & lang2_mask].reset_index(drop=True)
+    print(f"Number of sentence pairs after language identification: {df.shape[0]}\n")
     return df
 
 #Convert a list of sentences into their multilingual embeddings according to the given model
@@ -93,7 +93,9 @@ def find_similarity_score(embeddings1, embeddings2):
 #Given a pandas DataFrame, filter best x percent of sentence pairs and store the results in a .tsv file
 def filter(df, mode, tsv_path): 
     df.sort_values("Similarity score", ascending=False, inplace=True)
-    df[df["Similarity score"] >= mode].to_csv(sep="\t", path_or_buf=tsv_path)
+    df = df[df["Similarity score"] >= mode]
+    df.to_csv(sep="\t", path_or_buf=tsv_path)
+    return df
 
 def main():
     import argparse 
@@ -109,7 +111,7 @@ def main():
     lang2_embedding = to_multilingual_embedding(args.langs[1], df[args.langs[1]], args.model)
     df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
     mode = df["Similarity score"].mode()[0]
-    filter(df, mode, args.output)
-
+    df = filter(df, mode, args.output)
+    print(f"Number of sentence pairs after filtering according to similarity score distribution: {df.shape[0]}\n")
 if __name__ == "__main__":
     main()
