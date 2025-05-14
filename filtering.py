@@ -113,5 +113,25 @@ def main():
     mode = df["Similarity score"].mode()[0]
     df = filter(df, mode, args.output)
     print(f"Number of sentence pairs after filtering according to similarity score distribution: {df.shape[0]}\n")
+    import align_source_target as ast
+    source_lines = df[args.langs[0]]
+    target_lines = df[args.langs[1]]
+    margin_lines = list(df.index)
+    src_file = ""
+    trg_file=""
+    mrg_file = ""
+    for id, sentence in zip(margin_lines, source_lines):
+        src_file = src_file + f"{id}" + "\t" + sentence + "\n"
+    for id, sentence in zip(margin_lines, target_lines):
+        trg_file = trg_file + f"{id}" + "\t" + sentence + "\n"
+    for id, sentence in zip(margin_lines, source_lines):
+        mrg_file = mrg_file + f"{id}" + "\t" + f"{id}" + "\n"
+    src_file_dict = ast.text_to_dict(src_file)
+    trg_file_dict = ast.text_to_dict(trg_file)
+    margin_train_file = mrg_file
+    split_margin_train = margin_train_file.split('\n')[:-1]
+    align_list_train = ast.align_source_target(split_margin_train, src_file_dict, trg_file_dict) 
+    align_rate_train_file = ast.align_rate_file(split_margin_train, align_list_train, src_file_dict, trg_file_dict) 
+    split_align = align_rate_train_file.split("\t")
 if __name__ == "__main__":
     main()
