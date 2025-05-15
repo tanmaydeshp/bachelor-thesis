@@ -109,7 +109,11 @@ def main():
     lang1_embedding = to_multilingual_embedding(args.langs[0], df[args.langs[0]], args.model)
     lang2_embedding = to_multilingual_embedding(args.langs[1], df[args.langs[1]], args.model)
     df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
-    mode = df["Similarity score"].mode()[0]
+    import numpy as np
+    import matplotlib.pyplot as plt
+    hist, bin_edges = np.histogram(list(df["Similarity score"]), bins=100)
+    peak_bin_index = np.argmax(hist)
+    mode = (bin_edges[peak_bin_index] + bin_edges[peak_bin_index + 1]) / 2
     df = filter(df, mode)
     filtering_stats["After filtering based on similarity scores"] = df.shape[0]
     import align_source_target as ast
@@ -137,9 +141,10 @@ def main():
         alignment_score.append(float(split_align[2]))
     df["Alignment score"] = alignment_score
     df = df[df["Alignment score"] >= 0.3]
-    filtering_stats["After filtering based on word aligment"] = df.shape[0]
+    filtering_stats["After filtering based on word alignment"] = df.shape[0]
     df.to_csv(args.output, sep="\t")
     for item in filtering_stats.keys():
         print(item + f": {filtering_stats[item]}\n")
+    print(mode)
 if __name__ == "__main__":
     main()
