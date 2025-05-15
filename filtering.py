@@ -68,7 +68,11 @@ def moses_to_df(file1, file2, lang1, lang2):
 #Convert a list of sentences into their multilingual embeddings according to the given model
 def to_multilingual_embedding(language, sentences, model):
     import torch
-    device = "cuda" if torch.cuda.is_available() else "cpu"
+    device = ""
+    if torch.cuda.is_available():
+        device = "cuda"
+    else:
+        device = "cpu"
     if model.lower() == "labse":
         from sentence_transformers import SentenceTransformer
         encoder = SentenceTransformer('sentence-transformers/LaBSE', device=device)
@@ -110,7 +114,6 @@ def main():
     lang2_embedding = to_multilingual_embedding(args.langs[1], df[args.langs[1]], args.model)
     df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
     import numpy as np
-    import matplotlib.pyplot as plt
     hist, bin_edges = np.histogram(list(df["Similarity score"]), bins=100)
     peak_bin_index = np.argmax(hist)
     mode = (bin_edges[peak_bin_index] + bin_edges[peak_bin_index + 1]) / 2

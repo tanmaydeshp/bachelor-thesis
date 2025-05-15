@@ -40,9 +40,15 @@ def text_to_dict(text):
 # Aligning sentences
 def align_source_target(sentence_pair_list, source_dict, target_dict):
     '''Align filtered source and target corpora.'''
+    import torch
+    device = ""
+    if torch.cuda.is_available():
+        device = "cuda"
+    else:
+        device = "cpu"
     split_sentence_pair_list = [line.split('\t') for line in sentence_pair_list]
     # SimAlign alignment model
-    align_model = simalign.SentenceAligner(model='xlm-roberta-base', token_type='word', matching_methods='a', distortion=0.0, device='cpu', layer=LAYER) 
+    align_model = simalign.SentenceAligner(model='xlm-roberta-base', token_type='word', matching_methods='a', distortion=0.0, device=device, layer=LAYER) 
     alignement_list = []
     split_sentence_pair_list = split_sentence_pair_list#[0:10]
     for sentence_pair in tqdm(split_sentence_pair_list):
@@ -98,9 +104,15 @@ def align_len_sentence_percentage(alignment_list, sentence_pair, source_dict, ta
 
 def align_length_percentage(alignment_list, sentence_pair_list, source_dict, target_dict):
     '''Compute the alignment coverage for each sentence pair, weighted by the token length.'''
+    import torch
+    device = ""
+    if torch.cuda.is_available():
+        device = "cuda"
+    else:
+        device = "cpu"
     align_rate_list = []
     n = len(alignment_list)
-    tokeniser = simalign.EmbeddingLoader(model='xlm-roberta-base', device='cpu', layer=LAYER).tokenizer
+    tokeniser = simalign.EmbeddingLoader(model='xlm-roberta-base', device=device, layer=LAYER).tokenizer
     for i in tqdm(range(n)):
         sentence_pair = sentence_pair_list[i]
         alignment = alignment_list[i]
