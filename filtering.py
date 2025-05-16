@@ -91,22 +91,16 @@ def find_similarity_score(embeddings1, embeddings2):
     return similarity_scores
 
 #Given a pandas DataFrame, filter best x percent of sentence pairs and store the results in a .tsv file
-def filter(df, mode): 
-    df.sort_values("Similarity score", ascending=False, inplace=True)
-    df = df[df["Similarity score"] >= mode]
-    return df
-
-def main(files, langs, output, model):
-    df = moses_to_df(files[0], files[1], langs[0], langs[1])
-    lang1_embedding = to_multilingual_embedding(langs[0], df[langs[0]], model)
-    lang2_embedding = to_multilingual_embedding(langs[1], df[langs[1]], model)
-    df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
+def similarity_filter(df): 
     import numpy as np
     hist, bin_edges = np.histogram(list(df["Similarity score"]), bins=100)
     peak_bin_index = np.argmax(hist)
     mode = (bin_edges[peak_bin_index] + bin_edges[peak_bin_index + 1]) / 2
-    df = filter(df, mode)
-    filtering_stats["After filtering based on similarity scores"] = df.shape[0]
+    df.sort_values("Similarity score", ascending=False, inplace=True)
+    df = df[df["Similarity score"] >= mode]
+    return df
+
+def word_alignment_filter(df, langs):
     import align_source_target as ast
     source_lines = df[langs[0]]
     target_lines = df[langs[1]]
@@ -131,12 +125,20 @@ def main(files, langs, output, model):
         split_align = line.split("\t")
         alignment_score.append(float(split_align[2]))
     df["Alignment score"] = alignment_score
-    df = df[df["Alignment score"] >= 0.3]
+    return df[df["Alignment score"] >= 0.3]
+
+def main(files, langs, output, model):
+    df = moses_to_df(files[0], files[1], langs[0], langs[1]) 
+    lang1_embedding = to_multilingual_embedding(langs[0], df[langs[0]], model)
+    lang2_embedding = to_multilingual_embedding(langs[1], df[langs[1]], model)
+    df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
+    df = similarity_filter(df)
+    filtering_stats["After filtering based on similarity scores"] = df.shape[0]
+    df= word_alignment_filter(df, langs)
     filtering_stats["After filtering based on word alignment"] = df.shape[0]
     df.to_csv(output, sep="\t")
     for item in filtering_stats.keys():
         print(item + f": {filtering_stats[item]}\n")
-    print(mode)
 
 def main_cli():
     import argparse 
