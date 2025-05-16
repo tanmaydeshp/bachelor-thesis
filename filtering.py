@@ -3,7 +3,6 @@ from huggingface_hub import hf_hub_download
 model_path = hf_hub_download(repo_id="cis-lmu/glotlid", filename="model.bin", cache_dir="./models")
 model = fasttext.load_model(model_path)
 lang_codes = {"english": "__label__eng_Latn", "sinhala": "__label__sin_Sinh"}
-filtering_stats = {}
 LENGTH_RATIO_MEAN = 0
 LENGTH_RATIO_STD = 0
 #Define length ratio parameters based on NLLB
@@ -32,12 +31,16 @@ def check_language(sentence, language_code, threshold):
         return True 
     else:
         return False
- 
+
+def check_languages(df, langs):
+    lang1_mask = df[f"{langs[0]}"].apply(check_language, args=(lang_codes[f"{langs[0]}"], 0.5))
+    lang2_mask = df[f"{langs[1]}"].apply(check_language, args=(lang_codes[f"{langs[1]}"], 0.5))
+    return df[lang1_mask & lang2_mask].reset_index(drop=True)
+
 #Convert Moses format files into a pandas DataFrame
 def moses_to_df(file1, file2, lang1, lang2):
     lang1_lines = []
     lang2_lines = []
-
     #Read Moses files into a Pandas DataFrame
     with open(file1, "r", encoding="utf-8") as f1, open(file2, "r", encoding="utf-8") as f2:
         for line1, line2 in zip(f1, f2): 
@@ -47,18 +50,6 @@ def moses_to_df(file1, file2, lang1, lang2):
             lang2_lines.append(line2)
     import pandas as pd
     df = pd.DataFrame({lang1: lang1_lines, lang2: lang2_lines})
-    filtering_stats["Raw corpus"] = df.shape[0]
-    #Remove duplicated sentence pairs 
-    df.drop_duplicates(inplace=True, ignore_index=True)
-    filtering_stats["After dropping duplicates"] = df.shape[0]
-    #Remove pairs where the ratios of words per sentence is too unlikely
-    df = check_lengths(df, "english", "sinhala")
-    filtering_stats["After removing length based outliers"] = df.shape[0]
-    #Remove pairs where one of the sentences is in the wrong language
-    lang1_mask = df[f"{lang1}"].apply(check_language, args=(lang_codes[f"{lang1}"], 0.5))
-    lang2_mask = df[f"{lang2}"].apply(check_language, args=(lang_codes[f"{lang2}"], 0.5))
-    df = df[lang1_mask & lang2_mask].reset_index(drop=True)
-    filtering_stats["After performing language identification"] = df.shape[0]
     return df
 
 #Convert a list of sentences into their multilingual embeddings according to the given model
@@ -128,15 +119,30 @@ def word_alignment_filter(df, langs):
     return df[df["Alignment score"] >= 0.3]
 
 def main(files, langs, output, model):
+    filtering_stats = {}
     df = moses_to_df(files[0], files[1], langs[0], langs[1]) 
+    filtering_stats["Raw corpus"] = df.shape[0]
+    #Remove duplicated sentence pairs 
+    df.drop_duplicates(inplace=True, ignore_index=True)
+    filtering_stats["After dropping duplicates"] = df.shape[0]
+    #Remove pairs where the ratios of words per sentence is too unlikely
+    df = check_lengths(df, "english", "sinhala")
+    filtering_stats["After removing length based outliers"] = df.shape[0]
+    #Remove pairs where one of the sentences is in the wrong language
+    df = check_languages(df, langs)
+    filtering_stats["After performing language identification"] = df.shape[0]
+    #Calculate and filter according to the similarity scores for the sentence pairs
     lang1_embedding = to_multilingual_embedding(langs[0], df[langs[0]], model)
     lang2_embedding = to_multilingual_embedding(langs[1], df[langs[1]], model)
     df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
     df = similarity_filter(df)
     filtering_stats["After filtering based on similarity scores"] = df.shape[0]
+    #Filter according to word alignment scores for the sentence pairs
     df= word_alignment_filter(df, langs)
     filtering_stats["After filtering based on word alignment"] = df.shape[0]
+    #Create .tsv file with filtered output
     df.to_csv(output, sep="\t")
+    #Print filtering stats
     for item in filtering_stats.keys():
         print(item + f": {filtering_stats[item]}\n")
 
