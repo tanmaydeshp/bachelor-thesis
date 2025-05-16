@@ -4,10 +4,9 @@ model_path = hf_hub_download(repo_id="cis-lmu/glotlid", filename="model.bin", ca
 model = fasttext.load_model(model_path)
 lang_codes = {"english": "__label__eng_Latn", "sinhala": "__label__sin_Sinh"}
 filtering_stats = {}
-#Define length ratio parameters based on NLLB
 LENGTH_RATIO_MEAN = 0
 LENGTH_RATIO_STD = 0
-
+#Define length ratio parameters based on NLLB
 with open("data/en-si/NLLB.en-si.en") as f1, open("data/en-si/NLLB.en-si.si") as f2: 
     ratios = []
     for line1, line2 in zip(f1, f2):
@@ -16,17 +15,14 @@ with open("data/en-si/NLLB.en-si.en") as f1, open("data/en-si/NLLB.en-si.si") as
         ratios.append(float(len(line1)/len(line2)))
     import statistics 
     LENGTH_RATIO_MEAN = statistics.fmean(ratios)
-    LEGNTH_RATIO_STD = statistics.stdev(ratios)
+    LENGTH_RATIO_STD = statistics.stdev(ratios)
 
 
 #Check if the lengths of the sentence pairs match:
 def check_lengths(df, lang1, lang2, z_thresh=2.5):
     import numpy as np
     ratios = df[f"{lang1}"].apply(lambda x: len(x.split())) / df[f"{lang2}"].apply(lambda x: len(x.split()) if len(x.split()) > 0 else 1)
-    log_ratios = np.log(ratios)
-    mean = log_ratios.mean()
-    std = log_ratios.std()
-    z_scores = (log_ratios - mean) / std
+    z_scores = list(map(lambda ratio : ((ratio - LENGTH_RATIO_MEAN) / LENGTH_RATIO_STD), ratios))
     return df[np.abs(z_scores) <= z_thresh].reset_index(drop=True)
 
 #Return true if the sentence belongs to the specified language
