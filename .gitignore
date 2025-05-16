@@ -12,3 +12,4 @@ evaluation/en.source.vec
 evaluation/si.target.vec 
 evaluation/mined.en
 evaluation/mined.si
+evaluation/filtered.en-si.tsv

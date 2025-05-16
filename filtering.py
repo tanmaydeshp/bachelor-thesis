@@ -100,18 +100,10 @@ def filter(df, mode):
     df = df[df["Similarity score"] >= mode]
     return df
 
-def main():
-    import argparse 
-    parser = argparse.ArgumentParser("filtering.py")
-    parser.add_argument("--files", "-f", type=str, nargs="+")
-    parser.add_argument("--langs", "-l", type=str, nargs="+")
-    parser.add_argument("--output", "-o", type=str)
-    # parser.add_argument("--percentile", "-p", type=float)
-    parser.add_argument("--model", "-m", type=str)
-    args = parser.parse_args()
-    df = moses_to_df(args.files[0], args.files[1], args.langs[0], args.langs[1])
-    lang1_embedding = to_multilingual_embedding(args.langs[0], df[args.langs[0]], args.model)
-    lang2_embedding = to_multilingual_embedding(args.langs[1], df[args.langs[1]], args.model)
+def main(files, langs, output, model):
+    df = moses_to_df(files[0], files[1], langs[0], langs[1])
+    lang1_embedding = to_multilingual_embedding(langs[0], df[langs[0]], model)
+    lang2_embedding = to_multilingual_embedding(langs[1], df[langs[1]], model)
     df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
     import numpy as np
     hist, bin_edges = np.histogram(list(df["Similarity score"]), bins=100)
@@ -120,8 +112,8 @@ def main():
     df = filter(df, mode)
     filtering_stats["After filtering based on similarity scores"] = df.shape[0]
     import align_source_target as ast
-    source_lines = df[args.langs[0]]
-    target_lines = df[args.langs[1]]
+    source_lines = df[langs[0]]
+    target_lines = df[langs[1]]
     margin_lines = list(df.index)
     src_file = ""
     trg_file=""
@@ -145,9 +137,21 @@ def main():
     df["Alignment score"] = alignment_score
     df = df[df["Alignment score"] >= 0.3]
     filtering_stats["After filtering based on word alignment"] = df.shape[0]
-    df.to_csv(args.output, sep="\t")
+    df.to_csv(output, sep="\t")
     for item in filtering_stats.keys():
         print(item + f": {filtering_stats[item]}\n")
     print(mode)
+
+def main_cli():
+    import argparse 
+    parser = argparse.ArgumentParser("filtering.py")
+    parser.add_argument("--files", "-f", type=str, nargs="+")
+    parser.add_argument("--langs", "-l", type=str, nargs="+")
+    parser.add_argument("--output", "-o", type=str)
+    # parser.add_argument("--percentile", "-p", type=float)
+    parser.add_argument("--model", "-m", type=str)
+    args = parser.parse_args()
+    main(args.files, args.langs, args.output, args.model)
+
 if __name__ == "__main__":
-    main()
+    main_cli()
