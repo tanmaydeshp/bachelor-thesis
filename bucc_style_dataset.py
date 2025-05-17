@@ -8,10 +8,10 @@ def train_test_split(split_full_dataset):
     '''Split a full dataset into a training and test dataset.'''
     len_dataset = len(split_full_dataset)
     split_len = len_dataset // 4
-    print(f'Dataset length: {len_dataset}.')
+    #print(f'Dataset length: {len_dataset}.')
     train_set = [sent.strip() for sent in split_full_dataset[:split_len]]
     test_set = [sent.strip() for sent in split_full_dataset[split_len:]]
-    print(len(train_set), len(test_set))
+    #print(len(train_set), len(test_set))
     return train_set, test_set #'\n'.join(train_set), '\n'.join(test_set)
 
 def parallel_to_dictionary(source_sentence, target_sentence):
@@ -34,7 +34,7 @@ def create_dataset(monolingual_source, monolingual_target, parallel_source_list,
     
     split_mono_source = monolingual_source #utils.text_to_line(monolingual_source)
     split_mono_target = monolingual_target #utils.text_to_line(monolingual_target)
-    print(f'{len(split_mono_source)} monolingual source sentences.\n{len(split_mono_target)} monolingual target sentences.')
+    #print(f'{len(split_mono_source)} monolingual source sentences.\n{len(split_mono_target)} monolingual target sentences.')
     assert not ('' in split_mono_source and '' in split_mono_target), 'Empty line in monolingual corpus list'
 
     # Add parallel sentences
@@ -49,7 +49,7 @@ def create_dataset(monolingual_source, monolingual_target, parallel_source_list,
     # Remove potential duplicated sentences
     split_mono_source = list(set(split_mono_source))
     split_mono_target = list(set(split_mono_target))
-    print(f'Whole corpus:\n{len(split_mono_source)} monolingual source sentences.\n{len(split_mono_target)} monolingual target sentences.')
+    #print(f'Whole corpus:\n{len(split_mono_source)} monolingual source sentences.\n{len(split_mono_target)} monolingual target sentences.')
 
     # Shuffle both monolingual texts
     random.seed(seed)
@@ -64,7 +64,7 @@ def create_dataset(monolingual_source, monolingual_target, parallel_source_list,
     # Final files: monolingual corpora and gold pair file
     final_source_list = [f'src-{i:07}\t{split_mono_source[i]}' for i in range(len(split_mono_source))]
     final_target_list = [f'trg-{i:07}\t{split_mono_target[i]}' for i in range(len(split_mono_target))]
-    print(final_source_list[0], final_target_list[0])
+    #print(final_source_list[0], final_target_list[0])
     gold_list = [f'{pair[0]}\t{pair[1]}' for pair in gold_pair_list]
 
     return '\n'.join(final_source_list), '\n'.join(final_target_list), '\n'.join(gold_list)
@@ -78,8 +78,8 @@ def split_shuffle_create_corpus(mono_src, mono_trg, para_src, para_trg):
     train_split_mono_trg, test_split_mono_trg = train_test_split(mono_trg)
     train_split_para_src, test_split_para_src = train_test_split(para_src) #1125 3375
     train_split_para_trg, test_split_para_trg = train_test_split(para_trg)
-    print('' in train_split_mono_src, '' in train_split_mono_trg, 
-          '' in train_split_para_src, '' in train_split_para_trg)
+    #print('' in train_split_mono_src, '' in train_split_mono_trg, 
+          #'' in train_split_para_src, '' in train_split_para_trg)
 
     # Create parallel sentence dictionary
     train_parallel_dict = parallel_to_dictionary(train_split_para_src, train_split_para_trg)

@@ -87,7 +87,7 @@ def align_len_sentence_percentage(alignment_list, sentence_pair, source_dict, ta
     split_src_sent = [tokeniser.tokenize(word) for word in src_sent.split()]
     split_trg_sent = [tokeniser.tokenize(word) for word in trg_sent.split()]
     align_src_list, align_trg_list = [], []
-    print(split_src_sent, split_trg_sent, alignment_list)
+    # print(split_src_sent, split_trg_sent, alignment_list)
     for (src_align_idx, trg_align_idx) in alignment_list:
         align_src, align_trg = split_src_sent[src_align_idx], split_trg_sent[trg_align_idx]
         align_src_list.append(align_src)

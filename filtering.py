@@ -18,7 +18,8 @@ with open("data/en-si/NLLB.en-si.en") as f1, open("data/en-si/NLLB.en-si.si") as
 
 
 #Check if the lengths of the sentence pairs match:
-def check_lengths(df, lang1, lang2, z_thresh=2.5):
+def check_lengths(df, lang1, lang2, z_thresh=2.326):
+    #Current default z_thresh is for a 98% confidence interval
     import numpy as np
     ratios = df[f"{lang1}"].apply(lambda x: len(x.split())) / df[f"{lang2}"].apply(lambda x: len(x.split()) if len(x.split()) > 0 else 1)
     z_scores = list(map(lambda ratio : ((ratio - LENGTH_RATIO_MEAN) / LENGTH_RATIO_STD), ratios))
