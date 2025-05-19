@@ -1,21 +1,36 @@
 import fasttext
+from math import ceil
 from huggingface_hub import hf_hub_download
 model_path = hf_hub_download(repo_id="cis-lmu/glotlid", filename="model.bin", cache_dir="./models")
 model = fasttext.load_model(model_path)
+import torch
+device = ""
+if torch.cuda.is_available():
+  device = "cuda"
+else:
+  device = "cpu"
+from sentence_transformers import SentenceTransformer
+labse_encoder = SentenceTransformer('sentence-transformers/LaBSE', device=device)
 lang_codes = {"english": "__label__eng_Latn", "sinhala": "__label__sin_Sinh"}
-LENGTH_RATIO_MEAN = 0
-LENGTH_RATIO_STD = 0
+lang_laser_encoders = {}
+import argparse
+torch.serialization.add_safe_globals([argparse.Namespace])
+from laser_encoders import LaserEncoderPipeline
+for language in lang_codes.keys():
+    lang_laser_encoders[language] = LaserEncoderPipeline(lang=language)
+LENGTH_RATIO_MEAN = 0.968442560084747
+LENGTH_RATIO_STD = 0.2514354396303809
 #Define length ratio parameters based on NLLB
-with open("data/en-si/NLLB.en-si.en") as f1, open("data/en-si/NLLB.en-si.si") as f2: 
-    ratios = []
-    for line1, line2 in zip(f1, f2):
-        line1 = line1.removesuffix("\n")
-        line2= line2.removesuffix("\n")
-        ratios.append(float(len(line1)/len(line2)))
-    import statistics 
-    LENGTH_RATIO_MEAN = statistics.fmean(ratios)
-    LENGTH_RATIO_STD = statistics.stdev(ratios)
-
+# with open("data/en-si/NLLB.en-si.en") as f1, open("data/en-si/NLLB.en-si.si") as f2: 
+#     ratios = []
+#     for line1, line2 in zip(f1, f2):
+#         line1 = line1.removesuffix("\n")
+#         line2= line2.removesuffix("\n")
+#         ratios.append(float(len(line1)/len(line2)))
+#     import statistics 
+#     LENGTH_RATIO_MEAN = statistics.fmean(ratios)
+#     LENGTH_RATIO_STD = statistics.stdev(ratios)
+#     print(str(LENGTH_RATIO_MEAN) + " " + str(LENGTH_RATIO_STD))
 
 #Check if the lengths of the sentence pairs match:
 def check_lengths(df, lang1, lang2, z_thresh=2.326):
@@ -62,15 +77,9 @@ def to_multilingual_embedding(language, sentences, model):
     else:
         device = "cpu"
     if model.lower() == "labse":
-        from sentence_transformers import SentenceTransformer
-        encoder = SentenceTransformer('sentence-transformers/LaBSE', device=device)
-        embedding = encoder.encode(sentences, device=device)
+        embedding = labse_encoder.encode(sentences, device=device)
     if model.lower() == "laser":
-        import argparse
-        torch.serialization.add_safe_globals([argparse.Namespace])
-        from laser_encoders import LaserEncoderPipeline
-        encoder = LaserEncoderPipeline(lang=language)
-        embedding = encoder.encode_sentences(sentences)
+        embedding = lang_laser_encoders[language].encode_sentences(sentences)
     return embedding
 
 #Find similarity scores for sentence pairs using cosine similarity
@@ -133,12 +142,34 @@ def main(files, langs, output, model):
     df = check_languages(df, langs)
     filtering_stats["After performing language identification"] = df.shape[0]
     #Calculate and filter according to the similarity scores for the sentence pairs
-    lang1_embedding = to_multilingual_embedding(langs[0], df[langs[0]], model)
-    lang2_embedding = to_multilingual_embedding(langs[1], df[langs[1]], model)
-    df["Similarity score"] = find_similarity_score(lang1_embedding, lang2_embedding)
+    # --- CHUNKED EMBEDDING AND SIMILARITY ---
+    BATCH_SIZE = 512  # You can lower this if still getting OOM
+
+    all_scores = []
+    total = df.shape[0]
+    num_batches = ceil(total / BATCH_SIZE)
+
+    for i in range(num_batches):
+        start = i * BATCH_SIZE
+        end = min((i + 1) * BATCH_SIZE, total)
+        
+        batch_df = df.iloc[start:end]
+        
+        lang1_embedding = to_multilingual_embedding(langs[0], batch_df[langs[0]].tolist(), model)
+        lang2_embedding = to_multilingual_embedding(langs[1], batch_df[langs[1]].tolist(), model)
+        
+        scores = find_similarity_score(lang1_embedding, lang2_embedding)
+        all_scores.extend(scores)
+
+    df["Similarity score"] = all_scores
+
     df = similarity_filter(df)
     filtering_stats["After filtering based on similarity scores"] = df.shape[0]
     #Filter according to word alignment scores for the sentence pairs
+    df = df[df[langs[0]].str.strip() != ""]
+    df = df[df[langs[1]].str.strip() != ""]
+    df = df.dropna(subset=[langs[0], langs[1]])
+    df = df.reset_index(drop=True)
     df= word_alignment_filter(df, langs)
     filtering_stats["After filtering based on word alignment"] = df.shape[0]
     #Create .tsv file with filtered output
@@ -147,8 +178,7 @@ def main(files, langs, output, model):
     for item in filtering_stats.keys():
         print(item + f": {filtering_stats[item]}\n")
 
-def main_cli():
-    import argparse 
+def main_cli(): 
     parser = argparse.ArgumentParser("filtering.py")
     parser.add_argument("--files", "-f", type=str, nargs="+")
     parser.add_argument("--langs", "-l", type=str, nargs="+")

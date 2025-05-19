@@ -53,7 +53,9 @@ def align_source_target(sentence_pair_list, source_dict, target_dict):
     split_sentence_pair_list = split_sentence_pair_list#[0:10]
     for sentence_pair in tqdm(split_sentence_pair_list):
         source_sent, target_sent = source_dict[sentence_pair[0]], target_dict[sentence_pair[1]]
-        #print(source_sent, target_sent)
+        # print(source_sent, target_sent)
+        if not source_sent or not target_sent: 
+          continue
         align_sent = align_model.get_word_aligns(source_sent, target_sent)['inter']
         #align_sent_bwd = align_model.get_word_aligns(target_sent, source_sent)['inter'] symmetrical so not needed
         #print(align_sent)
