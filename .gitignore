@@ -7,9 +7,4 @@ data/en-si/sin_Sinh.dev
 data/en-si/eng_Latn.dev
 data/en-si/eng_news_2024_30K-sentences.txt
 data/en-si/sin_wikipedia_2021_30K-sentences.txt 
-evaluation/en-si.output.txt
-evaluation/en.source.vec
-evaluation/si.target.vec 
-evaluation/mined.en
-evaluation/mined.si
-evaluation/filtered.en-si.tsv
+evaluation/

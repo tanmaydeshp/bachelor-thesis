@@ -142,8 +142,8 @@ def main(files, langs, output, model):
     df = check_languages(df, langs)
     filtering_stats["After performing language identification"] = df.shape[0]
     #Calculate and filter according to the similarity scores for the sentence pairs
-    # --- CHUNKED EMBEDDING AND SIMILARITY ---
-    BATCH_SIZE = 512  # You can lower this if still getting OOM
+   
+    BATCH_SIZE = 512  
 
     all_scores = []
     total = df.shape[0]
