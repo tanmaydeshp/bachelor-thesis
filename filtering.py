@@ -59,14 +59,54 @@ def moses_to_df(file1, file2, lang1, lang2):
     lang2_lines = []
     #Read Moses files into a Pandas DataFrame
     with open(file1, "r", encoding="utf-8") as f1, open(file2, "r", encoding="utf-8") as f2:
-        for line1, line2 in zip(f1, f2): 
+        # i = 0
+        for line1, line2 in list(zip(f1, f2)): 
+            # if i==512:
+            #     break 
             line1 = line1.removesuffix("\n")
             line2= line2.removesuffix("\n")
+            line1 = line1.replace("\u200d", "")
+            line2 = line2.replace("\u200d", "")
+            if line1 == "" or line2 == "":
+                continue 
             lang1_lines.append(line1)
             lang2_lines.append(line2)
+            # i = i +1 
     import pandas as pd
     df = pd.DataFrame({lang1: lang1_lines, lang2: lang2_lines})
     return df
+
+def tmx_to_df(file, lang1, lang2):
+    import xml.etree.ElementTree as ET
+    tmx_codes = {"english": "en", "sinhala": "si"}
+    lang1_lines = []
+    lang2_lines = []
+    tree = ET.parse(file)
+    root = tree.getroot()
+    body = root.find('body')
+    # i = 0
+    for tu in body.findall('tu'): #[115651:]:
+        # if i==512:
+        #     break
+        src_seg = tu[0][0]
+        tgt_seg = tu[1][0] 
+        if src_seg is None or tgt_seg is None: 
+            continue
+        if src_seg.text.strip() == "" or tgt_seg.text.strip() == "":
+            continue 
+        source_text = src_seg.text
+        target_text = tgt_seg.text 
+        source_text = source_text.replace("\u200d", "")
+        target_text = target_text.replace("\u200d", "")
+        source_text = source_text.removesuffix("\n")
+        target_text = target_text.removesuffix("\n")
+        lang1_lines.append(source_text)
+        lang2_lines.append(target_text)
+        # i = i +1 
+    import pandas as pd
+    df = pd.DataFrame({lang1: lang1_lines, lang2: lang2_lines})
+    return df
+
 
 #Convert a list of sentences into their multilingual embeddings according to the given model
 def to_multilingual_embedding(language, sentences, model):
@@ -128,15 +168,20 @@ def word_alignment_filter(df, langs):
     df["Alignment score"] = alignment_score
     return df[df["Alignment score"] >= 0.3]
 
-def main(files, langs, output, model):
+def main(files, langs, output, model, type="moses"):
+    import pandas as pd
+    df = None
     filtering_stats = {}
-    df = moses_to_df(files[0], files[1], langs[0], langs[1]) 
+    if type=="moses":
+        df = moses_to_df(files[0], files[1], langs[0], langs[1])
+    if type=="tmx":
+        df = tmx_to_df(files[0], langs[0], langs[1]) 
     filtering_stats["Raw corpus"] = df.shape[0]
     #Remove duplicated sentence pairs 
     df.drop_duplicates(inplace=True, ignore_index=True)
     filtering_stats["After dropping duplicates"] = df.shape[0]
     #Remove pairs where the ratios of words per sentence is too unlikely
-    df = check_lengths(df, "english", "sinhala")
+    df = check_lengths(df, langs[0], langs[1])
     filtering_stats["After removing length based outliers"] = df.shape[0]
     #Remove pairs where one of the sentences is in the wrong language
     df = check_languages(df, langs)
@@ -166,8 +211,8 @@ def main(files, langs, output, model):
     df = similarity_filter(df)
     filtering_stats["After filtering based on similarity scores"] = df.shape[0]
     #Filter according to word alignment scores for the sentence pairs
-    df = df[df[langs[0]].str.strip() != ""]
-    df = df[df[langs[1]].str.strip() != ""]
+    # df = df[df[langs[0]].str.strip() != ""]
+    # df = df[df[langs[1]].str.strip() != ""]
     df = df.dropna(subset=[langs[0], langs[1]])
     df = df.reset_index(drop=True)
     df= word_alignment_filter(df, langs)
@@ -181,12 +226,15 @@ def main(files, langs, output, model):
 def main_cli(): 
     parser = argparse.ArgumentParser("filtering.py")
     parser.add_argument("--files", "-f", type=str, nargs="+")
+    parser.add_argument("--type", "-t", type=str, required=False)
     parser.add_argument("--langs", "-l", type=str, nargs="+")
     parser.add_argument("--output", "-o", type=str)
     # parser.add_argument("--percentile", "-p", type=float)
     parser.add_argument("--model", "-m", type=str)
     args = parser.parse_args()
-    main(args.files, args.langs, args.output, args.model)
-
+    if args.type=="tmx":
+        main(args.files, args.langs, args.output, args.model, args.type)
+    else: 
+        main(args.files, args.langs, args.output, args.model, args.type)
 if __name__ == "__main__":
     main_cli()

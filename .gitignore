@@ -8,3 +8,5 @@ data/en-si/eng_Latn.dev
 data/en-si/eng_news_2024_30K-sentences.txt
 data/en-si/sin_wikipedia_2021_30K-sentences.txt 
 evaluation/
+data/en-si/GNOME.en-si.tmx
+data/en-si/OpenSubtitles.en-si.tmx 

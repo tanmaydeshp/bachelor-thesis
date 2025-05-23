@@ -54,9 +54,27 @@ def align_source_target(sentence_pair_list, source_dict, target_dict):
     for sentence_pair in tqdm(split_sentence_pair_list):
         source_sent, target_sent = source_dict[sentence_pair[0]], target_dict[sentence_pair[1]]
         # print(source_sent, target_sent)
-        if not source_sent or not target_sent: 
-          continue
-        align_sent = align_model.get_word_aligns(source_sent, target_sent)['inter']
+        # if source_sent == "" or target_sent == "": 
+        #   if source_sent in source_dict: 
+        #     del source_dict[source_sent]
+        #   if target_sent in target_dict: 
+        #       del target_dict[source_sent]
+        #   if sentence_pair in split_sentence_pair_list: 
+        #       split_sentence_pair_list.remove(sentence_pair)
+        #   if f"{sentence_pair[0]}\t{sentence_pair[1]}" in sentence_pair_list:
+        #     sentence_pair_list.remove(f"{sentence_pair[0]}\t{sentence_pair[1]}")
+        #   continue
+        try:
+            align_sent = align_model.get_word_aligns(source_sent, target_sent)['inter']
+        except ValueError as e: 
+            print(f"Error due to the following sentence pair: {source_sent} \t {target_sent}\nReason: {str(e)}\n")
+            # if source_sent in source_dict: 
+            #     del source_dict[source_sent]
+            # if target_sent in target_dict: 
+            #     del target_dict[target_sent]
+            # split_sentence_pair_list.remove(sentence_pair)
+            # sentence_pair_list.remove(f"{sentence_pair[0]}\t{sentence_pair[1]}")
+            continue
         #align_sent_bwd = align_model.get_word_aligns(target_sent, source_sent)['inter'] symmetrical so not needed
         #print(align_sent)
         alignement_list.append(align_sent) #[align_sent_fwd, align_sent_bwd])
